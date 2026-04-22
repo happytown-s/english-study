@@ -1,0 +1,4832 @@
+[
+  {
+    "category": "文法・語彙",
+    "question": "The company _____ its quarterly earnings report last Friday.",
+    "options": [
+      {
+        "text": "released",
+        "correct": true
+      },
+      {
+        "text": "releasing",
+        "correct": false
+      },
+      {
+        "text": "was releasing",
+        "correct": false
+      },
+      {
+        "text": "has releasing",
+        "correct": false
+      }
+    ],
+    "explanation": "【和訳】同社は先週金曜日に四半期決算報告書を発表した。\n【正解】released（発表した）\n【ポイント】過去の事実を表すので過去形releasedが正解。「last Friday」という明確な過去の時間が手がかり。現在進行形・現在完了進行形は不適切。"
+  },
+  {
+    "category": "文法・語彙",
+    "question": "All employees are required to attend the safety training _____ is scheduled for next Monday.",
+    "options": [
+      {
+        "text": "that",
+        "correct": true
+      },
+      {
+        "text": "which is",
+        "correct": false
+      },
+      {
+        "text": "who",
+        "correct": false
+      },
+      {
+        "text": "whom",
+        "correct": false
+      }
+    ],
+    "explanation": "【和訳】全従業員は、来週月曜日に予定されている安全研修に参加することが義務付けられている。\n【正解】that（〜するところの）\n【ポイント】先行詞「the safety training」は物なので、関係代名詞which/thatを使う。who/whomは人のみに使用。選択肢「which is」は二重の動詞となり文法エラー。"
+  },
+  {
+    "category": "文法・語彙",
+    "question": "The marketing team has been working _____ since the new campaign was launched.",
+    "options": [
+      {
+        "text": "diligently",
+        "correct": true
+      },
+      {
+        "text": "diligent",
+        "correct": false
+      },
+      {
+        "text": "diligence",
+        "correct": false
+      },
+      {
+        "text": "more diligent",
+        "correct": false
+      }
+    ],
+    "explanation": "【和訳】マーケティングチームは、新しいキャンペーンが開始されて以来、熱心に取り組んでいる。\n【正解】diligently（熱心に、勤勉に）\n【ポイント】has been working（現在完了進行形）を修飾する副詞が必要。diligentは形容詞、diligenceは名詞なので不適切。副詞の-diligentlyが正解。"
+  },
+  {
+    "category": "文法・語彙",
+    "question": "Ms. Tanaka asked her assistant to _____ the meeting room before the presentation.",
+    "options": [
+      {
+        "text": "set up",
+        "correct": true
+      },
+      {
+        "text": "set off",
+        "correct": false
+      },
+      {
+        "text": "set out",
+        "correct": false
+      },
+      {
+        "text": "set back",
+        "correct": false
+      }
+    ],
+    "explanation": "【和訳】田中さんはアシスタントに、プレゼンテーション前に会議室を準備するよう頼んだ。\n【正解】set up（準備する、設置する）\n【ポイント】動詞setの前置詞句。set up=準備する、set off=出発する、set out=出発する/着手する、set back=遅らせる。文脈から「準備」が適切。"
+  },
+  {
+    "category": "文法・語彙",
+    "question": "The CEO emphasized _____ importance of maintaining strong client relationships.",
+    "options": [
+      {
+        "text": "the",
+        "correct": true
+      },
+      {
+        "text": "a",
+        "correct": false
+      },
+      {
+        "text": "an",
+        "correct": false
+      },
+      {
+        "text": "of",
+        "correct": false
+      }
+    ],
+    "explanation": "【和訳】CEOは、強力な顧客関係を維持することの重要性を強調した。\n【正解】the（その）\n【ポイント】「importance of ~ing」は「〜することの重要性」という定型表現。ここでは特定の重要性を指すため定冠詞theが適切。aは不特定、ofは名詞の前には置けない。"
+  },
+  {
+    "category": "文法・語彙",
+    "question": "Neither the manager _____ the employees knew about the upcoming restructuring plan.",
+    "options": [
+      {
+        "text": "nor",
+        "correct": true
+      },
+      {
+        "text": "or",
+        "correct": false
+      },
+      {
+        "text": "and",
+        "correct": false
+      },
+      {
+        "text": "but",
+        "correct": false
+      }
+    ],
+    "explanation": "【和訳】マネージャーも従業員も、今後の再編計画について知らなかった。\n【正解】nor（〜も〜ない）\n【ポイント】Neither A nor B「AもBも〜ない」という相関接続詞。Neitherで始まっているためnorで対になる。or/and/butはNeitherとは組にならない。"
+  },
+  {
+    "category": "文法・語彙",
+    "question": "The proposal was _____ approved by the board of directors last week.",
+    "options": [
+      {
+        "text": "unanimously",
+        "correct": true
+      },
+      {
+        "text": "unanimous",
+        "correct": false
+      },
+      {
+        "text": "unanimity",
+        "correct": false
+      },
+      {
+        "text": "unanimousness",
+        "correct": false
+      }
+    ],
+    "explanation": "【和訳】提案は先週、取締役会によって満場一致で承認された。\n【正解】unanimously（満場一致で）\n【ポイント】was approved（受動態・過去形）を修飾する副詞が必要。unanimousは形容詞、unanimity/unanimousnessは名詞なので不適切。"
+  },
+  {
+    "category": "文法・語彙",
+    "question": "If we _____ the deadline, we could lose the client.",
+    "options": [
+      {
+        "text": "miss",
+        "correct": true
+      },
+      {
+        "text": "will miss",
+        "correct": false
+      },
+      {
+        "text": "missed",
+        "correct": false
+      },
+      {
+        "text": "missing",
+        "correct": false
+      }
+    ],
+    "explanation": "【和訳】もし我々が期限を逃したら、顧客を失う可能性がある。\n【正解】miss（逃す）\n【ポイント】第2条件法（仮定法過去）：If + 主語 + 過去形, 主語 + could/would + 動詞の原形。if節内は現在形will missや過去進行形にはならない。"
+  },
+  {
+    "category": "文法・語彙",
+    "question": "The new software update is compatible _____ all major operating systems.",
+    "options": [
+      {
+        "text": "with",
+        "correct": true
+      },
+      {
+        "text": "to",
+        "correct": false
+      },
+      {
+        "text": "for",
+        "correct": false
+      },
+      {
+        "text": "about",
+        "correct": false
+      }
+    ],
+    "explanation": "【和訳】新しいソフトウェアのアップデートは、すべての主要なオペレーティングシステムと互換性がある。\n【正解】with（〜と互換性がある）\n【ポイント】be compatible with ~で「〜と互換性がある」という決まり文句。be compatible to/for/aboutは不自然。"
+  },
+  {
+    "category": "文法・語彙",
+    "question": "The intern showed great _____ in handling difficult customer complaints.",
+    "options": [
+      {
+        "text": "initiative",
+        "correct": true
+      },
+      {
+        "text": "initial",
+        "correct": false
+      },
+      {
+        "text": "initiate",
+        "correct": false
+      },
+      {
+        "text": "initiation",
+        "correct": false
+      }
+    ],
+    "explanation": "【和訳】インターンは、難しい顧客の苦情を処理するにおいて大きな積極性を示した。\n【正解】initiative（自主性、積極性）\n【ポイント】greatの後に名詞が必要。initial=最初の（形容詞）、initiate=開始する（動詞）、initiation=開始・入会（名詞）。「自主性・積極性」の意味でinitiativeが正解。"
+  },
+  {
+    "category": "文法・語彙",
+    "question": "The factory _____ produces automotive parts will close at the end of the year.",
+    "options": [
+      {
+        "text": "which",
+        "correct": true
+      },
+      {
+        "text": "who",
+        "correct": false
+      },
+      {
+        "text": "whom",
+        "correct": false
+      },
+      {
+        "text": "whose",
+        "correct": false
+      }
+    ],
+    "explanation": "【和訳】自動車部品を製造する工場は、年末に閉鎖される。\n【正解】which（〜するところの）\n【ポイント】先行詞「The factory」は物なので関係代名詞which/that。who/whomは人のみ、whoseは所有格。"
+  },
+  {
+    "category": "文法・語彙",
+    "question": "By the time the audit is completed, the finance team _____ all the necessary documents.",
+    "options": [
+      {
+        "text": "will have prepared",
+        "correct": true
+      },
+      {
+        "text": "prepares",
+        "correct": false
+      },
+      {
+        "text": "has prepared",
+        "correct": false
+      },
+      {
+        "text": "is preparing",
+        "correct": false
+      }
+    ],
+    "explanation": "【和訳】監査が完了するまでに、財務チームは必要な書類をすべて準備してしまうだろう。\n【正解】will have prepared（準備してしまうだろう）\n【ポイント】By the time + 現在形の文では、主節に未来完了形will have + 過去分詞を使う。未来のある時点までに完了する動作を表す。"
+  },
+  {
+    "category": "文法・語彙",
+    "question": "The company decided to _____ its operations in Southeast Asia to reduce costs.",
+    "options": [
+      {
+        "text": "expand",
+        "correct": true
+      },
+      {
+        "text": "expend",
+        "correct": false
+      },
+      {
+        "text": "expose",
+        "correct": false
+      },
+      {
+        "text": "expire",
+        "correct": false
+      }
+    ],
+    "explanation": "【和訳】同社はコスト削減のため、東南アジアでの事業を拡大することを決定した。\n【正解】expand（拡大する）\n【ポイント】expand=拡大する、expend=費やす、expose=曝す、expire=期限が切れる。綴りが似ているが意味が異なる。「事業を拡大する」はexpand operations。"
+  },
+  {
+    "category": "文法・語彙",
+    "question": "Ms. Chen _____ in the accounting department for over ten years before she was promoted.",
+    "options": [
+      {
+        "text": "had worked",
+        "correct": true
+      },
+      {
+        "text": "has worked",
+        "correct": false
+      },
+      {
+        "text": "was working",
+        "correct": false
+      },
+      {
+        "text": "worked",
+        "correct": false
+      }
+    ],
+    "explanation": "【和訳】チェンさんは、昇進する前に会計部門で10年以上働いていた。\n【正解】had worked（働いていた）\n【ポイント】過去完了形（had + 過去分詞）：過去の出来事（was promoted）より前に完了していた動作を表す。「〜する前に〜していた」の構文で使われる。"
+  },
+  {
+    "category": "文法・語彙",
+    "question": "The conference room is _____ small to accommodate all participants.",
+    "options": [
+      {
+        "text": "too",
+        "correct": true
+      },
+      {
+        "text": "very",
+        "correct": false
+      },
+      {
+        "text": "so",
+        "correct": false
+      },
+      {
+        "text": "extremely",
+        "correct": false
+      }
+    ],
+    "explanation": "【和訳】会議室はすべての参加者を収容するには小さすぎる。\n【正解】too（〜すぎる）\n【ポイント】too ~ to ...で「...するには〜すぎる」という構文。very/so/extremely + 形容詞だけでは「〜すぎてできない」という意味にならない。"
+  },
+  {
+    "category": "文法・語彙",
+    "question": "The shipment was delayed _____ the severe weather conditions.",
+    "options": [
+      {
+        "text": "due to",
+        "correct": true
+      },
+      {
+        "text": "because",
+        "correct": false
+      },
+      {
+        "text": "since",
+        "correct": false
+      },
+      {
+        "text": "although",
+        "correct": false
+      }
+    ],
+    "explanation": "【和訳】荷物は悪天候のため遅延した。\n【正解】due to（〜のため）\n【ポイント】due to + 名詞句で「〜が原因で」。because/sinceは節（主語+動詞）が必要。althoughは「〜だが」で意味が合わない。"
+  },
+  {
+    "category": "文法・語彙",
+    "question": "_____ reviewing the contract, please make sure all terms are clearly understood.",
+    "options": [
+      {
+        "text": "Before",
+        "correct": true
+      },
+      {
+        "text": "Despite",
+        "correct": false
+      },
+      {
+        "text": "While",
+        "correct": false
+      },
+      {
+        "text": "Because",
+        "correct": false
+      }
+    ],
+    "explanation": "【和訳】契約書を審査する前に、すべての条件が明確に理解されていることを確認してください。\n【正解】Before（〜する前に）\n【ポイント】契約審査の順序を示す。「Before reviewing（審査する前に）」が論理的。Despite=〜にもかかわらず、While=〜している間、Because=〜なので。"
+  },
+  {
+    "category": "文法・語彙",
+    "question": "The company's revenue this quarter exceeded _____ of the previous quarter.",
+    "options": [
+      {
+        "text": "that",
+        "correct": true
+      },
+      {
+        "text": "those",
+        "correct": false
+      },
+      {
+        "text": "it",
+        "correct": false
+      },
+      {
+        "text": "them",
+        "correct": false
+      }
+    ],
+    "explanation": "【和訳】今四半期の会社の収益は、前四半期のそれを上回った。\n【正解】that（それ）\n【ポイント】比較対象を明確にするための代名詞that。revenue（単数・不可算名詞）の代わりなのでthose（複数）は不可。it/themは重複を避けるため使わないのが自然。"
+  },
+  {
+    "category": "文法・語彙",
+    "question": "We need to _____ a meeting to discuss the budget allocation for the next fiscal year.",
+    "options": [
+      {
+        "text": "schedule",
+        "correct": true
+      },
+      {
+        "text": "scheme",
+        "correct": false
+      },
+      {
+        "text": "scholar",
+        "correct": false
+      },
+      {
+        "text": "scatter",
+        "correct": false
+      }
+    ],
+    "explanation": "【和訳】次年度の予算配分について話し合うための会議を予定する必要がある。\n【正解】schedule（予定する、スケジュールする）\n【ポイント】schedule=予定する、scheme=計画する（名詞用法が多い）、scholar=学者、scatter=散らばす。意味的にschedule a meetingが適切。"
+  },
+  {
+    "category": "文法・語彙",
+    "question": "The supervisor asked the team to work _____ to finish the project on time.",
+    "options": [
+      {
+        "text": "overtime",
+        "correct": true
+      },
+      {
+        "text": "undertime",
+        "correct": false
+      },
+      {
+        "text": "in time",
+        "correct": false
+      },
+      {
+        "text": "on time",
+        "correct": false
+      }
+    ],
+    "explanation": "【和訳】上司はチームに、プロジェクトを時間通りに終わらせるために残業するよう頼んだ。\n【正解】overtime（残業して）\n【ポイント】work overtime=残業する。undertimeは定着していない。in time=間に合って、on time=時間通りに。文脈から残業が適切。"
+  },
+  {
+    "category": "文法・語彙",
+    "question": "The new regulation will _____ all companies with more than 50 employees.",
+    "options": [
+      {
+        "text": "affect",
+        "correct": true
+      },
+      {
+        "text": "effect",
+        "correct": false
+      },
+      {
+        "text": "afford",
+        "correct": false
+      },
+      {
+        "text": "offer",
+        "correct": false
+      }
+    ],
+    "explanation": "【和訳】新規制は50人以上の従業員を雇うすべての企業に影響を与える。\n【正解】affect（影響を与える）\n【ポイント】affect=動詞「影響を与える」、effect=名詞「効果/影響」（動詞用法は「もたらす」で不適切）。afford=買える、offer=提供する。"
+  },
+  {
+    "category": "文法・語彙",
+    "question": "Please let me know if you need any _____ information regarding the new product.",
+    "options": [
+      {
+        "text": "further",
+        "correct": true
+      },
+      {
+        "text": "farther",
+        "correct": false
+      },
+      {
+        "text": "furthest",
+        "correct": false
+      },
+      {
+        "text": "father",
+        "correct": false
+      }
+    ],
+    "explanation": "【和訳】新製品に関する追加情報が必要でしたら、お知らせください。\n【正解】further（さらに、追加の）\n【ポイント】further=さらなる・追加の（情報など抽象的なものに使う）。farther/furthest=物理的な距離。father=父。"
+  },
+  {
+    "category": "文法・語彙",
+    "question": "The firm has been _____ as one of the best employers in the region.",
+    "options": [
+      {
+        "text": "recognized",
+        "correct": true
+      },
+      {
+        "text": "recommended",
+        "correct": false
+      },
+      {
+        "text": "recorded",
+        "correct": false
+      },
+      {
+        "text": "recovered",
+        "correct": false
+      }
+    ],
+    "explanation": "【和訳】同社は地域で最も優れた雇用主の一つとして認められている。\n【正解】recognized（認められている）\n【ポイント】be recognized as ~で「〜として認められている」。recommended=推薦される、recorded=記録される、required=要求される。文脈から「認定・評価」が適切。"
+  },
+  {
+    "category": "文法・語彙",
+    "question": "The report _____ by the research department will be presented at the annual conference.",
+    "options": [
+      {
+        "text": "prepared",
+        "correct": true
+      },
+      {
+        "text": "preparing",
+        "correct": false
+      },
+      {
+        "text": "prepares",
+        "correct": false
+      },
+      {
+        "text": "was prepared",
+        "correct": false
+      }
+    ],
+    "explanation": "【和訳】研究部門によって準備された報告書は、年次会議で発表される。\n【正解】prepared（準備された）\n【ポイント】過去分詞による後置修飾。The report (which was) prepared by... の省略形。"
+  },
+  {
+    "category": "文法・語彙",
+    "question": "Employees are encouraged to submit their expense _____ by the end of each month.",
+    "options": [
+      {
+        "text": "reports",
+        "correct": true
+      },
+      {
+        "text": "reporting",
+        "correct": false
+      },
+      {
+        "text": "reported",
+        "correct": false
+      },
+      {
+        "text": "report",
+        "correct": false
+      }
+    ],
+    "explanation": "【和訳】従業員は毎月末までに経費報告書を提出することが推奨されている。\n【正解】reports（報告書）\n【ポイント】expense reportsで「経費報告書」が複数形で自然。文脈上、毎月の提出なので複数形が適切。"
+  },
+  {
+    "category": "文法・語彙",
+    "question": "The hotel offers a _____ discount for corporate clients who book in advance.",
+    "options": [
+      {
+        "text": "substantial",
+        "correct": true
+      },
+      {
+        "text": "substance",
+        "correct": false
+      },
+      {
+        "text": "substantially",
+        "correct": false
+      },
+      {
+        "text": "substantiate",
+        "correct": false
+      }
+    ],
+    "explanation": "【和訳】ホテルは事前予約する法人顧客に大幅な割引を提供している。\n【正解】substantial（大幅な、相当な）\n【ポイント】discount（割引）を修飾する形容詞。「大幅な割引」はsubstantial discountが定番表現。"
+  },
+  {
+    "category": "文法・語彙",
+    "question": "The merger between the two companies was _____ finalized after months of negotiation.",
+    "options": [
+      {
+        "text": "successfully",
+        "correct": true
+      },
+      {
+        "text": "success",
+        "correct": false
+      },
+      {
+        "text": "successful",
+        "correct": false
+      },
+      {
+        "text": "succeed",
+        "correct": false
+      }
+    ],
+    "explanation": "【和訳】両社の合併は数ヶ月の交渉の末、無事に最終合意に至った。\n【正解】successfully（無事に、成功裏に）\n【ポイント】was finalized（受動態）を修飾する副詞が必要。successfullyは「成功裏に」で文脈に合う。successfulは形容詞なので不適切。"
+  },
+  {
+    "category": "文法・語彙",
+    "question": "The candidate _____ resume was selected for the interview will be contacted by Friday.",
+    "options": [
+      {
+        "text": "whose",
+        "correct": true
+      },
+      {
+        "text": "who",
+        "correct": false
+      },
+      {
+        "text": "which",
+        "correct": false
+      },
+      {
+        "text": "whom",
+        "correct": false
+      }
+    ],
+    "explanation": "【和訳】履歴書が面接のために選ばれた候補者は、金曜日までに連絡が届く。\n【正解】whose（〜の）\n【ポイント】関係代名詞の所有格。whose resume = whose + 名詞で「その人の履歴書」。who/whomは所有格として使えない。"
+  },
+  {
+    "category": "文法・語彙",
+    "question": "It is essential that every employee _____ the safety guidelines during factory tours.",
+    "options": [
+      {
+        "text": "follow",
+        "correct": true
+      },
+      {
+        "text": "follows",
+        "correct": false
+      },
+      {
+        "text": "following",
+        "correct": false
+      },
+      {
+        "text": "followed",
+        "correct": false
+      }
+    ],
+    "explanation": "【和訳】すべての従業員が工場見学中に安全ガイドラインに従うことは必須である。\n【正解】follow（従う）\n【ポイント】It is essential that + 主語 + 動詞の原形（仮定法現在）。suggest/recommend/demand/essentialなどに続くthat節では動詞の原形を使う。"
+  },
+  {
+    "category": "文法・語彙",
+    "question": "The profit margins have been _____ since the introduction of the new cost-cutting measures.",
+    "options": [
+      {
+        "text": "improving",
+        "correct": true
+      },
+      {
+        "text": "improve",
+        "correct": false
+      },
+      {
+        "text": "improved",
+        "correct": false
+      },
+      {
+        "text": "improvement",
+        "correct": false
+      }
+    ],
+    "explanation": "【和訳】利益率は、新しいコスト削減措置の導入以来、改善し続けている。\n【正解】improving（改善している）\n【ポイント】have been + 現在分詞 = 現在完了進行形。「〜以来ずっと改善し続けている」という継続を表す。"
+  },
+  {
+    "category": "文法・語彙",
+    "question": "The presentation was so _____ that several clients expressed interest in our services.",
+    "options": [
+      {
+        "text": "compelling",
+        "correct": true
+      },
+      {
+        "text": "compelled",
+        "correct": false
+      },
+      {
+        "text": "compellingly",
+        "correct": false
+      },
+      {
+        "text": "compel",
+        "correct": false
+      }
+    ],
+    "explanation": "【和訳】プレゼンテーションは非常に魅力的で、数人の顧客が当社のサービスに興味を示した。\n【正解】compelling（魅力的な、説得力のある）\n【ポイント】so ~ that ...構文。「プレゼンが魅力的だったので、顧客が興味を示した」。compellingは人を惹きつける意味でビジネス英語で頻出。"
+  },
+  {
+    "category": "文法・語彙",
+    "question": "The training session was _____ designed to help new hires adapt to the company culture.",
+    "options": [
+      {
+        "text": "specifically",
+        "correct": true
+      },
+      {
+        "text": "specific",
+        "correct": false
+      },
+      {
+        "text": "specify",
+        "correct": false
+      },
+      {
+        "text": "specification",
+        "correct": false
+      }
+    ],
+    "explanation": "【和訳】研修セッションは、新入社員が社風に適応できるよう特別に設計された。\n【正解】specifically（特別に、具体的に）\n【ポイント】was designed（受動態）を修飾する副詞が必要。specifically designed = 「特定の目的のために設計された」。"
+  },
+  {
+    "category": "文法・語彙",
+    "question": "The CEO asked the HR department to _____ the hiring process to fill the vacant positions quickly.",
+    "options": [
+      {
+        "text": "expedite",
+        "correct": true
+      },
+      {
+        "text": "expend",
+        "correct": false
+      },
+      {
+        "text": "expose",
+        "correct": false
+      },
+      {
+        "text": "expel",
+        "correct": false
+      }
+    ],
+    "explanation": "【和訳】CEOは人事部に、空席を早く埋めるため採用プロセスを迅速化するよう頼んだ。\n【正解】expedite（迅速化する）\n【ポイント】expedite=手続きを迅速にする。ビジネス用語として頻出。「採用の迅速化」はexpedite the hiring processが適切。"
+  },
+  {
+    "category": "文法・語彙",
+    "question": "_____ the economic downturn, the company managed to increase its market share.",
+    "options": [
+      {
+        "text": "Despite",
+        "correct": true
+      },
+      {
+        "text": "Because",
+        "correct": false
+      },
+      {
+        "text": "Due to",
+        "correct": false
+      },
+      {
+        "text": "Since",
+        "correct": false
+      }
+    ],
+    "explanation": "【和訳】景気後退にもかかわらず、同社は市場シェアを拡大することに成功した。\n【正解】Despite（〜にもかかわらず）\n【ポイント】Despite + 名詞句で「〜にもかかわらず」の逆接を表す。経済的不況にもかかわらず成果を出したという対比。"
+  },
+  {
+    "category": "文法・語彙",
+    "question": "The consultant provided _____ recommendations for improving operational efficiency.",
+    "options": [
+      {
+        "text": "valuable",
+        "correct": true
+      },
+      {
+        "text": "value",
+        "correct": false
+      },
+      {
+        "text": "valuation",
+        "correct": false
+      },
+      {
+        "text": "valued",
+        "correct": false
+      }
+    ],
+    "explanation": "【和訳】コンサルタントは、業務効率の改善に関する貴重な推奨事項を提供した。\n【正解】valuable（貴重な）\n【ポイント】recommendations（推奨事項）を修飾する形容詞としてvaluableが適切。"
+  },
+  {
+    "category": "文法・語彙",
+    "question": "All visitors must _____ at the reception desk before entering the building.",
+    "options": [
+      {
+        "text": "sign in",
+        "correct": true
+      },
+      {
+        "text": "sign up",
+        "correct": false
+      },
+      {
+        "text": "sign out",
+        "correct": false
+      },
+      {
+        "text": "sign off",
+        "correct": false
+      }
+    ],
+    "explanation": "【和訳】すべての訪問者は建物に入る前に受付でサインインしなければならない。\n【正解】sign in（サインインする、入館記録する）\n【ポイント】sign in = 登録する・入場する際の記録。受付での手続きの文脈で定番表現。"
+  },
+  {
+    "category": "文法・語彙",
+    "question": "The board of directors voted to _____ the proposed acquisition at the next meeting.",
+    "options": [
+      {
+        "text": "approve",
+        "correct": true
+      },
+      {
+        "text": "prove",
+        "correct": false
+      },
+      {
+        "text": "improve",
+        "correct": false
+      },
+      {
+        "text": "disprove",
+        "correct": false
+      }
+    ],
+    "explanation": "【和訳】取締役会は、次回の会議で提案された買収を承認するよう投票した。\n【正解】approve（承認する）\n【ポイント】voted to approve = 「承認するよう投票した」。買収（acquisition）を承認するというビジネス文脈。"
+  },
+  {
+    "category": "文法・語彙",
+    "question": "The new policy is _____ to reduce workplace accidents by thirty percent.",
+    "options": [
+      {
+        "text": "intended",
+        "correct": true
+      },
+      {
+        "text": "intending",
+        "correct": false
+      },
+      {
+        "text": "intent",
+        "correct": false
+      },
+      {
+        "text": "intensively",
+        "correct": false
+      }
+    ],
+    "explanation": "【和訳】新ポリシーは、職場の事故を30%減らすことを目的としている。\n【正解】intended（意図された、目的とされた）\n【ポイント】be intended to ~ = 「〜することを目的としている」。政策や計画の目的を述べる定番表現。"
+  },
+  {
+    "category": "文法・語彙",
+    "question": "The warehouse manager is _____ for maintaining accurate inventory records.",
+    "options": [
+      {
+        "text": "responsible",
+        "correct": true
+      },
+      {
+        "text": "responsive",
+        "correct": false
+      },
+      {
+        "text": "response",
+        "correct": false
+      },
+      {
+        "text": "responding",
+        "correct": false
+      }
+    ],
+    "explanation": "【和訳】倉庫管理者は正確な在庫記録を維持する責任がある。\n【正解】responsible（責任がある）\n【ポイント】be responsible for ~ = 「〜の責任がある」。管理者の役割を説明する際の基本表現。"
+  },
+  {
+    "category": "文法・語彙",
+    "question": "The sales figures for this quarter are _____ higher than those of the same period last year.",
+    "options": [
+      {
+        "text": "significantly",
+        "correct": true
+      },
+      {
+        "text": "significant",
+        "correct": false
+      },
+      {
+        "text": "signify",
+        "correct": false
+      },
+      {
+        "text": "significance",
+        "correct": false
+      }
+    ],
+    "explanation": "【和訳】今四半期の売上高は、昨年同時期と比べて大幅に高い。\n【正解】significantly（大幅に、著しく）\n【ポイント】higher（比較級）を修飾する副詞が必要。significantly higherで「大幅に高い」がビジネス英語で頻出。"
+  },
+  {
+    "category": "短文穴埋め Part5",
+    "question": "The marketing director _____ that the advertising budget should be increased for the next quarter.",
+    "options": [
+      {
+        "text": "suggested",
+        "correct": true
+      },
+      {
+        "text": "suggesting",
+        "correct": false
+      },
+      {
+        "text": "suggestion",
+        "correct": false
+      },
+      {
+        "text": "suggestively",
+        "correct": false
+      }
+    ],
+    "explanation": "【和訳】マーケティングディレクターは、次四半期の広告予算を増額すべきだと提案した。\n【正解】suggested（提案した）\n【ポイント】suggested that + 主語 + should + 動詞の原形（shouldは省略可能）。仮定法の提案表現。"
+  },
+  {
+    "category": "短文穴埋め Part5",
+    "question": "Customers who purchase products worth more than $500 are eligible _____ a free gift.",
+    "options": [
+      {
+        "text": "for",
+        "correct": true
+      },
+      {
+        "text": "to",
+        "correct": false
+      },
+      {
+        "text": "with",
+        "correct": false
+      },
+      {
+        "text": "at",
+        "correct": false
+      }
+    ],
+    "explanation": "【和訳】500ドル以上の製品を購入した顧客は無料ギフトの資格がある。\n【正解】for（〜に対して資格がある）\n【ポイント】be eligible for ~ = 「〜の資格がある」。定冠詞a free giftのforが適切。"
+  },
+  {
+    "category": "短文穴埋め Part5",
+    "question": "The new employee orientation program is _____ to begin on the first Monday of each month.",
+    "options": [
+      {
+        "text": "scheduled",
+        "correct": true
+      },
+      {
+        "text": "scheduling",
+        "correct": false
+      },
+      {
+        "text": "schedule",
+        "correct": false
+      },
+      {
+        "text": "schedules",
+        "correct": false
+      }
+    ],
+    "explanation": "【和訳】新入社員オリエンテーションプログラムは毎月第1月曜日に開始される予定だ。\n【正解】scheduled（予定されている）\n【ポイント】be scheduled to ~ = 「〜する予定である」。is scheduled to beginで「開始予定」を表す。"
+  },
+  {
+    "category": "短文穴埋め Part5",
+    "question": "The IT department is currently _____ the company's network security system.",
+    "options": [
+      {
+        "text": "upgrading",
+        "correct": true
+      },
+      {
+        "text": "upgraded",
+        "correct": false
+      },
+      {
+        "text": "upgrade",
+        "correct": false
+      },
+      {
+        "text": "to upgrade",
+        "correct": false
+      }
+    ],
+    "explanation": "【和訳】IT部門は現在、会社のネットワークセキュリティシステムをアップグレードしている。\n【正解】upgrading（アップグレードしている）\n【ポイント】is currently + 現在分詞 = 現在進行形。「現在アップグレード中」を表す。"
+  },
+  {
+    "category": "短文穴埋め Part5",
+    "question": "_____ of the two candidates has the required experience for the management position.",
+    "options": [
+      {
+        "text": "Neither",
+        "correct": true
+      },
+      {
+        "text": "Both",
+        "correct": false
+      },
+      {
+        "text": "All",
+        "correct": false
+      },
+      {
+        "text": "Either",
+        "correct": false
+      }
+    ],
+    "explanation": "【和訳】二人の候補者のどちらも、管理職に必要な経験を持っていない。\n【正解】Neither（どちらも〜ない）\n【ポイント】Neither of ~ = 「〜のどちらも〜ない」。単数扱い。「of the two candidates」があるためNeitherが適切。"
+  },
+  {
+    "category": "短文穴埋め Part5",
+    "question": "The contract must be signed by both parties _____ it becomes legally binding.",
+    "options": [
+      {
+        "text": "before",
+        "correct": true
+      },
+      {
+        "text": "after",
+        "correct": false
+      },
+      {
+        "text": "since",
+        "correct": false
+      },
+      {
+        "text": "although",
+        "correct": false
+      }
+    ],
+    "explanation": "【和訳】契約は両当事者が署名しなければ法的拘束力を持たない。\n【正解】before（〜する前に）\n【ポイント】契約が法的効力を持つ前の条件を示す。署名→法的拘束力の順序でbeforeが論理的。"
+  },
+  {
+    "category": "短文穴埋め Part5",
+    "question": "The restaurant offers a wide _____ of dishes from various international cuisines.",
+    "options": [
+      {
+        "text": "selection",
+        "correct": true
+      },
+      {
+        "text": "selective",
+        "correct": false
+      },
+      {
+        "text": "selecting",
+        "correct": false
+      },
+      {
+        "text": "selected",
+        "correct": false
+      }
+    ],
+    "explanation": "【和訳】レストランは様々な国際料理の幅広い品揃えを提供している。\n【正解】selection（品揃え、選択）\n【ポイント】a wide selection of ~ = 「〜の幅広い品揃え」。料理のメニューに関する定番表現。"
+  },
+  {
+    "category": "短文穴埋め Part5",
+    "question": "Ms. Park was promoted to regional manager _____ her outstanding sales performance.",
+    "options": [
+      {
+        "text": "because of",
+        "correct": true
+      },
+      {
+        "text": "in spite of",
+        "correct": false
+      },
+      {
+        "text": "in addition to",
+        "correct": false
+      },
+      {
+        "text": "on behalf of",
+        "correct": false
+      }
+    ],
+    "explanation": "【和訳】パクさんは優れた営業成績により地域マネージャーに昇進した。\n【正解】because of（〜のために）\n【ポイント】because of + 名詞句 = 「〜が理由で」。her outstanding sales performance（名詞句）が続くのでbecause ofが適切。"
+  },
+  {
+    "category": "短文穴埋め Part5",
+    "question": "The hotel's occupancy rate has _____ by 15 percent compared to the same time last year.",
+    "options": [
+      {
+        "text": "decreased",
+        "correct": true
+      },
+      {
+        "text": "increased",
+        "correct": false
+      },
+      {
+        "text": "deleted",
+        "correct": false
+      },
+      {
+        "text": "deduced",
+        "correct": false
+      }
+    ],
+    "explanation": "【和訳】ホテルの稼働率は昨年同時期と比べて15%低下した。\n【正解】decreased（低下した）\n【ポイント】has + 過去分詞 = 現在完了形。「15%低下した」という結果を現在に至るまで表す。"
+  },
+  {
+    "category": "短文穴埋め Part5",
+    "question": "The annual report indicates that the company's net income has _____ steadily over the past five years.",
+    "options": [
+      {
+        "text": "grown",
+        "correct": true
+      },
+      {
+        "text": "growing",
+        "correct": false
+      },
+      {
+        "text": "grow",
+        "correct": false
+      },
+      {
+        "text": "growth",
+        "correct": false
+      }
+    ],
+    "explanation": "【和訳】年次報告書によると、同社の純利益は過去5年間着実に成長している。\n【正解】grown（成長した）\n【ポイント】has + 過去分詞 = 現在完了形。「過去5年間成長し続けている」という継続・現在への影響を表す。"
+  },
+  {
+    "category": "短文穴埋め Part5",
+    "question": "Employees _____ have completed the certification program will receive a salary increase.",
+    "options": [
+      {
+        "text": "who",
+        "correct": true
+      },
+      {
+        "text": "which",
+        "correct": false
+      },
+      {
+        "text": "whom",
+        "correct": false
+      },
+      {
+        "text": "whose",
+        "correct": false
+      }
+    ],
+    "explanation": "【和訳】認定プログラムを修了した従業員は昇給を受ける。\n【正解】who（〜する人々）\n【ポイント】先行詞「Employees」は人なので関係代名詞whoが適切。who have completedで「修了した従業員」。"
+  },
+  {
+    "category": "短文穴埋め Part5",
+    "question": "The workshop on project management was well _____ by all participants.",
+    "options": [
+      {
+        "text": "received",
+        "correct": true
+      },
+      {
+        "text": "achieving",
+        "correct": false
+      },
+      {
+        "text": "believing",
+        "correct": false
+      },
+      {
+        "text": "perceiving",
+        "correct": false
+      }
+    ],
+    "explanation": "【和訳】プロジェクトマネジメントのワークショップは全参加者から好評だった。\n【正解】received（受け入れられた）\n【ポイント】was well received = 「好評だった、好意的に受け入れられた」。受動態の慣用表現。"
+  },
+  {
+    "category": "短文穴埋め Part5",
+    "question": "Please _____ this form and return it to the HR department by the end of the week.",
+    "options": [
+      {
+        "text": "complete",
+        "correct": true
+      },
+      {
+        "text": "comply",
+        "correct": false
+      },
+      {
+        "text": "compose",
+        "correct": false
+      },
+      {
+        "text": "compete",
+        "correct": false
+      }
+    ],
+    "explanation": "【和訳】このフォームに記入して、今週末までに人事部に提出してください。\n【正解】complete（記入する、完了する）\n【ポイント】Please complete this form = 「このフォームに記入してください」。ビジネスでの基本表現。"
+  },
+  {
+    "category": "短文穴埋め Part5",
+    "question": "The building renovation is expected to be _____ by the end of March.",
+    "options": [
+      {
+        "text": "completed",
+        "correct": true
+      },
+      {
+        "text": "completing",
+        "correct": false
+      },
+      {
+        "text": "complete",
+        "correct": false
+      },
+      {
+        "text": "completion",
+        "correct": false
+      }
+    ],
+    "explanation": "【和訳】建物の改修は3月末までに完了する予定だ。\n【正解】completed（完了した）\n【ポイント】be expected to be + 過去分詞 = 「完了する予定だ」。受動態で「完了させられる」を表す。"
+  },
+  {
+    "category": "短文穴埋め Part5",
+    "question": "The CEO's speech was so _____ that it inspired the entire team to work harder.",
+    "options": [
+      {
+        "text": "motivating",
+        "correct": true
+      },
+      {
+        "text": "motivated",
+        "correct": false
+      },
+      {
+        "text": "motivation",
+        "correct": false
+      },
+      {
+        "text": "motive",
+        "correct": false
+      }
+    ],
+    "explanation": "【和訳】CEOのスピーチは非常に励みになり、チーム全体がより懸命に働くことにインスピレーションを受けた。\n【正解】motivating（励みになる、動機づける）\n【ポイント】so ~ that構文。motivatingは「人をやる気にさせる」という意味の現在分詞形容詞。"
+  },
+  {
+    "category": "短文穴埋め Part5",
+    "question": "The company requires all employees to _____ an annual health checkup.",
+    "options": [
+      {
+        "text": "undergo",
+        "correct": true
+      },
+      {
+        "text": "undergoes",
+        "correct": false
+      },
+      {
+        "text": "undergoing",
+        "correct": false
+      },
+      {
+        "text": "undergone",
+        "correct": false
+      }
+    ],
+    "explanation": "【和訳】会社は全従業員に年次健康診断を受けるよう求めている。\n【正解】undergo（受ける、経験する）\n【ポイント】undergo a health checkup = 「健康診断を受ける」。医療・検査の文脈で頻出。"
+  },
+  {
+    "category": "短文穴埋め Part5",
+    "question": "The meeting has been postponed _____ next Tuesday due to the director's absence.",
+    "options": [
+      {
+        "text": "until",
+        "correct": true
+      },
+      {
+        "text": "since",
+        "correct": false
+      },
+      {
+        "text": "during",
+        "correct": false
+      },
+      {
+        "text": "while",
+        "correct": false
+      }
+    ],
+    "explanation": "【和訳】会議はディレクターの不在のため来週火曜日まで延期された。\n【正解】until（〜まで）\n【ポイント】postponed until = 「〜まで延期された」。期限・時点を示すにはuntilが適切。"
+  },
+  {
+    "category": "短文穴埋め Part5",
+    "question": "The new regulations will have a significant _____ on small businesses in the region.",
+    "options": [
+      {
+        "text": "impact",
+        "correct": true
+      },
+      {
+        "text": "affect",
+        "correct": false
+      },
+      {
+        "text": "effort",
+        "correct": false
+      },
+      {
+        "text": "import",
+        "correct": false
+      }
+    ],
+    "explanation": "【和訳】新規制は地域の中小企業に大きな影響を与えるだろう。\n【正解】impact（影響）\n【ポイント】have a significant impact on ~ = 「〜に大きな影響を与える」。ビジネス英語の定型表現。"
+  },
+  {
+    "category": "短文穴埋め Part5",
+    "question": "Mr. Thompson _____ as the project lead since the beginning of the fiscal year.",
+    "options": [
+      {
+        "text": "has served",
+        "correct": true
+      },
+      {
+        "text": "served",
+        "correct": false
+      },
+      {
+        "text": "is serving",
+        "correct": false
+      },
+      {
+        "text": "serves",
+        "correct": false
+      }
+    ],
+    "explanation": "【和訳】トンプソン氏は年度初めからプロジェクトリーダーを務めている。\n【正解】has served（務めている）\n【ポイント】has + 過去分詞 + since = 「〜以来〜している」。since（過去の時点）と現在完了形の組合せ。"
+  },
+  {
+    "category": "短文穴埋め Part5",
+    "question": "The shipping department is looking for ways to _____ delivery times.",
+    "options": [
+      {
+        "text": "reduce",
+        "correct": true
+      },
+      {
+        "text": "reproduce",
+        "correct": false
+      },
+      {
+        "text": "review",
+        "correct": false
+      },
+      {
+        "text": "reveal",
+        "correct": false
+      }
+    ],
+    "explanation": "【和訳】配送部門は配送時間を短縮する方法を模索している。\n【正解】reduce（削減する、短縮する）\n【ポイント】配送時間（delivery times）を短縮する＝reduce。ビジネスでの基本語彙。"
+  },
+  {
+    "category": "短文穴埋め Part5",
+    "question": "The company provides its employees _____ comprehensive health insurance coverage.",
+    "options": [
+      {
+        "text": "with",
+        "correct": true
+      },
+      {
+        "text": "for",
+        "correct": false
+      },
+      {
+        "text": "to",
+        "correct": false
+      },
+      {
+        "text": "about",
+        "correct": false
+      }
+    ],
+    "explanation": "【和訳】会社は従業員に包括的な健康保険を提供している。\n【正解】with（〜を提供している）\n【ポイント】provide A with B = 「AにBを提供する」。provide someone with coverageで「保険を提供する」。"
+  },
+  {
+    "category": "短文穴埋め Part5",
+    "question": "The market research team has _____ a detailed analysis of consumer preferences.",
+    "options": [
+      {
+        "text": "conducted",
+        "correct": true
+      },
+      {
+        "text": "conductor",
+        "correct": false
+      },
+      {
+        "text": "conducting",
+        "correct": false
+      },
+      {
+        "text": "conductive",
+        "correct": false
+      }
+    ],
+    "explanation": "【和訳】市場調査チームは消費者嗜好に関する詳細な分析を実施した。\n【正解】conducted（実施した）\n【ポイント】conduct an analysis = 「分析を実施する」。調査・研究の文脈で頻出のコロケーション。"
+  },
+  {
+    "category": "短文穴埋め Part5",
+    "question": "All conference attendees will receive a certificate of _____ at the end of the event.",
+    "options": [
+      {
+        "text": "attendance",
+        "correct": true
+      },
+      {
+        "text": "attention",
+        "correct": false
+      },
+      {
+        "text": "attending",
+        "correct": false
+      },
+      {
+        "text": "attendant",
+        "correct": false
+      }
+    ],
+    "explanation": "【和訳】すべての会議参加者にはイベント終了時に出席証明書が授与される。\n【正解】attendance（出席、参加）\n【ポイント】certificate of attendance = 「出席証明書」。会議・研修などで参加証明の定番表現。"
+  },
+  {
+    "category": "短文穴埋め Part5",
+    "question": "The firm decided to _____ the product launch to gather more customer feedback first.",
+    "options": [
+      {
+        "text": "delay",
+        "correct": true
+      },
+      {
+        "text": "relay",
+        "correct": false
+      },
+      {
+        "text": "display",
+        "correct": false
+      },
+      {
+        "text": "decay",
+        "correct": false
+      }
+    ],
+    "explanation": "【和訳】会社はまず顧客フィードバックを収集するため製品発表を遅らせることにした。\n【正解】delay（遅らせる、延期する）\n【ポイント】delay the product launch = 「製品発表を延期する」。時間を後回しにするという文脈で適切。"
+  },
+  {
+    "category": "短文穴埋め Part5",
+    "question": "The keynote speaker is _____ known for her expertise in digital marketing strategies.",
+    "options": [
+      {
+        "text": "widely",
+        "correct": true
+      },
+      {
+        "text": "wide",
+        "correct": false
+      },
+      {
+        "text": "width",
+        "correct": false
+      },
+      {
+        "text": "widen",
+        "correct": false
+      }
+    ],
+    "explanation": "【和訳】基調講演者はデジタルマーケティング戦略の専門知識で広く知られている。\n【正解】widely（広く）\n【ポイント】is widely known = 「広く知られている」。known（過去分詞）を修飾する副詞が必要。"
+  },
+  {
+    "category": "短文穴埋め Part5",
+    "question": "The sales manager asked the team to _____ a detailed report on monthly performance.",
+    "options": [
+      {
+        "text": "prepare",
+        "correct": true
+      },
+      {
+        "text": "repair",
+        "correct": false
+      },
+      {
+        "text": "compare",
+        "correct": false
+      },
+      {
+        "text": "declare",
+        "correct": false
+      }
+    ],
+    "explanation": "【和訳】営業マネージャーはチームに月次業績の詳細な報告書を準備するよう頼んだ。\n【正解】prepare（準備する）\n【ポイント】prepare a report = 「報告書を準備する」。ビジネス文書作成の基本表現。"
+  },
+  {
+    "category": "短文穴埋め Part5",
+    "question": "The company's profits were _____ lower than expected due to rising production costs.",
+    "options": [
+      {
+        "text": "considerably",
+        "correct": true
+      },
+      {
+        "text": "considerate",
+        "correct": false
+      },
+      {
+        "text": "considering",
+        "correct": false
+      },
+      {
+        "text": "consideration",
+        "correct": false
+      }
+    ],
+    "explanation": "【和訳】会社の利益は製造コストの上昇により予想より大幅に低かった。\n【正解】considerably（かなり、大幅に）\n【ポイント】lower（比較級）を修飾する副詞。considerably lower = 「かなり低い」。"
+  },
+  {
+    "category": "短文穴埋め Part5",
+    "question": "Please do not hesitate to contact us if you have any _____ about the new policy.",
+    "options": [
+      {
+        "text": "questions",
+        "correct": true
+      },
+      {
+        "text": "quests",
+        "correct": false
+      },
+      {
+        "text": "requests",
+        "correct": false
+      },
+      {
+        "text": "quotations",
+        "correct": false
+      }
+    ],
+    "explanation": "【和訳】新ポリシーについてご不明な点があれば、お気軽にお問い合わせください。\n【正解】questions（質問、疑問）\n【ポイント】any questions about ~ = 「〜についての質問」。丁寧なビジネスメールの定番表現。"
+  },
+  {
+    "category": "短文穴埋め Part5",
+    "question": "The HR department is currently _____ candidates for the open positions in the marketing team.",
+    "options": [
+      {
+        "text": "screening",
+        "correct": true
+      },
+      {
+        "text": "screen",
+        "correct": false
+      },
+      {
+        "text": "screened",
+        "correct": false
+      },
+      {
+        "text": "screens",
+        "correct": false
+      }
+    ],
+    "explanation": "【和訳】人事部は現在、マーケティングチームの空席の候補者を審査している。\n【正解】screening（審査する、選別する）\n【ポイント】is currently screening = 「現在審査している」。現在進行形で進行中の作業を表す。"
+  },
+  {
+    "category": "短文穴埋め Part5",
+    "question": "The new office building features _____ lighting and energy-efficient heating systems.",
+    "options": [
+      {
+        "text": "energy-saving",
+        "correct": true
+      },
+      {
+        "text": "energy-save",
+        "correct": false
+      },
+      {
+        "text": "energy-saved",
+        "correct": false
+      },
+      {
+        "text": "energy-savingly",
+        "correct": false
+      }
+    ],
+    "explanation": "【和訳】新しいオフィスビルには省エネ照明とエネルギー効率の良い暖房システムが備わっている。\n【正解】energy-saving（省エネの）\n【ポイント】ハイフンでつないだ複合形容詞。「省エネ照明」はenergy-saving lightingが自然な表現。"
+  },
+  {
+    "category": "短文穴埋め Part5",
+    "question": "The supplier failed to deliver the raw materials on time, _____ caused a production delay.",
+    "options": [
+      {
+        "text": "which",
+        "correct": true
+      },
+      {
+        "text": "that",
+        "correct": false
+      },
+      {
+        "text": "what",
+        "correct": false
+      },
+      {
+        "text": "who",
+        "correct": false
+      }
+    ],
+    "explanation": "【和訳】サプライヤーが原材料を時間通りに届けなかったため、生産遅延が発生した。\n【正解】which（そしてそれは）\n【ポイント】whichは非制限用法の関係代名詞で、前文全体（配送遅延）を受ける。「それが生産遅延を引き起こした」。"
+  },
+  {
+    "category": "短文穴埋め Part5",
+    "question": "The manager asked the IT team to _____ the software issue as soon as possible.",
+    "options": [
+      {
+        "text": "resolve",
+        "correct": true
+      },
+      {
+        "text": "revolve",
+        "correct": false
+      },
+      {
+        "text": "involve",
+        "correct": false
+      },
+      {
+        "text": "evolve",
+        "correct": false
+      }
+    ],
+    "explanation": "【和訳】マネージャーはITチームにソフトウェアの問題をできるだけ早く解決するよう頼んだ。\n【正解】resolve（解決する）\n【ポイント】resolve an issue = 「問題を解決する」。IT・ビジネスの文脈で頻出。"
+  },
+  {
+    "category": "長文穴埋め Part6",
+    "question": "Dear Ms. Johnson, We are pleased to inform you that your application for the Marketing Manager position has been _____. Please come to our office for an interview.",
+    "options": [
+      {
+        "text": "approved",
+        "correct": true
+      },
+      {
+        "text": "approving",
+        "correct": false
+      },
+      {
+        "text": "approve",
+        "correct": false
+      },
+      {
+        "text": "approval",
+        "correct": false
+      }
+    ],
+    "explanation": "【和訳】ジョンソン様、マーケティングマネージャー職への応募が承認されました。面接のためオフィスにお越しください。\n【正解】approved（承認された）\n【ポイント】応募（application）の結果としてapproved「承認された」が適切。ビジネスメールでの受理通知の文脈。"
+  },
+  {
+    "category": "長文穴埋め Part6",
+    "question": "The company's annual sales conference will be held at the Grand Hyatt Hotel. All department managers are _____ to attend the two-day event.",
+    "options": [
+      {
+        "text": "required",
+        "correct": true
+      },
+      {
+        "text": "acquiring",
+        "correct": false
+      },
+      {
+        "text": "inquired",
+        "correct": false
+      },
+      {
+        "text": "requesting",
+        "correct": false
+      }
+    ],
+    "explanation": "【和訳】会社の年次販売会議がグランドハイアットホテルで開催される。すべての部門マネージャーは2日間のイベントに参加することが義務付けられている。\n【正解】required（義務付けられている）\n【ポイント】be required to attend = 「参加が義務付けられている」。ビジネスでの必須参加の定番表現。"
+  },
+  {
+    "category": "長文穴埋め Part6",
+    "question": "Green Valley Resorts is offering a special package that includes accommodation, meals, and access to the spa. The package is _____ for a limited time only.",
+    "options": [
+      {
+        "text": "available",
+        "correct": true
+      },
+      {
+        "text": "avoidable",
+        "correct": false
+      },
+      {
+        "text": "valuable",
+        "correct": false
+      },
+      {
+        "text": "advisable",
+        "correct": false
+      }
+    ],
+    "explanation": "【和訳】グリーンバレーリゾートは宿泊、食事、スパ利用を含む特別パッケージを提供している。このパッケージは期間限定で利用可能です。\n【正解】available（利用可能な）\n【ポイント】is available for a limited time = 「期間限定で利用可能」。商品・サービスの提供状況を示す定番表現。"
+  },
+  {
+    "category": "長文穴埋め Part6",
+    "question": "Thank you for your recent purchase from TechMart Online. Your order #45231 has been processed and will be _____ within 3-5 business days.",
+    "options": [
+      {
+        "text": "shipped",
+        "correct": true
+      },
+      {
+        "text": "skipped",
+        "correct": false
+      },
+      {
+        "text": "slipped",
+        "correct": false
+      },
+      {
+        "text": "snipped",
+        "correct": false
+      }
+    ],
+    "explanation": "【和訳】TechMart Onlineでの最近のご購入ありがとうございます。ご注文#45231は処理済みで、3〜5営業日以内に発送されます。\n【正解】shipped（発送される）\n【ポイント】will be shipped = 「発送される」。通販の注文確認メールでの定番表現。"
+  },
+  {
+    "category": "長文穴埋め Part6",
+    "question": "The City of Riverside has announced plans to construct a new public transportation system. Construction is _____ to begin in early spring.",
+    "options": [
+      {
+        "text": "expected",
+        "correct": true
+      },
+      {
+        "text": "excepted",
+        "correct": false
+      },
+      {
+        "text": "accepted",
+        "correct": false
+      },
+      {
+        "text": "suspected",
+        "correct": false
+      }
+    ],
+    "explanation": "【和訳】リバーサイド市は新しい公共交通システムの建設計画を発表した。建設は早春に開始される予定です。\n【正解】expected（予定されている）\n【ポイント】is expected to ~ = 「〜すると予想されている」。公的機関の発表で頻出。"
+  },
+  {
+    "category": "長文穴埋め Part6",
+    "question": "Pinnacle Financial Group reported record earnings for the third quarter. Revenue increased by 12 percent _____ to the same period last year.",
+    "options": [
+      {
+        "text": "compared",
+        "correct": true
+      },
+      {
+        "text": "competing",
+        "correct": false
+      },
+      {
+        "text": "compiling",
+        "correct": false
+      },
+      {
+        "text": "complaining",
+        "correct": false
+      }
+    ],
+    "explanation": "【和訳】ピナクル・フィナンシャル・グループが第3四半期で過去最高益を報告した。売上高は前年同期比で12%増加した。\n【正解】compared（比較して）\n【ポイント】compared to ~ = 「〜と比較して」。年次比較の定番表現。"
+  },
+  {
+    "category": "長文穴埋め Part6",
+    "question": "The office will be closed on November 25 for the national holiday. Normal business hours will _____ on November 26.",
+    "options": [
+      {
+        "text": "resume",
+        "correct": true
+      },
+      {
+        "text": "assume",
+        "correct": false
+      },
+      {
+        "text": "consume",
+        "correct": false
+      },
+      {
+        "text": "presume",
+        "correct": false
+      }
+    ],
+    "explanation": "【和訳】11月25日は国民の祝日のためオフィスは閉まります。通常の営業時間は11月26日に再開します。\n【正解】resume（再開する）\n【ポイント】営業時間が再開される＝resume。祝日後の業務再開の文脈で適切。"
+  },
+  {
+    "category": "長文穴埋め Part6",
+    "question": "Our customer service team is available Monday through Friday, 9 a.m. to 6 p.m. For _____ inquiries, please visit our website.",
+    "options": [
+      {
+        "text": "after-hours",
+        "correct": true
+      },
+      {
+        "text": "after-hour",
+        "correct": false
+      },
+      {
+        "text": "after-hoursly",
+        "correct": false
+      },
+      {
+        "text": "after-hourly",
+        "correct": false
+      }
+    ],
+    "explanation": "【和訳】カスタマーサービスチームは月曜から金曜、午前9時〜午後6時にご利用いただけます。営業時間外のお問い合わせはウェブサイトをご覧ください。\n【正解】after-hours（営業時間外の）\n【ポイント】after-hours inquiries = 「営業時間外のお問い合わせ」。ビジネスでの定型表現。"
+  },
+  {
+    "category": "長文穴埋め Part6",
+    "question": "Horizon Pharmaceuticals announced the launch of its new allergy medication. The product has been _____ tested in clinical trials.",
+    "options": [
+      {
+        "text": "extensively",
+        "correct": true
+      },
+      {
+        "text": "expensive",
+        "correct": false
+      },
+      {
+        "text": "expressively",
+        "correct": false
+      },
+      {
+        "text": "exclusively",
+        "correct": false
+      }
+    ],
+    "explanation": "【和訳】ホライズン・ファーマシューティカルズが新しいアレルギー治療薬の発売を発表した。この製品は臨床試験で広くテストされている。\n【正解】extensively（広く、徹底的に）\n【ポイント】tested（過去分詞）を修飾する副詞。extensively tested = 「広範囲にテストされた」。薬の安全性を強調する表現。"
+  },
+  {
+    "category": "長文穴埋め Part6",
+    "question": "Employees who wish to enroll in the company's retirement plan must submit their forms by December 15. Late submissions will not be _____.",
+    "options": [
+      {
+        "text": "accepted",
+        "correct": true
+      },
+      {
+        "text": "excepted",
+        "correct": false
+      },
+      {
+        "text": "accessed",
+        "correct": false
+      },
+      {
+        "text": "assessed",
+        "correct": false
+      }
+    ],
+    "explanation": "【和訳】会社の退職金プランに加入を希望する従業員は12月15日までにフォームを提出してください。遅延提出は受け付けられません。\n【正解】accepted（受け付けられる）\n【ポイント】will not be accepted = 「受け付けられない」。提出期限に関するビジネス表現。"
+  },
+  {
+    "category": "長文穴埋め Part6",
+    "question": "The training workshop on data analysis will be conducted by Dr. Sarah Lee, a _____ expert in the field of business intelligence.",
+    "options": [
+      {
+        "text": "renowned",
+        "correct": true
+      },
+      {
+        "text": "announced",
+        "correct": false
+      },
+      {
+        "text": "pronounced",
+        "correct": false
+      },
+      {
+        "text": "denounced",
+        "correct": false
+      }
+    ],
+    "explanation": "【和訳】データ分析の研修ワークショップはビジネスインテリジェンス分野の著名な専門家、サラ・リー博士によって開催されます。\n【正解】renowned（著名な、有名な）\n【ポイント】renowned expert = 「著名な専門家」。専門家の資質を示す定番表現。"
+  },
+  {
+    "category": "長文穴埋め Part6",
+    "question": "Due to the expansion of our business operations, we are currently seeking qualified _____ to join our engineering department.",
+    "options": [
+      {
+        "text": "applicants",
+        "correct": true
+      },
+      {
+        "text": "appliances",
+        "correct": false
+      },
+      {
+        "text": "applications",
+        "correct": false
+      },
+      {
+        "text": "appointments",
+        "correct": false
+      }
+    ],
+    "explanation": "【和訳】事業拡大に伴い、現在エンジニアリング部門に参加する有資格の応募者を募集中です。\n【正解】applicants（応募者）\n【ポイント】qualified applicants = 「有資格の応募者」。採用広告の文脈で頻出。"
+  },
+  {
+    "category": "長文穴埋め Part6",
+    "question": "The annual charity gala raised over $2 million for local hospitals. The event was _____ sponsored by several major corporations.",
+    "options": [
+      {
+        "text": "generously",
+        "correct": true
+      },
+      {
+        "text": "generous",
+        "correct": false
+      },
+      {
+        "text": "general",
+        "correct": false
+      },
+      {
+        "text": "generally",
+        "correct": false
+      }
+    ],
+    "explanation": "【和訳】年次チャリティガラは地元の病院のために200万ドル以上を集めた。このイベントは複数の大企業から寛大に後援された。\n【正解】generously（寛大に、惜しみなく）\n【ポイント】was sponsored（受動態）を修飾する副詞。generously sponsored = 「惜しみなく後援された」。"
+  },
+  {
+    "category": "長文穴埋め Part6",
+    "question": "Please be advised that the parking lot adjacent to Building B will be _____ for maintenance work next weekend.",
+    "options": [
+      {
+        "text": "closed",
+        "correct": true
+      },
+      {
+        "text": "open",
+        "correct": false
+      },
+      {
+        "text": "free",
+        "correct": false
+      },
+      {
+        "text": "expanded",
+        "correct": false
+      }
+    ],
+    "explanation": "【和訳】B棟に隣接する駐車場は来週末のメンテナンス作業のため閉鎖されます。\n【正解】closed（閉鎖される）\n【ポイント】will be closed = 「閉鎖される」。設備メンテナンスの通知で頻出の表現。"
+  },
+  {
+    "category": "長文穴埋め Part6",
+    "question": "The quarterly financial report shows that operating costs have been _____ reduced thanks to the new automation system.",
+    "options": [
+      {
+        "text": "significantly",
+        "correct": true
+      },
+      {
+        "text": "signify",
+        "correct": false
+      },
+      {
+        "text": "signal",
+        "correct": false
+      },
+      {
+        "text": "signature",
+        "correct": false
+      }
+    ],
+    "explanation": "【和訳】四半期財務報告書によると、新しい自動化システムのおかげで運営コストが大幅に削減されている。\n【正解】significantly（大幅に）\n【ポイント】reduced（過去分詞）を修飾する副詞。significantly reduced = 「大幅に削減された」。"
+  },
+  {
+    "category": "長文穴埋め Part6",
+    "question": "Mountain View Real Estate is pleased to announce the opening of its new branch office in downtown Portland. The office will provide _____ services to both residential and commercial clients.",
+    "options": [
+      {
+        "text": "comprehensive",
+        "correct": true
+      },
+      {
+        "text": "comprehend",
+        "correct": false
+      },
+      {
+        "text": "competitive",
+        "correct": false
+      },
+      {
+        "text": "complaint",
+        "correct": false
+      }
+    ],
+    "explanation": "【和訳】マウンテンビュー・リアルエステートがポートランド市内に新しい支店を開設したことを発表しました。同オフィスは住宅・商業両方の顧客に包括的なサービスを提供します。\n【正解】comprehensive（包括的な）\n【ポイント】comprehensive services = 「包括的なサービス」。様々なニーズに応える幅広いサービスを表す。"
+  },
+  {
+    "category": "長文穴埋め Part6",
+    "question": "The board meeting has been rescheduled from Friday to Monday. All members will be notified _____ email.",
+    "options": [
+      {
+        "text": "via",
+        "correct": true
+      },
+      {
+        "text": "by",
+        "correct": false
+      },
+      {
+        "text": "with",
+        "correct": false
+      },
+      {
+        "text": "on",
+        "correct": false
+      }
+    ],
+    "explanation": "【和訳】取締役会が金曜日から月曜日に変更されました。全メンバーにメールで通知されます。\n【正解】via（〜経由で）\n【ポイント】notify via email = 「メール経由で通知する」。コミュニケーション手段を示す前置詞。"
+  },
+  {
+    "category": "長文穴埋め Part6",
+    "question": "Atlas Manufacturing has decided to _____ its production facilities to Mexico to take advantage of lower labor costs.",
+    "options": [
+      {
+        "text": "relocate",
+        "correct": true
+      },
+      {
+        "text": "relate",
+        "correct": false
+      },
+      {
+        "text": "release",
+        "correct": false
+      },
+      {
+        "text": "reluctant",
+        "correct": false
+      }
+    ],
+    "explanation": "【和訳】アトラス・マニュファクチャリングは低い労働コストを活用するため、生産施設をメキシコに移転することを決定した。\n【正解】relocate（移転する）\n【ポイント】relocate facilities = 「施設を移転する」。生産拠点の移転を表すビジネス用語。"
+  },
+  {
+    "category": "長文穴埋め Part6",
+    "question": "The new employee handbook contains important information about company policies and benefits. All new hires are encouraged to read it _____.",
+    "options": [
+      {
+        "text": "carefully",
+        "correct": true
+      },
+      {
+        "text": "careless",
+        "correct": false
+      },
+      {
+        "text": "caring",
+        "correct": false
+      },
+      {
+        "text": "cautious",
+        "correct": false
+      }
+    ],
+    "explanation": "【和訳】新しい従業員ハンドブックには会社のポリシーや福利厚生に関する重要な情報が含まれています。すべての新入社員はこれを注意してお読みください。\n【正解】carefully（注意深く）\n【ポイント】read it carefully = 「注意深く読む」。マニュアル等を読む際の基本表現。"
+  },
+  {
+    "category": "長文穴埋め Part6",
+    "question": "CloudTech Solutions has been selected as the preferred vendor for the city's new IT infrastructure project. The _____ is valued at approximately $5 million.",
+    "options": [
+      {
+        "text": "contract",
+        "correct": true
+      },
+      {
+        "text": "contact",
+        "correct": false
+      },
+      {
+        "text": "contrast",
+        "correct": false
+      },
+      {
+        "text": "context",
+        "correct": false
+      }
+    ],
+    "explanation": "【和訳】CloudTech Solutionsが市の新しいITインフラプロジェクトの優先ベンダーに選ばれた。この契約は約500万ドルの価値がある。\n【正解】contract（契約）\n【ポイント】The contract is valued at ~ = 「契約額は〜である」。プロジェクトの契約金額を示す定番表現。"
+  },
+  {
+    "category": "長文穴埋め Part6",
+    "question": "The hotel is offering a complimentary breakfast buffet to all guests who book their stay _____ the hotel's official website.",
+    "options": [
+      {
+        "text": "through",
+        "correct": true
+      },
+      {
+        "text": "although",
+        "correct": false
+      },
+      {
+        "text": "despite",
+        "correct": false
+      },
+      {
+        "text": "without",
+        "correct": false
+      }
+    ],
+    "explanation": "【和訳】ホテルは公式ウェブサイト経由で予約するすべての宿泊客に無料ビュッフェ朝食を提供しています。\n【正解】through（〜を通じて）\n【ポイント】book through ~ = 「〜を通じて予約する」。オンライン予約の文脈で適切。"
+  },
+  {
+    "category": "長文穴埋め Part6",
+    "question": "The research team presented their findings on renewable energy sources at the international conference. The study was _____ funded by the government.",
+    "options": [
+      {
+        "text": "partially",
+        "correct": true
+      },
+      {
+        "text": "particular",
+        "correct": false
+      },
+      {
+        "text": "partly",
+        "correct": false
+      },
+      {
+        "text": "participate",
+        "correct": false
+      }
+    ],
+    "explanation": "【和訳】研究チームは国際会議で再生可能エネルギー源に関する調査結果を発表した。この研究は政府から一部資金提供を受けている。\n【正解】partially（部分的に）\n【ポイント】partially funded = 「一部資金提供を受けた」。研究資金の提供状況を示す表現。"
+  },
+  {
+    "category": "長文穴埋め Part6",
+    "question": "Effective immediately, all international shipments must include a customs declaration form. Packages _____ this form will be returned to the sender.",
+    "options": [
+      {
+        "text": "without",
+        "correct": true
+      },
+      {
+        "text": "within",
+        "correct": false
+      },
+      {
+        "text": "about",
+        "correct": false
+      },
+      {
+        "text": "throughout",
+        "correct": false
+      }
+    ],
+    "explanation": "【和訳】即時効力：すべての国際配送に税関申告書を添付しなければなりません。この書類のない荷物は差出人に返送されます。\n【正解】without（〜なしで）\n【ポイント】Packages without this form = 「この書類のない荷物」。前置詞withoutによる後置修飾。"
+  },
+  {
+    "category": "長文穴埋め Part6",
+    "question": "The photography exhibition at the Riverside Art Gallery features works by emerging artists from around the world. Admission is free for children under 12.",
+    "options": [
+      {
+        "text": "The exhibition is free for children.",
+        "correct": true
+      },
+      {
+        "text": "All visitors must pay admission.",
+        "correct": false
+      },
+      {
+        "text": "Only local artists are featured.",
+        "correct": false
+      },
+      {
+        "text": "The gallery is closing permanently.",
+        "correct": false
+      }
+    ],
+    "explanation": "【和訳】リバーサイド・アート・ギャラリーの写真展には世界中の新進芸術家の作品が展示されている。12歳以下の子供は入場無料。\n【正解】12歳以下の子供は入場無料。\n【ポイント】文書情報の読み取り問題。「Admission is free for children under 12」から直接読み取れる事実。"
+  },
+  {
+    "category": "長文穴埋め Part6",
+    "question": "NovaTech Industries recently appointed Ms. Diana Foster as its new Chief Financial Officer. Ms. Foster brings over 20 years of experience in financial management to the role.",
+    "options": [
+      {
+        "text": "Ms. Foster is experienced in finance.",
+        "correct": true
+      },
+      {
+        "text": "Ms. Foster is a new employee with no experience.",
+        "correct": false
+      },
+      {
+        "text": "NovaTech is a small startup company.",
+        "correct": false
+      },
+      {
+        "text": "The CFO position has been eliminated.",
+        "correct": false
+      }
+    ],
+    "explanation": "【和訳】NovaTech Industriesはダイアナ・フォスター氏を新しいCFOに任命した。フォスター氏は財務管理で20年以上の経験をこの役割にもたらす。\n【正解】フォスター氏は財務の経験が豊富。\n【ポイント】「over 20 years of experience in financial management」から財務管理の豊富な経験が読み取れる。"
+  },
+  {
+    "category": "長文穴埋め Part6",
+    "question": "The municipal government has announced a plan to _____ the city's public parks over the next three years.",
+    "options": [
+      {
+        "text": "renovate",
+        "correct": true
+      },
+      {
+        "text": "navigate",
+        "correct": false
+      },
+      {
+        "text": "negate",
+        "correct": false
+      },
+      {
+        "text": "nominate",
+        "correct": false
+      }
+    ],
+    "explanation": "【和訳】市は今後3年間で市内の公園を_____する計画を発表した。\n【正解】renovate（改修する、修復する）\n【ポイント】公園（public parks）の改善・修復にrenovateが適切。都市計画の文脈で頻出。"
+  },
+  {
+    "category": "読解 Part7",
+    "question": "According to the memo, when is the company picnic scheduled to take place?",
+    "options": [
+      {
+        "text": "Saturday, June 15",
+        "correct": true
+      },
+      {
+        "text": "Sunday, June 16",
+        "correct": false
+      },
+      {
+        "text": "Friday, June 14",
+        "correct": false
+      },
+      {
+        "text": "Monday, June 17",
+        "correct": false
+      }
+    ],
+    "explanation": "【和訳】メモによると、会社のピクニックはいつ予定されていますか？\n【正解】6月15日（土曜日）\n【ポイント】文書中の日付情報を正確に読み取る問題。「Saturday, June 15」を探す。TOEIC Part7では設問のキーワードから該当箇所をスキャンする。"
+  },
+  {
+    "category": "読解 Part7",
+    "question": "What is the main purpose of the email?",
+    "options": [
+      {
+        "text": "To confirm a meeting time with a client",
+        "correct": true
+      },
+      {
+        "text": "To introduce a new employee",
+        "correct": false
+      },
+      {
+        "text": "To request a budget increase",
+        "correct": false
+      },
+      {
+        "text": "To announce office relocation",
+        "correct": false
+      }
+    ],
+    "explanation": "【和訳】このメールの主な目的は何ですか？\n【正解】クライアントとの面談時間を確認すること\n【ポイント】メールの目的を問う問題。通常、最初の段落や件名に目的が書かれている。「confirm a meeting」が手がかり。"
+  },
+  {
+    "category": "読解 Part7",
+    "question": "What does Mr. Williams ask Ms. Davis to do?",
+    "options": [
+      {
+        "text": "Review the attached proposal and provide feedback",
+        "correct": true
+      },
+      {
+        "text": "Schedule a meeting with the design team",
+        "correct": false
+      },
+      {
+        "text": "Prepare a presentation for the board",
+        "correct": false
+      },
+      {
+        "text": "Contact the supplier about the delay",
+        "correct": false
+      }
+    ],
+    "explanation": "【和訳】ウィリアムズ氏はデイビスさんに何を頼んでいますか？\n【正解】添付の提案書を確認してフィードバックを提供すること\n【ポイント】依頼内容を問う問題。「Review the attached proposal and provide feedback」が該当箇所。"
+  },
+  {
+    "category": "読解 Part7",
+    "question": "How much does the Standard plan cost per month?",
+    "options": [
+      {
+        "text": "$49.99",
+        "correct": true
+      },
+      {
+        "text": "$29.99",
+        "correct": false
+      },
+      {
+        "text": "$79.99",
+        "correct": false
+      },
+      {
+        "text": "$99.99",
+        "correct": false
+      }
+    ],
+    "explanation": "【和訳】スタンダードプランの月額料金はいくらですか？\n【正解】$49.99\n【ポイント】価格情報を問う問題。プラン名「Standard」と料金「$49.99」を照合する。TOEICでは数字の正確な読み取りが重要。"
+  },
+  {
+    "category": "読解 Part7",
+    "question": "Where will the product launch event be held?",
+    "options": [
+      {
+        "text": "At the Convention Center in downtown",
+        "correct": true
+      },
+      {
+        "text": "At the company headquarters",
+        "correct": false
+      },
+      {
+        "text": "At a hotel ballroom",
+        "correct": false
+      },
+      {
+        "text": "At an outdoor venue",
+        "correct": false
+      }
+    ],
+    "explanation": "【和訳】製品発表イベントはどこで開催されますか？\n【正解】ダウンタウンのコンベンションセンター\n【ポイント】場所を問う問題。「Convention Center in downtown」が該当箇所。"
+  },
+  {
+    "category": "読解 Part7",
+    "question": "What is stated about the new office policy regarding remote work?",
+    "options": [
+      {
+        "text": "Employees can work from home up to three days a week",
+        "correct": true
+      },
+      {
+        "text": "All employees must work from the office full-time",
+        "correct": false
+      },
+      {
+        "text": "Remote work is only available for managers",
+        "correct": false
+      },
+      {
+        "text": "The remote work policy has been cancelled",
+        "correct": false
+      }
+    ],
+    "explanation": "【和訳】新しいリモートワークに関するオフィスポリシーには何が記載されていますか？\n【正解】従業員は週3日まで自宅で作業できる\n【ポイント】ポリシー内容の読み取り。「up to three days a week」がキーワード。"
+  },
+  {
+    "category": "読解 Part7",
+    "question": "According to the advertisement, what is included in the tour package?",
+    "options": [
+      {
+        "text": "Round-trip airfare and hotel accommodation",
+        "correct": true
+      },
+      {
+        "text": "Only hotel accommodation",
+        "correct": false
+      },
+      {
+        "text": "Only round-trip airfare",
+        "correct": false
+      },
+      {
+        "text": "Meals and transportation only",
+        "correct": false
+      }
+    ],
+    "explanation": "【和訳】広告によると、ツアーパッケージには何が含まれていますか？\n【正解】往復航空券とホテル宿泊\n【ポイント】パッケージ内容の読み取り。「Round-trip airfare and hotel accommodation」を確認する。"
+  },
+  {
+    "category": "読解 Part7",
+    "question": "Why was the training session rescheduled?",
+    "options": [
+      {
+        "text": "The instructor had a scheduling conflict",
+        "correct": true
+      },
+      {
+        "text": "The training room was under renovation",
+        "correct": false
+      },
+      {
+        "text": "Too few employees signed up",
+        "correct": false
+      },
+      {
+        "text": "The company decided to cancel it",
+        "correct": false
+      }
+    ],
+    "explanation": "【和訳】なぜ研修セッションは延期されたのですか？\n【正解】講師にスケジュールの都合があったため\n【ポイント】原因を問う問題。「scheduling conflict」＝スケジュールの競合・都合が合わないことが手がかり。"
+  },
+  {
+    "category": "読解 Part7",
+    "question": "What can be inferred about the company's financial performance?",
+    "options": [
+      {
+        "text": "It has improved compared to the previous year",
+        "correct": true
+      },
+      {
+        "text": "It has declined significantly",
+        "correct": false
+      },
+      {
+        "text": "It has remained unchanged",
+        "correct": false
+      },
+      {
+        "text": "It cannot be determined from the passage",
+        "correct": false
+      }
+    ],
+    "explanation": "【和訳】会社の財務実績について何が推測できますか？\n【正解】前年と比べて改善している\n【ポイント】infer（推測する）問題。直接的な記述ではなく、文脈から改善が読み取れるかを問う。"
+  },
+  {
+    "category": "読解 Part7",
+    "question": "According to the notice, what should employees do if they find a problem with the new software?",
+    "options": [
+      {
+        "text": "Submit a ticket through the IT support portal",
+        "correct": true
+      },
+      {
+        "text": "Contact the software vendor directly",
+        "correct": false
+      },
+      {
+        "text": "Send an email to the CEO",
+        "correct": false
+      },
+      {
+        "text": "Wait for the next scheduled update",
+        "correct": false
+      }
+    ],
+    "explanation": "【和訳】通知によると、従業員は新ソフトウェアの問題を見つけた場合どうすべきですか？\n【正解】ITサポートポータルからチケットを提出する\n【ポイント】手続きを問う問題。「Submit a ticket through the IT support portal」が指示内容。"
+  },
+  {
+    "category": "読解 Part7",
+    "question": "What is the purpose of the attached invoice?",
+    "options": [
+      {
+        "text": "To request payment for consulting services rendered",
+        "correct": true
+      },
+      {
+        "text": "To provide a price quote for upcoming work",
+        "correct": false
+      },
+      {
+        "text": "To confirm receipt of payment",
+        "correct": false
+      },
+      {
+        "text": "To dispute a previous charge",
+        "correct": false
+      }
+    ],
+    "explanation": "【和訳】添付の請求書の目的は何ですか？\n【正解】提供したコンサルティングサービスの支払いを請求するため\n【ポイント】請求書（invoice）の目的を問う。「request payment for consulting services」が該当。"
+  },
+  {
+    "category": "読解 Part7",
+    "question": "What time does the store open on weekdays?",
+    "options": [
+      {
+        "text": "9:00 a.m.",
+        "correct": true
+      },
+      {
+        "text": "10:00 a.m.",
+        "correct": false
+      },
+      {
+        "text": "8:00 a.m.",
+        "correct": false
+      },
+      {
+        "text": "11:00 a.m.",
+        "correct": false
+      }
+    ],
+    "explanation": "【和訳】平日の店舗の開店時間は何時ですか？\n【正解】午前9時\n【ポイント】営業時間の読み取り。「9:00 a.m. on weekdays」を確認する。"
+  },
+  {
+    "category": "読解 Part7",
+    "question": "According to the review, what is a disadvantage of the product?",
+    "options": [
+      {
+        "text": "The battery life is shorter than advertised",
+        "correct": true
+      },
+      {
+        "text": "The screen quality is poor",
+        "correct": false
+      },
+      {
+        "text": "It is too expensive",
+        "correct": false
+      },
+      {
+        "text": "It is difficult to use",
+        "correct": false
+      }
+    ],
+    "explanation": "【和訳】レビューによると、この製品の欠点は何ですか？\n【正解】バッテリー駆動時間が広告より短い\n【ポイント】否定的な意見を見つける問題。「battery life is shorter than advertised」が欠点の記述。"
+  },
+  {
+    "category": "読解 Part7",
+    "question": "Who is the intended audience of this memo?",
+    "options": [
+      {
+        "text": "All department managers",
+        "correct": true
+      },
+      {
+        "text": "New employees only",
+        "correct": false
+      },
+      {
+        "text": "External clients",
+        "correct": false
+      },
+      {
+        "text": "The board of directors",
+        "correct": false
+      }
+    ],
+    "explanation": "【和訳】このメモの対象読者は誰ですか？\n【正解】すべての部門マネージャー\n【ポイント】宛先・対象を問う問題。「All department managers」が該当。"
+  },
+  {
+    "category": "読解 Part7",
+    "question": "What does the speaker suggest as a solution to the staffing issue?",
+    "options": [
+      {
+        "text": "Hiring temporary workers during peak season",
+        "correct": true
+      },
+      {
+        "text": "Reducing the number of operating hours",
+        "correct": false
+      },
+      {
+        "text": "Increasing employee salaries",
+        "correct": false
+      },
+      {
+        "text": "Eliminating some service offerings",
+        "correct": false
+      }
+    ],
+    "explanation": "【和訳】スピーカーは人員不足の解決策として何を提案していますか？\n【正解】繁忙期に一時的なスタッフを雇用すること\n【ポイント】提案内容を問う。「Hiring temporary workers during peak season」が解決策。"
+  },
+  {
+    "category": "読解 Part7",
+    "question": "What is the deadline for submitting the quarterly report?",
+    "options": [
+      {
+        "text": "April 30",
+        "correct": true
+      },
+      {
+        "text": "March 31",
+        "correct": false
+      },
+      {
+        "text": "May 15",
+        "correct": false
+      },
+      {
+        "text": "June 1",
+        "correct": false
+      }
+    ],
+    "explanation": "【和訳】四半期報告書の提出期限はいつですか？\n【正解】4月30日\n【ポイント】期限（deadline）の読み取り。「April 30」を確認する。"
+  },
+  {
+    "category": "読解 Part7",
+    "question": "According to the article, what trend is described in the retail industry?",
+    "options": [
+      {
+        "text": "More consumers are shopping online",
+        "correct": true
+      },
+      {
+        "text": "Traditional stores are making a comeback",
+        "correct": false
+      },
+      {
+        "text": "Sales are increasing in physical stores",
+        "correct": false
+      },
+      {
+        "text": "Retail prices are decreasing overall",
+        "correct": false
+      }
+    ],
+    "explanation": "【和訳】記事によると、小売業界ではどのようなトレンドが記述されていますか？\n【正解】より多くの消費者がオンラインで買い物をしている\n【ポイント】業界トレンドの読み取り。「More consumers are shopping online」が該当箇所。"
+  },
+  {
+    "category": "読解 Part7",
+    "question": "What does the company plan to do with the additional funding?",
+    "options": [
+      {
+        "text": "Expand its research and development department",
+        "correct": true
+      },
+      {
+        "text": "Pay off existing debts",
+        "correct": false
+      },
+      {
+        "text": "Increase executive bonuses",
+        "correct": false
+      },
+      {
+        "text": "Acquire a competitor",
+        "correct": false
+      }
+    ],
+    "explanation": "【和訳】会社は追加資金をどうする予定ですか？\n【正解】研究開発部門を拡大する\n【ポイント】資金使途を問う。「Expand its research and development department」が該当。"
+  },
+  {
+    "category": "読解 Part7",
+    "question": "What information is NOT mentioned in the job posting?",
+    "options": [
+      {
+        "text": "The salary range for the position",
+        "correct": true
+      },
+      {
+        "text": "The required years of experience",
+        "correct": false
+      },
+      {
+        "text": "The job location",
+        "correct": false
+      },
+      {
+        "text": "The application deadline",
+        "correct": false
+      }
+    ],
+    "explanation": "【和訳】求人広告に何が記載されていませんか？\n【正解】職位の給与範囲\n【ポイント】NOT問題。記載されている情報（職種、要件など）と記載されていない情報（給与）を見分ける。"
+  },
+  {
+    "category": "読解 Part7",
+    "question": "According to the weather forecast, what should attendees expect at the outdoor event?",
+    "options": [
+      {
+        "text": "Light rain in the afternoon, so umbrellas are recommended",
+        "correct": true
+      },
+      {
+        "text": "Clear skies throughout the day",
+        "correct": false
+      },
+      {
+        "text": "Heavy thunderstorms that may cause cancellation",
+        "correct": false
+      },
+      {
+        "text": "No weather information is provided",
+        "correct": false
+      }
+    ],
+    "explanation": "【和訳】天気予報によると、屋外イベントの参加者は何を予想すべきですか？\n【正解】午後に小雨が予想されるため傘が推奨される\n【ポイント】天気情報の読み取り。「Light rain in the afternoon」＋「umbrellas are recommended」を組み合わせる。"
+  },
+  {
+    "category": "読解 Part7",
+    "question": "What change has been made to the employee benefits program?",
+    "options": [
+      {
+        "text": "Dental coverage has been added to the health plan",
+        "correct": true
+      },
+      {
+        "text": "The retirement age has been lowered",
+        "correct": false
+      },
+      {
+        "text": "Paid vacation days have been reduced",
+        "correct": false
+      },
+      {
+        "text": "Health insurance premiums have been doubled",
+        "correct": false
+      }
+    ],
+    "explanation": "【和訳】従業員福利厚生プログラムにどのような変更がありましたか？\n【正解】健康保険に歯科保障が追加された\n【ポイント】変更内容を問う。「Dental coverage has been added」が該当箇所。"
+  },
+  {
+    "category": "読解 Part7",
+    "question": "How can customers get a discount on their next purchase?",
+    "options": [
+      {
+        "text": "By signing up for the loyalty program",
+        "correct": true
+      },
+      {
+        "text": "By paying in cash",
+        "correct": false
+      },
+      {
+        "text": "By purchasing before noon",
+        "correct": false
+      },
+      {
+        "text": "By referring a friend",
+        "correct": false
+      }
+    ],
+    "explanation": "【和訳】顧客は次回の購入でどのように割引を受けられますか？\n【正解】ロイヤルティプログラムに登録することで\n【ポイント】割引条件の読み取り。「signing up for the loyalty program」が該当。"
+  },
+  {
+    "category": "読解 Part7",
+    "question": "What is the main reason for the delay in the construction project?",
+    "options": [
+      {
+        "text": "Unfavorable weather conditions and material shortages",
+        "correct": true
+      },
+      {
+        "text": "Lack of funding from investors",
+        "correct": false
+      },
+      {
+        "text": "Disputes between contractors",
+        "correct": false
+      },
+      {
+        "text": "Changes in building regulations",
+        "correct": false
+      }
+    ],
+    "explanation": "【和訳】建設プロジェクトの遅延の主な理由は何ですか？\n【正解】悪天候と資材不足\n【ポイント】複数の原因を問う。「Unfavorable weather conditions and material shortages」の両方を含める。"
+  },
+  {
+    "category": "読解 Part7",
+    "question": "What does Ms. Garcia mean when she says 'the numbers speak for themselves'?",
+    "options": [
+      {
+        "text": "The sales data clearly shows improvement",
+        "correct": true
+      },
+      {
+        "text": "She doesn't have time to explain the data",
+        "correct": false
+      },
+      {
+        "text": "The financial report needs revision",
+        "correct": false
+      },
+      {
+        "text": "The data is unreliable",
+        "correct": false
+      }
+    ],
+    "explanation": "【和訳】ガルシアさんが「数字はそれ自身を語る」と言ったのはどういう意味ですか？\n【正解】売上データが明確に改善を示している\n【ポイント】慣用句の意味を問う。「the numbers speak for themselves」＝データが客観的に事実を示している。"
+  },
+  {
+    "category": "読解 Part7",
+    "question": "What is the deadline for registering for the conference?",
+    "options": [
+      {
+        "text": "October 1",
+        "correct": true
+      },
+      {
+        "text": "October 15",
+        "correct": false
+      },
+      {
+        "text": "September 30",
+        "correct": false
+      },
+      {
+        "text": "November 1",
+        "correct": false
+      }
+    ],
+    "explanation": "【和訳】会議の登録期限はいつですか？\n【正解】10月1日\n【ポイント】登録期限（registration deadline）の読み取り。「October 1」を確認する。"
+  },
+  {
+    "category": "読解 Part7",
+    "question": "According to the passage, what must passengers do before boarding?",
+    "options": [
+      {
+        "text": "Present a valid boarding pass and identification",
+        "correct": true
+      },
+      {
+        "text": "Purchase travel insurance",
+        "correct": false
+      },
+      {
+        "text": "Check in their luggage at the counter",
+        "correct": false
+      },
+      {
+        "text": "Complete a health declaration form",
+        "correct": false
+      }
+    ],
+    "explanation": "【和訳】文章によると、搭乗前に乗客は何をしなければなりませんか？\n【正解】有効な搭乗券と身分証明書を提示する\n【ポイント】搭乗手続きの読み取り。「Present a valid boarding pass and identification」が該当。"
+  },
+  {
+    "category": "読解 Part7",
+    "question": "Which of the following is a new feature of the updated product?",
+    "options": [
+      {
+        "text": "Enhanced voice recognition capability",
+        "correct": true
+      },
+      {
+        "text": "Longer warranty period",
+        "correct": false
+      },
+      {
+        "text": "Lower price point",
+        "correct": false
+      },
+      {
+        "text": "Additional color options",
+        "correct": false
+      }
+    ],
+    "explanation": "【和訳】更新された製品の新機能は次のうちどれですか？\n【正解】強化された音声認識機能\n【ポイント】新機能の読み取り。「Enhanced voice recognition capability」が該当箇所。"
+  },
+  {
+    "category": "ビジネス会話",
+    "question": "A: 'Would you be available for a brief meeting this afternoon?' B: '_____'",
+    "options": [
+      {
+        "text": "I'm free after 3 p.m. Would that work for you?",
+        "correct": true
+      },
+      {
+        "text": "Yes, I am availability.",
+        "correct": false
+      },
+      {
+        "text": "No, I don't have a meeting.",
+        "correct": false
+      },
+      {
+        "text": "I am free in every afternoon.",
+        "correct": false
+      }
+    ],
+    "explanation": "【和訳】A: 'Would you be available for a brief meeting this afternoon?' B: '_____'\n【正解】I'm free after 3 p.m. Would that work for you?\n【ポイント】文脈から最も適切な選択肢を選ぶ問題。"
+  },
+  {
+    "category": "ビジネス会話",
+    "question": "A: 'Could you send me the updated report by tomorrow morning?' B: '_____'",
+    "options": [
+      {
+        "text": "I'll have it on your desk by 9 a.m.",
+        "correct": true
+      },
+      {
+        "text": "I sent it already yesterday.",
+        "correct": false
+      },
+      {
+        "text": "I am not have the report.",
+        "correct": false
+      },
+      {
+        "text": "Tomorrow is too early for me.",
+        "correct": false
+      }
+    ],
+    "explanation": "【和訳】A「今日の午後に短い会議の時間は空いていますか？」B「_____」\n【正解】午後3時以降なら空いていますが、よろしいですか？\n【ポイント】会議の日程調整。「Would you be available」への適切な返答。自分の都合を伝えつつ相手に確認する表現がビジネスライク。"
+  },
+  {
+    "category": "ビジネス会話",
+    "question": "A: 'I'd like to schedule a performance review with my team members.' B: '_____'",
+    "options": [
+      {
+        "text": "Shall I set up individual meetings for next week?",
+        "correct": true
+      },
+      {
+        "text": "You should do it yourself.",
+        "correct": false
+      },
+      {
+        "text": "I don't think that's necessary.",
+        "correct": false
+      },
+      {
+        "text": "Performance reviews are not important.",
+        "correct": false
+      }
+    ],
+    "explanation": "【和訳】A「明日の朝までに更新されたレポートを送ってくれますか？」B「_____」\n【正解】午前9時までにデスクに置いておきます。\n【ポイント】期限付きの依頼への応答。具体的な納品時間を提示することが信頼感を与える。"
+  },
+  {
+    "category": "ビジネス会話",
+    "question": "A: 'The client is asking about the delivery date for their order.' B: '_____'",
+    "options": [
+      {
+        "text": "Let me check with the logistics team and get back to you.",
+        "correct": true
+      },
+      {
+        "text": "Tell them it will arrive today.",
+        "correct": false
+      },
+      {
+        "text": "I don't know anything about that.",
+        "correct": false
+      },
+      {
+        "text": "The client should wait patiently.",
+        "correct": false
+      }
+    ],
+    "explanation": "【和訳】A「チームメンバーと業績評価の日程を組みたいのですが。」B「_____」\n【正解】来週個別の面談を設定しましょうか？\n【ポイント】上司の依頼に対するアシスタントの適切な応答。自発的に手続きを提案する姿勢が評価される。"
+  },
+  {
+    "category": "ビジネス会話",
+    "question": "A: 'We need to reduce our operating costs by 10 percent.' B: '_____'",
+    "options": [
+      {
+        "text": "We could start by reviewing our vendor contracts.",
+        "correct": true
+      },
+      {
+        "text": "That is impossible to do.",
+        "correct": false
+      },
+      {
+        "text": "Costs are already too low.",
+        "correct": false
+      },
+      {
+        "text": "Let's hire more people.",
+        "correct": false
+      }
+    ],
+    "explanation": "【和訳】A「クライアントが注文の配送日について尋ねています。」B「_____」\n【正解】物流チームに確認して折り返しお知らせします。\n【ポイント】顧客の問い合わせへの対応。確認が必要な場合は担当者に確認すると伝え、フォローアップを約束する。"
+  },
+  {
+    "category": "ビジネス会話",
+    "question": "A: 'I'm calling to follow up on the proposal we submitted last week.' B: '_____'",
+    "options": [
+      {
+        "text": "Thank you for your patience. We're currently reviewing it.",
+        "correct": true
+      },
+      {
+        "text": "We already decided to reject it.",
+        "correct": false
+      },
+      {
+        "text": "Please call again next month.",
+        "correct": false
+      },
+      {
+        "text": "I have no idea what you're talking about.",
+        "correct": false
+      }
+    ],
+    "explanation": "【和訳】A「運営コストを10%削減する必要があります。」B「_____」\n【正解】まずベンダー契約の見直しから始めましょうか。\n【ポイント】課題解決のブレーンストーミング。コスト削減の具体的な第一歩を提案する回答が適切。"
+  },
+  {
+    "category": "ビジネス会話",
+    "question": "A: 'The presentation has been moved to Conference Room B.' B: '_____'",
+    "options": [
+      {
+        "text": "Thanks for letting me know. I'll notify the rest of the team.",
+        "correct": true
+      },
+      {
+        "text": "I don't like Conference Room B.",
+        "correct": false
+      },
+      {
+        "text": "The presentation is cancelled.",
+        "correct": false
+      },
+      {
+        "text": "I will not attend then.",
+        "correct": false
+      }
+    ],
+    "explanation": "【和訳】A「先週提出した提案書についてフォローアップの電話です。」B「_____」\n【正解】お待たせして申し訳ありません。現在審査中です。\n【ポイント】提案書の進捗確認への応答。感謝＋現在の状況説明がビジネス電話の基本。"
+  },
+  {
+    "category": "ビジネス会話",
+    "question": "A: 'How was the turnout at the trade show?' B: '_____'",
+    "options": [
+      {
+        "text": "It was better than expected. We collected over 200 business cards.",
+        "correct": true
+      },
+      {
+        "text": "Nobody came to our booth.",
+        "correct": false
+      },
+      {
+        "text": "I didn't go to the trade show.",
+        "correct": false
+      },
+      {
+        "text": "The turnout was average only.",
+        "correct": false
+      }
+    ],
+    "explanation": "【和訳】A「プレゼンテーションが会議室Bに変更されました。」B「_____」\n【正解】お知らせありがとうございます。チームの皆に連絡します。\n【ポイント】変更通知への応答。感謝＋必要なアクション（周知）を示す。"
+  },
+  {
+    "category": "ビジネス会話",
+    "question": "A: 'Would you mind covering for me while I'm on vacation next week?' B: '_____'",
+    "options": [
+      {
+        "text": "Not at all. Just leave me a list of your pending tasks.",
+        "correct": true
+      },
+      {
+        "text": "I'm too busy with my own work.",
+        "correct": false
+      },
+      {
+        "text": "Why do you need a vacation?",
+        "correct": false
+      },
+      {
+        "text": "I will not be here next week.",
+        "correct": false
+      }
+    ],
+    "explanation": "【和訳】A「展示会の来場者数はどうでしたか？」B「_____」\n【正解】予想より良かったです。200枚以上の名刺を集めました。\n【ポイント】イベント結果の報告。具体的な数字（200枚以上の名刺）を交えて回答する。"
+  },
+  {
+    "category": "ビジネス会話",
+    "question": "A: 'The competitor just launched a similar product at a lower price.' B: '_____'",
+    "options": [
+      {
+        "text": "We should highlight our superior quality and customer service.",
+        "correct": true
+      },
+      {
+        "text": "Let's lower our price even more.",
+        "correct": false
+      },
+      {
+        "text": "We should copy their strategy.",
+        "correct": false
+      },
+      {
+        "text": "That doesn't concern us.",
+        "correct": false
+      }
+    ],
+    "explanation": "【和訳】A「来週休みを取る間、代わりを頼めますか？」B「_____」\n【正解】もちろん。保留中のタスクリストを残してください。\n【ポイント】同僚への業務代理依頼。「Not at all」で快諾し、必要な情報を要求する。"
+  },
+  {
+    "category": "ビジネス会話",
+    "question": "A: 'Could you clarify the terms of the agreement?' B: '_____'",
+    "options": [
+      {
+        "text": "Certainly. The payment is due within 30 days of delivery.",
+        "correct": true
+      },
+      {
+        "text": "The terms are clear enough.",
+        "correct": false
+      },
+      {
+        "text": "I don't understand them either.",
+        "correct": false
+      },
+      {
+        "text": "You should ask a lawyer.",
+        "correct": false
+      }
+    ],
+    "explanation": "【和訳】A「競合他社が同様の製品をより低い価格で発売しました。」B「_____」\n【正解】優れた品質とカスタマーサービスを強調すべきです。\n【ポイント】競合への対応策。価格競争ではなく品質・サービスで差別化する戦略を提案。"
+  },
+  {
+    "category": "ビジネス会話",
+    "question": "A: 'The system crashed again during peak hours.' B: '_____'",
+    "options": [
+      {
+        "text": "The IT team is investigating. We'll have a temporary fix by noon.",
+        "correct": true
+      },
+      {
+        "text": "That's normal for our systems.",
+        "correct": false
+      },
+      {
+        "text": "Please restart your computer.",
+        "correct": false
+      },
+      {
+        "text": "It always crashes, nothing we can do.",
+        "correct": false
+      }
+    ],
+    "explanation": "【和訳】A「契約条件を明確にしていただけますか？」B「_____」\n【正解】もちろんです。支払いは配送から30日以内です。\n【ポイント】契約条件の確認依頼への応答。具体的な支払い条件を明確に回答する。"
+  },
+  {
+    "category": "ビジネス会話",
+    "question": "A: 'I'd like to place a bulk order for office supplies.' B: '_____'",
+    "options": [
+      {
+        "text": "We offer a 15% discount on orders over $500. How many units do you need?",
+        "correct": true
+      },
+      {
+        "text": "We don't accept bulk orders.",
+        "correct": false
+      },
+      {
+        "text": "Please buy from another supplier.",
+        "correct": false
+      },
+      {
+        "text": "I am not the right person.",
+        "correct": false
+      }
+    ],
+    "explanation": "【和訳】A「システムがピーク時にまたクラッシュしました。」B「_____」\n【正解】ITチームが調査中です。お昼までに一時的な修正が完了します。\n【ポイント】システム障害の報告への対応。現在の対応状況と解決予定時刻を伝える。"
+  },
+  {
+    "category": "ビジネス会話",
+    "question": "A: 'We've received several complaints about the new product.' B: '_____'",
+    "options": [
+      {
+        "text": "Let's investigate the issue and consider a product recall if necessary.",
+        "correct": true
+      },
+      {
+        "text": "Customers always complain.",
+        "correct": false
+      },
+      {
+        "text": "The product is fine as is.",
+        "correct": false
+      },
+      {
+        "text": "Let's ignore the complaints.",
+        "correct": false
+      }
+    ],
+    "explanation": "【和訳】A「办公用品の大量注文をしたいのですが。」B「_____」\n【正解】500ドル以上のご注文で15%割引です。何単位必要ですか？\n【ポイント】大口注文への対応。割引情報を提供しつつ、具体的な注文内容を確認する。"
+  },
+  {
+    "category": "ビジネス会話",
+    "question": "A: 'Is the conference room equipped with video conferencing facilities?' B: '_____'",
+    "options": [
+      {
+        "text": "Yes, it has a high-definition camera and a large display screen.",
+        "correct": true
+      },
+      {
+        "text": "No, we don't have any technology.",
+        "correct": false
+      },
+      {
+        "text": "You don't need video conferencing.",
+        "correct": false
+      },
+      {
+        "text": "I don't know what video conferencing is.",
+        "correct": false
+      }
+    ],
+    "explanation": "【和訳】A「新製品について複数の苦情が寄せられています。」B「_____」\n【正解】問題を調査し、必要に応じてリコールを検討しましょう。\n【ポイント】製品クレームへの対応。調査→必要に応じたリコールという段階的な対応を提案。"
+  },
+  {
+    "category": "ビジネス会話",
+    "question": "A: 'What do you think about hiring a consultant for this project?' B: '_____'",
+    "options": [
+      {
+        "text": "It might be worthwhile if we find someone with relevant industry experience.",
+        "correct": true
+      },
+      {
+        "text": "Consultants are too expensive.",
+        "correct": false
+      },
+      {
+        "text": "We don't need any help.",
+        "correct": false
+      },
+      {
+        "text": "I've never heard of consultants.",
+        "correct": false
+      }
+    ],
+    "explanation": "【和訳】A「会議室はビデオ会議設備を備えていますか？」B「_____」\n【正解】はい、高解像度カメラと大型ディスプレイがあります。\n【ポイント】設備確認への応答。利用可能な具体的な設備を列挙して回答する。"
+  },
+  {
+    "category": "ビジネス会話",
+    "question": "A: 'The deadline for the project has been moved up by a week.' B: '_____'",
+    "options": [
+      {
+        "text": "That's going to be tight, but we can prioritize the critical tasks.",
+        "correct": true
+      },
+      {
+        "text": "We should quit the project.",
+        "correct": false
+      },
+      {
+        "text": "Deadlines don't matter.",
+        "correct": false
+      },
+      {
+        "text": "I won't work faster.",
+        "correct": false
+      }
+    ],
+    "explanation": "【和訳】A「このプロジェクトのためにコンサルタントを雇うのはどう思いますか？」B「_____」\n【正解】関連する業界経験がある人を見つけられれば worthwhile かもしれません。\n【ポイント】提案への意見。「～すれば有益かもしれない」と条件付きで前向きに回答。"
+  },
+  {
+    "category": "ビジネス会話",
+    "question": "A: 'I'd like to discuss the budget allocation for Q2.' B: '_____'",
+    "options": [
+      {
+        "text": "Shall we schedule a meeting with the finance team for tomorrow?",
+        "correct": true
+      },
+      {
+        "text": "The budget is already decided.",
+        "correct": false
+      },
+      {
+        "text": "I don't care about the budget.",
+        "correct": false
+      },
+      {
+        "text": "Let's skip Q2 entirely.",
+        "correct": false
+      }
+    ],
+    "explanation": "【和訳】A「プロジェクトの期限が1週間前倒しになりました。」B「_____」\n【正解】厳しくなりますが、重要タスクを優先すれば対応できます。\n【ポイント】期限変更への対応。現実的な課題を認めつつ、解決策を提示する前向きな態度。"
+  },
+  {
+    "category": "ビジネス会話",
+    "question": "A: 'The new intern seems to be struggling with the software.' B: '_____'",
+    "options": [
+      {
+        "text": "I'll assign a mentor to provide some one-on-one training.",
+        "correct": true
+      },
+      {
+        "text": "That's the intern's problem.",
+        "correct": false
+      },
+      {
+        "text": "Let's fire the intern.",
+        "correct": false
+      },
+      {
+        "text": "The software is too easy.",
+        "correct": false
+      }
+    ],
+    "explanation": "【和訳】A「第2四半期の予算配分について話し合いたいのですが。」B「_____」\n【正解】明日財務チームとの会議を設定しましょうか？\n【ポイント】予算討議の提案への応答。具体的な次のステップ（会議設定）を提案する。"
+  },
+  {
+    "category": "ビジネス会話",
+    "question": "A: 'Have you confirmed the venue for the annual gala?' B: '_____'",
+    "options": [
+      {
+        "text": "Yes, the Grand Ballroom at the Hilton has been reserved for December 10.",
+        "correct": true
+      },
+      {
+        "text": "No, we haven't started planning yet.",
+        "correct": false
+      },
+      {
+        "text": "I forgot about the gala.",
+        "correct": false
+      },
+      {
+        "text": "The gala is cancelled this year.",
+        "correct": false
+      }
+    ],
+    "explanation": "【和訳】A「新しいインターンがソフトウェアの操作に苦戦しているようです。」B「_____」\n【正解】メンターを付けて個別トレーニングを提供させます。\n【ポイント】研修課題への対応。具体的な解決策（メンター制度）を提案する。"
+  },
+  {
+    "category": "ビジネス会話",
+    "question": "A: 'We need to finalize the agenda for tomorrow's board meeting.' B: '_____'",
+    "options": [
+      {
+        "text": "I've drafted a preliminary version. Could you review it by 4 p.m.?",
+        "correct": true
+      },
+      {
+        "text": "We don't need an agenda.",
+        "correct": false
+      },
+      {
+        "text": "The meeting is already over.",
+        "correct": false
+      },
+      {
+        "text": "I'll handle it tomorrow.",
+        "correct": false
+      }
+    ],
+    "explanation": "【和訳】A「年次ガラの会場は確認しましたか？」B「_____」\n【正解】はい、ヒルトンのグランドボールルームを12月10日に予約済みです。\n【ポイント】イベント準備の進捗確認。具体的な会場名と日付を回答する。"
+  },
+  {
+    "category": "ビジネス会話",
+    "question": "A: 'Could you introduce me to the new director of operations?' B: '_____'",
+    "options": [
+      {
+        "text": "Of course. Let me arrange a meeting for this Thursday afternoon.",
+        "correct": true
+      },
+      {
+        "text": "No, the director is too busy.",
+        "correct": false
+      },
+      {
+        "text": "You should introduce yourself.",
+        "correct": false
+      },
+      {
+        "text": "I don't know the new director.",
+        "correct": false
+      }
+    ],
+    "explanation": "【和訳】A「明日の取締役会の議題を確定させる必要があります。」B「_____」\n【正解】仮版を作成しました。午後4時までにレビューしていただけますか？\n【ポイント】議題作成の依頼への応答。進捗を報告し、レビューを依頼する。"
+  },
+  {
+    "category": "ビジネス会話",
+    "question": "A: 'Our supplier has increased their prices by 8 percent.' B: '_____'",
+    "options": [
+      {
+        "text": "Let's negotiate with them or explore alternative suppliers.",
+        "correct": true
+      },
+      {
+        "text": "We should pay whatever they ask.",
+        "correct": false
+      },
+      {
+        "text": "That's not our problem.",
+        "correct": false
+      },
+      {
+        "text": "Let's stop buying from them.",
+        "correct": false
+      }
+    ],
+    "explanation": "【和訳】A「新しい事業部長をご紹介いただけますか？」B「_____」\n【正解】もちろん。今週木曜日の午後に面談を手配しましょう。\n【ポイント】紹介の依頼への応答。具体的な日程を提案してアクションに移す。"
+  },
+  {
+    "category": "ビジネス会話",
+    "question": "A: 'The client wants to extend the contract for another year.' B: '_____'",
+    "options": [
+      {
+        "text": "That's great news. Let's prepare the revised contract terms.",
+        "correct": true
+      },
+      {
+        "text": "We shouldn't accept extensions.",
+        "correct": false
+      },
+      {
+        "text": "The contract is already expired.",
+        "correct": false
+      },
+      {
+        "text": "I don't like that client.",
+        "correct": false
+      }
+    ],
+    "explanation": "【和訳】A「サプライヤーが価格を8%値上げしました。」B「_____」\n【正解】交渉するか、代替サプライヤーを探しましょう。\n【ポイント】サプライヤー値上げへの対応。交渉と代替の両方の選択肢を提示。"
+  },
+  {
+    "category": "ビジネス会話",
+    "question": "A: 'I'm concerned about the quality of the latest shipment.' B: '_____'",
+    "options": [
+      {
+        "text": "I'll conduct an inspection and report my findings to the supplier.",
+        "correct": true
+      },
+      {
+        "text": "The quality is fine.",
+        "correct": false
+      },
+      {
+        "text": "We can't do anything about it.",
+        "correct": false
+      },
+      {
+        "text": "Let me sell it anyway.",
+        "correct": false
+      }
+    ],
+    "explanation": "【和訳】A「クライアントが契約をもう1年延長したいと言っています。」B「_____」\n【正解】素晴らしいニュースです。改訂版の契約条件を準備しましょう。\n【ポイント】契約延長の報告への対応。好意的な反応＋次のアクション（契約書準備）を示す。"
+  },
+  {
+    "category": "ビジネス会話",
+    "question": "A: 'When will the new office furniture be delivered?' B: '_____'",
+    "options": [
+      {
+        "text": "The delivery is scheduled for next Wednesday between 10 a.m. and 2 p.m.",
+        "correct": true
+      },
+      {
+        "text": "It was delivered yesterday.",
+        "correct": false
+      },
+      {
+        "text": "The furniture is not ordered.",
+        "correct": false
+      },
+      {
+        "text": "I have no information about that.",
+        "correct": false
+      }
+    ],
+    "explanation": "【和訳】A「最新の出荷の品質が気になります。」B「_____」\n【正解】検査を実施し、結果をサプライヤーに報告します。\n【ポイント】品質懸念への対応。具体的な調査行動を約束する。"
+  },
+  {
+    "category": "ビジネス会話",
+    "question": "A: 'The quarterly sales report shows a 5% decline.' B: '_____'",
+    "options": [
+      {
+        "text": "Let's analyze the data by region to identify where the drop occurred.",
+        "correct": true
+      },
+      {
+        "text": "Sales reports are not important.",
+        "correct": false
+      },
+      {
+        "text": "We should ignore the decline.",
+        "correct": false
+      },
+      {
+        "text": "The report is probably wrong.",
+        "correct": false
+      }
+    ],
+    "explanation": "【和訳】A「新しいオフィス家具はいつ届きますか？」B「_____」\n【正解】来週水曜日の午前10時から午後2時の間に配送予定です。\n【ポイント】配送スケジュールの確認。具体的な日時帯を回答する。"
+  },
+  {
+    "category": "ビジネス会話",
+    "question": "A: 'We need someone to present at the industry conference next month.' B: '_____'",
+    "options": [
+      {
+        "text": "I'd be happy to present. I have some ideas for the topic already.",
+        "correct": true
+      },
+      {
+        "text": "Nobody wants to do that.",
+        "correct": false
+      },
+      {
+        "text": "Conferences are a waste of time.",
+        "correct": false
+      },
+      {
+        "text": "We should skip the conference.",
+        "correct": false
+      }
+    ],
+    "explanation": "【和訳】A「四半期売上報告書が5%減少しています。」B「_____」\n【正解】地域別にデータを分析して、減少がどこで起きているか特定しましょう。\n【ポイント】業績低下への対応。分析の切り口（地域別）を提案し、問題の特定を目指す。"
+  },
+  {
+    "category": "ビジネス会話",
+    "question": "A: 'The website traffic has increased significantly since the marketing campaign.' B: '_____'",
+    "options": [
+      {
+        "text": "That's encouraging. Are we seeing a corresponding increase in conversions?",
+        "correct": true
+      },
+      {
+        "text": "Website traffic doesn't matter.",
+        "correct": false
+      },
+      {
+        "text": "The marketing campaign was a failure.",
+        "correct": false
+      },
+      {
+        "text": "We should stop the campaign.",
+        "correct": false
+      }
+    ],
+    "explanation": "【和訳】A「来月の業界会議で発表する人が必要です。」B「_____」\n【正解】喜んで発表します。すでにトピックのアイデアがあります。\n【ポイント】発表者募集への応答。前向きに引き受け、準備があることを示す。"
+  },
+  {
+    "category": "ビジネス会話",
+    "question": "A: 'Can we push the team building event to next month?' B: '_____'",
+    "options": [
+      {
+        "text": "That should be fine. I'll check venue availability and let you know.",
+        "correct": true
+      },
+      {
+        "text": "No, it must happen this week.",
+        "correct": false
+      },
+      {
+        "text": "We don't need a team building event.",
+        "correct": false
+      },
+      {
+        "text": "I already cancelled it.",
+        "correct": false
+      }
+    ],
+    "explanation": "【和訳】A「マーケティングキャンペーン以降、ウェブサイトトラフィックが大幅に増加しています。」B「_____」\n【正解】励みになります。コンバージョンも対応して増加していますか？\n【ポイント】良い結果の報告への対応。トラフィック増加だけでなく、重要指標（コンバージョン）への影響を確認。"
+  },
+  {
+    "category": "ビジネス会話",
+    "question": "A: 'The customer is requesting a refund for the defective product.' B: '_____'",
+    "options": [
+      {
+        "text": "Process the refund and offer a discount on their next purchase as compensation.",
+        "correct": true
+      },
+      {
+        "text": "We don't give refunds.",
+        "correct": false
+      },
+      {
+        "text": "It's the customer's fault.",
+        "correct": false
+      },
+      {
+        "text": "Tell them to contact the manufacturer.",
+        "correct": false
+      }
+    ],
+    "explanation": "【和訳】A「チームビルディングイベントを来月に延期できますか？」B「_____」\n【正解】問題ないと思います。会場の空きを確認してお知らせします。\n【ポイント】日程変更の依頼への対応。柔軟に対応し、次のステップを提示する。"
+  },
+  {
+    "category": "ビジネス会話",
+    "question": "A: 'I think we should adopt a more flexible work arrangement.' B: '_____'",
+    "options": [
+      {
+        "text": "I agree. Let's draft a proposal and present it to HR.",
+        "correct": true
+      },
+      {
+        "text": "Flexibility is overrated.",
+        "correct": false
+      },
+      {
+        "text": "Everyone should work 9 to 5.",
+        "correct": false
+      },
+      {
+        "text": "That's not a good idea.",
+        "correct": false
+      }
+    ],
+    "explanation": "【和訳】A「お客様が不良品の返金を求めています。」B「_____」\n【正解】返金を処理し、補償として次回購入の割引を提供してください。\n【ポイント】クレーム対応。返金＋割引という顧客満足度を考慮した対応を指示。"
+  },
+  {
+    "category": "ビジネス会話",
+    "question": "A: 'The auditor will be visiting our office next week.' B: '_____'",
+    "options": [
+      {
+        "text": "I'll make sure all financial records are organized and ready for review.",
+        "correct": true
+      },
+      {
+        "text": "We have nothing to show.",
+        "correct": false
+      },
+      {
+        "text": "The auditor can come anytime.",
+        "correct": false
+      },
+      {
+        "text": "Let's cancel the audit.",
+        "correct": false
+      }
+    ],
+    "explanation": "【和訳】A「より柔軟な勤務体制を導入すべきだと思います。」B「_____」\n【正解】賛成です。提案書を作成して人事に提出しましょう。\n【ポイント】新しいアイデアへの同意。同意を示し、具体的な次のステップを提案。"
+  },
+  {
+    "category": "ビジネス文書",
+    "question": "What is the main purpose of this email? — 'Subject: Invitation to Annual Shareholder Meeting — Dear Shareholders, You are cordially invited to attend our Annual Shareholder Meeting on March 15 at 2:00 p.m. at the Main Auditorium...'",
+    "options": [
+      {
+        "text": "To invite shareholders to the annual meeting",
+        "correct": true
+      },
+      {
+        "text": "To announce quarterly earnings",
+        "correct": false
+      },
+      {
+        "text": "To request shareholder votes on a merger",
+        "correct": false
+      },
+      {
+        "text": "To inform about a change in leadership",
+        "correct": false
+      }
+    ],
+    "explanation": "【和訳】A「来週監査人がオフィスを訪問します。」B「_____」\n【正解】すべての財務記録を整理し、レビューの準備を整えます。\n【ポイント】監査への対応。事前準備の具体的な行動を約束する。"
+  },
+  {
+    "category": "ビジネス文書",
+    "question": "According to the job posting, what qualification is required? — 'Requirements: Bachelor's degree in Business Administration, 3+ years of experience in project management, proficiency in Microsoft Office Suite...'",
+    "options": [
+      {
+        "text": "A degree in Business Administration and 3+ years of project management experience",
+        "correct": true
+      },
+      {
+        "text": "A master's degree in any field",
+        "correct": false
+      },
+      {
+        "text": "Five years of experience in marketing",
+        "correct": false
+      },
+      {
+        "text": "A certificate in project management only",
+        "correct": false
+      }
+    ],
+    "explanation": "【和訳】このメールの主な目的は何ですか？—「件名：年次株主総会への招待」\n【正解】株主を年次総会に招待すること\n【ポイント】メールの目的を問う。件名「Invitation to Annual Shareholder Meeting」から目的を判断する。TOEICでは件名が重要な手がかり。"
+  },
+  {
+    "category": "ビジネス文書",
+    "question": "What is stated in the company policy about expense reimbursement? — 'All business expenses exceeding $50 must be pre-approved by a department manager. Receipts must be submitted within 30 days of purchase.'",
+    "options": [
+      {
+        "text": "Expenses over $50 require prior manager approval and receipts within 30 days",
+        "correct": true
+      },
+      {
+        "text": "All expenses are automatically reimbursed",
+        "correct": false
+      },
+      {
+        "text": "Only expenses over $100 need approval",
+        "correct": false
+      },
+      {
+        "text": "Receipts are not necessary",
+        "correct": false
+      }
+    ],
+    "explanation": "【和訳】求人広告によると、必要な資格は何ですか？—「要件：経営学学士号、プロジェクトマネジメント3年以上の経験、Microsoft Officeの熟練」\n【正解】経営学の学位とプロジェクトマネジメント3年以上の経験\n【ポイント】要件（Requirements）セクションから必須資格を読み取る。"
+  },
+  {
+    "category": "ビジネス文書",
+    "question": "What does the invoice indicate about the payment terms? — 'Payment Terms: Net 30. A late fee of 1.5% per month will be applied to overdue balances.'",
+    "options": [
+      {
+        "text": "Payment is due within 30 days, with a 1.5% monthly late fee",
+        "correct": true
+      },
+      {
+        "text": "Payment is due immediately",
+        "correct": false
+      },
+      {
+        "text": "Payment can be made within 60 days with no penalty",
+        "correct": false
+      },
+      {
+        "text": "The late fee is 5% per month",
+        "correct": false
+      }
+    ],
+    "explanation": "【和訳】会社の経費精算ポリシーには何と記載されていますか？—「50ドルを超える業務経費は事前に部門マネージャーの承認が必要です。」\n【正解】50ドル超の経費には事前のマネージャー承認と30日以内の領収書が必要\n【ポイント】ポリシーの条件を正確に読み取る。金額（$50）と期限（30日）の両方を含める。"
+  },
+  {
+    "category": "ビジネス文書",
+    "question": "According to the meeting minutes, what decision was made? — 'After thorough discussion, the committee voted 5-2 in favor of allocating additional funds to the marketing department.'",
+    "options": [
+      {
+        "text": "More funds will be given to the marketing department",
+        "correct": true
+      },
+      {
+        "text": "The marketing department's budget was cut",
+        "correct": false
+      },
+      {
+        "text": "The decision was postponed",
+        "correct": false
+      },
+      {
+        "text": "The committee was evenly split",
+        "correct": false
+      }
+    ],
+    "explanation": "【和訳】請求書は支払い条件について何を示していますか？—「支払い条件：30日以内。遅延残高には月1.5%の遅延利息が適用されます。」\n【正解】30日以内に支払い、月1.5%の遅延利息\n【ポイント】支払い条件（Payment Terms）の読み取り。Net 30＝30日払い、遅延利息＝1.5%/月。"
+  },
+  {
+    "category": "ビジネス文書",
+    "question": "What information is provided in this company announcement? — 'Effective January 1, the company will implement a new dress code policy. Business casual attire will be the standard Monday through Thursday, with casual dress permitted on Fridays.'",
+    "options": [
+      {
+        "text": "Business casual Monday-Thursday, casual on Fridays",
+        "correct": true
+      },
+      {
+        "text": "Formal attire is required every day",
+        "correct": false
+      },
+      {
+        "text": "Casual dress is allowed every day",
+        "correct": false
+      },
+      {
+        "text": "Only suits are permitted in the office",
+        "correct": false
+      }
+    ],
+    "explanation": "【和訳】議事録によると、どのような決定がなされましたか？—「委員会は5対2でマーケティング部門への追加資金配分に賛成票を投じた。」\n【正解】マーケティング部門により多くの資金が配分される\n【ポイント】議事録での決定事項の読み取り。「voted 5-2 in favor of」＝賛成5、反対2で承認。"
+  },
+  {
+    "category": "ビジネス文書",
+    "question": "What should the recipient do upon receiving this notice? — 'Please verify your contact information in the employee portal by December 31. Failure to update your records may result in missed communications regarding benefits enrollment.'",
+    "options": [
+      {
+        "text": "Update their contact information in the employee portal by December 31",
+        "correct": true
+      },
+      {
+        "text": "Contact HR by phone",
+        "correct": false
+      },
+      {
+        "text": "No action is required",
+        "correct": false
+      },
+      {
+        "text": "Submit a benefits enrollment form",
+        "correct": false
+      }
+    ],
+    "explanation": "【和訳】この会社のお知らせでは何の情報が提供されていますか？—「1月1日より、新しいドレスコードポリシーを実施します。月〜木はビジネスカジュアル、金曜日はカジュアル。」\n【正解】月〜木はビジネスカジュアル、金曜日はカジュアル\n【ポイント】ポリシー変更の内容を読み取る。曜日ごとの服装規定を確認する。"
+  },
+  {
+    "category": "ビジネス文書",
+    "question": "What does the contract state about early termination? — 'Either party may terminate this agreement with 60 days' written notice. A termination fee equal to 3 months' service charges will apply.'",
+    "options": [
+      {
+        "text": "Either party can end the contract with 60 days' notice and pay 3 months' fee",
+        "correct": true
+      },
+      {
+        "text": "The contract cannot be terminated early",
+        "correct": false
+      },
+      {
+        "text": "Only the service provider can terminate",
+        "correct": false
+      },
+      {
+        "text": "No fees are charged for early termination",
+        "correct": false
+      }
+    ],
+    "explanation": "【和訳】この通知を受け取った後、受信者は何をすべきですか？—「12月31日までに従業員ポータルで連絡先情報を確認してください。」\n【正解】12月31日までに従業員ポータルで連絡先情報を更新する\n【ポイント】アクションの指示を読み取る。期限（12月31日）と方法（従業員ポータル）の両方を確認。"
+  },
+  {
+    "category": "ビジネス文書",
+    "question": "What benefit does the Premium membership offer? — 'Premium members enjoy unlimited access to all facilities, priority booking for events, and a 20% discount at the restaurant and gift shop.'",
+    "options": [
+      {
+        "text": "Unlimited facility access, priority event booking, and 20% discounts",
+        "correct": true
+      },
+      {
+        "text": "Free parking and free meals",
+        "correct": false
+      },
+      {
+        "text": "Access to one facility per month",
+        "correct": false
+      },
+      {
+        "text": "A 50% discount on all services",
+        "correct": false
+      }
+    ],
+    "explanation": "【和訳】契約は早期解約について何と規定していますか？—「いずれの当事者も60日間の書面通知で本契約を解除できます。3ヶ月分のサービス料金に相当する解約手数料が適用されます。」\n【正解】60日間の予告で解約可能、3ヶ月分の料金を支払う\n【ポイント】契約解除条件の読み取り。通知期間（60日）と手数料（3ヶ月分）の両方を確認。"
+  },
+  {
+    "category": "ビジネス文書",
+    "question": "According to the press release, what is the company's plan? — 'BrightStar Electronics today announced the acquisition of SolarTech Innovations for $450 million, aimed at expanding its presence in the renewable energy market.'",
+    "options": [
+      {
+        "text": "To expand in the renewable energy market by acquiring SolarTech Innovations",
+        "correct": true
+      },
+      {
+        "text": "To sell its electronics division",
+        "correct": false
+      },
+      {
+        "text": "To close its renewable energy operations",
+        "correct": false
+      },
+      {
+        "text": "To merge with a competitor",
+        "correct": false
+      }
+    ],
+    "explanation": "【和訳】プレミアム会員にはどのような特典がありますか？—「プレミアム会員はすべての施設への無制限アクセス、イベントの優先予約、レストラン・ギフトショップで20%割引。」\n【正解】施設への無制限アクセス、イベント優先予約、20%割引\n【ポイント】会員特典の読み取り。3つの特典をすべて把握する。"
+  },
+  {
+    "category": "ビジネス文書",
+    "question": "What change is announced in this memo? — 'Starting next month, the company cafeteria will transition to a cashless payment system. All employees must register their employee ID cards for payment.'",
+    "options": [
+      {
+        "text": "The cafeteria will only accept employee ID card payments",
+        "correct": true
+      },
+      {
+        "text": "The cafeteria will be closed",
+        "correct": false
+      },
+      {
+        "text": "Cash payments will still be accepted",
+        "correct": false
+      },
+      {
+        "text": "The cafeteria will move to a new location",
+        "correct": false
+      }
+    ],
+    "explanation": "【和訳】プレスリリースによると、会社の計画は何ですか？—「BrightStar ElectronicsがSolarTech Innovationsを4億5000万ドルで買収し、再生可能エネルギー市場への参入を拡大。」\n【正解】SolarTech Innovationsを買収して再生可能エネルギー市場に進出する\n【ポイント】企業の戦略的動向の読み取り。買収先（SolarTech）と目的（再生可能エネルギー市場への拡大）を確認。"
+  },
+  {
+    "category": "ビジネス文書",
+    "question": "What is the purpose of this form? — 'Travel Authorization Form — Please complete all sections below and obtain your supervisor's signature before booking any business travel. Submit the completed form to the finance department at least 2 weeks in advance.'",
+    "options": [
+      {
+        "text": "To obtain approval before booking business travel",
+        "correct": true
+      },
+      {
+        "text": "To request reimbursement after travel",
+        "correct": false
+      },
+      {
+        "text": "To apply for a travel credit card",
+        "correct": false
+      },
+      {
+        "text": "To report travel expenses",
+        "correct": false
+      }
+    ],
+    "explanation": "【和訳】このメモではどのような変更が発表されていますか？—「来月から、社員食堂がキャッシュレス決済に移行します。すべての従業員は従業員IDカードを決済に登録する必要があります。」\n【正解】食堂は従業員IDカードの決済のみに対応する\n【ポイント】制度変更の内容を読み取る。現金→キャッシュレスへの移行。"
+  },
+  {
+    "category": "ビジネス文書",
+    "question": "What does the performance evaluation summary state about Ms. Rodriguez? — 'Ms. Rodriguez consistently exceeds expectations in client management and has demonstrated exceptional leadership in guiding her team through the recent organizational transition.'",
+    "options": [
+      {
+        "text": "She exceeds expectations and shows strong leadership",
+        "correct": true
+      },
+      {
+        "text": "She meets basic expectations only",
+        "correct": false
+      },
+      {
+        "text": "She needs improvement in client management",
+        "correct": false
+      },
+      {
+        "text": "She struggled with the organizational transition",
+        "correct": false
+      }
+    ],
+    "explanation": "【和訳】このフォームの目的は何ですか？—「出張承認フォーム：出張を予約する前にすべての欄を記入し、上司の署名を取得してください。」\n【正解】出張を予約する前に承認を得るため\n【ポイント】フォームの目的を読み取る。事前承認（supervisor's signature）がキーワード。"
+  },
+  {
+    "category": "ビジネス文書",
+    "question": "According to the product recall notice, what should customers do? — 'Due to a potential safety issue, customers who purchased Model X-200 coffee makers between January and March should stop using the product immediately and contact our customer service for a free replacement.'",
+    "options": [
+      {
+        "text": "Stop using the product and contact customer service for a free replacement",
+        "correct": true
+      },
+      {
+        "text": "Continue using the product until a recall kit arrives",
+        "correct": false
+      },
+      {
+        "text": "Return the product to the store for a refund",
+        "correct": false
+      },
+      {
+        "text": "No action is needed",
+        "correct": false
+      }
+    ],
+    "explanation": "【和訳】業績評価サマリーはロドリゲスさんについて何と述べていますか？—「ロドリゲスさんは顧客管理で常に期待を上回り、チームを指導する卓越したリーダーシップを示している。」\n【正解】期待を上回り、強力なリーダーシップを示している\n【ポイント】業績評価の読み取り。「consistently exceeds expectations」＝常に期待を上回る。"
+  },
+  {
+    "category": "ビジネス文書",
+    "question": "What is mentioned about the new office location? — 'Our new headquarters will be located at 500 Innovation Drive, Suite 300, San Jose, CA. The move is scheduled for the first weekend of April. All IT equipment will be set up prior to the move.'",
+    "options": [
+      {
+        "text": "The move is in April and IT equipment will be set up beforehand",
+        "correct": true
+      },
+      {
+        "text": "The new office is in New York",
+        "correct": false
+      },
+      {
+        "text": "Employees must set up their own equipment",
+        "correct": false
+      },
+      {
+        "text": "The move has been postponed indefinitely",
+        "correct": false
+      }
+    ],
+    "explanation": "【和訳】製品リコール通知によると、顧客は何をすべきですか？—「1月から3月にX-200コーヒーメーカーを購入した顧客は使用を中止し、カスタマーサービスに連絡して無料交換を受けてください。」\n【正解】製品の使用を中止し、カスタマーサービスに連絡して無料交換を受ける\n【ポイント】リコール対応の手順を読み取る。使用中止→連絡→無料交換の順序。"
+  },
+  {
+    "category": "ビジネス文書",
+    "question": "What does the warranty policy cover? — 'This warranty covers manufacturing defects for a period of two years from the date of purchase. Damage caused by misuse, accidents, or unauthorized modifications is not covered.'",
+    "options": [
+      {
+        "text": "Manufacturing defects for two years, excluding misuse or accidents",
+        "correct": true
+      },
+      {
+        "text": "All types of damage for two years",
+        "correct": false
+      },
+      {
+        "text": "Manufacturing defects for one year only",
+        "correct": false
+      },
+      {
+        "text": "Unlimited coverage for the product's lifetime",
+        "correct": false
+      }
+    ],
+    "explanation": "【和訳】新しいオフィスの場所については何が言及されていますか？—「新本社はサンノゼのイノベーションドライブ500番地。4月の第1週末に移転。IT機器は事前にセットアップ済み。」\n【正解】移転は4月で、IT機器は事前にセットアップされる\n【ポイント】オフィス移転の詳細を読み取る。移転時期（4月）と事前準備（IT機器）を確認。"
+  },
+  {
+    "category": "ビジネス文書",
+    "question": "What is the purpose of this training announcement? — 'All sales staff are required to complete the new Customer Relationship Management (CRM) software training by the end of this month. Online modules are available through the learning portal.'",
+    "options": [
+      {
+        "text": "To inform sales staff about mandatory CRM training",
+        "correct": true
+      },
+      {
+        "text": "To announce a new CRM software purchase",
+        "correct": false
+      },
+      {
+        "text": "To recruit new sales staff",
+        "correct": false
+      },
+      {
+        "text": "To cancel the CRM system",
+        "correct": false
+      }
+    ],
+    "explanation": "【和訳】保証ポリシーは何をカバーしていますか？—「この保証は購入日から2年間の製造上の欠陥をカバーします。誤用、事故、不正改造による損傷は除外されます。」\n【正解】2年間の製造欠陥。誤用や事故は除外\n【ポイント】保証の範囲と除外事項の読み取り。期間（2年）と対象（製造欠陥のみ）を確認。"
+  },
+  {
+    "category": "ビジネス文書",
+    "question": "According to the survey results, what was the most common employee concern? — 'The annual employee satisfaction survey revealed that 42% of respondents cited work-life balance as their primary concern, followed by career development opportunities at 28%.'",
+    "options": [
+      {
+        "text": "Work-life balance",
+        "correct": true
+      },
+      {
+        "text": "Career development opportunities",
+        "correct": false
+      },
+      {
+        "text": "Office facilities",
+        "correct": false
+      },
+      {
+        "text": "Salary and compensation",
+        "correct": false
+      }
+    ],
+    "explanation": "【和訳】この研修のお知らせの目的は何ですか？—「すべての営業スタッフは今月末までに新しいCRMソフトウェア研修を修了する必要があります。」\n【正解】営業スタッフに必修CRM研修を通知すること\n【ポイント】お知らせの目的を読み取る。対象（営業スタッフ）、内容（CRM研修）、期限（月末）。"
+  },
+  {
+    "category": "ビジネス文書",
+    "question": "What does the lease agreement state about pets? — 'Tenants are permitted to keep one small domestic pet with prior written approval from the property management. A pet deposit of $300 is required, of which $150 is refundable.'",
+    "options": [
+      {
+        "text": "One small pet is allowed with written approval and a $300 deposit",
+        "correct": true
+      },
+      {
+        "text": "No pets are allowed under any circumstances",
+        "correct": false
+      },
+      {
+        "text": "Unlimited pets are allowed at no extra charge",
+        "correct": false
+      },
+      {
+        "text": "Only cats are permitted",
+        "correct": false
+      }
+    ],
+    "explanation": "【和訳】調査結果によると、最も一般的な従業員の懸念は何でしたか？—「年次従業員満足度調査で、回答者の42%がワークライフバランスを最大の懸念として挙げた。」\n【正解】ワークライフバランス\n【ポイント】調査結果の読み取り。最も多い回答（42%）を確認する。「work-life balance」がキーワード。"
+  },
+  {
+    "category": "ビジネス文書",
+    "question": "What does this email request? — 'Dear Mr. Henderson, We would appreciate it if you could provide a letter of recommendation for our scholarship program. The letter should highlight the applicant's academic achievements and community involvement.'",
+    "options": [
+      {
+        "text": "A letter of recommendation for a scholarship applicant",
+        "correct": true
+      },
+      {
+        "text": "A financial donation for the scholarship fund",
+        "correct": false
+      },
+      {
+        "text": "An application for a scholarship",
+        "correct": false
+      },
+      {
+        "text": "Verification of enrollment",
+        "correct": false
+      }
+    ],
+    "explanation": "【和訳】賃貸契約はペットについて何と規定していますか？—「テナントは事前に管理会社の書面承認を得て小型のペット1匹を飼育できます。300ドルのペット預かり金が必要です。」\n【正解】書面承認と300ドルの預かり金で小型ペット1匹可\n【ポイント】ペット規定の読み取り。条件（書面承認）、数（1匹）、費用（$300）を確認。"
+  },
+  {
+    "category": "ビジネス文書",
+    "question": "What does the flight itinerary show? — 'Flight KE123: Seoul (ICN) to Tokyo (NRT), Departure: 08:30, Arrival: 11:00, Class: Business. Return Flight KE456: Tokyo (NRT) to Seoul (ICN), Departure: 18:00, Arrival: 20:30.'",
+    "options": [
+      {
+        "text": "A round-trip business class flight between Seoul and Tokyo",
+        "correct": true
+      },
+      {
+        "text": "A one-way economy class flight",
+        "correct": false
+      },
+      {
+        "text": "A multi-city tour itinerary",
+        "correct": false
+      },
+      {
+        "text": "A domestic flight within Japan",
+        "correct": false
+      }
+    ],
+    "explanation": "【和訳】このメールは何を求めていますか？—「ヘンダーソン様、奨学金プログラムのために推薦状をご提供いただけますか。」\n【正解】奨学金志願者の推薦状\n【ポイント】メールの依頼内容を読み取る。「letter of recommendation for scholarship」がキーワード。"
+  },
+  {
+    "category": "ビジネス文書",
+    "question": "What does the supplier agreement specify about order quantities? — 'The minimum order quantity is 500 units per product category. Orders below this threshold will incur a 15% surcharge on the unit price.'",
+    "options": [
+      {
+        "text": "Minimum 500 units; smaller orders have a 15% surcharge",
+        "correct": true
+      },
+      {
+        "text": "No minimum order quantity is required",
+        "correct": false
+      },
+      {
+        "text": "All orders must be at least 1,000 units",
+        "correct": false
+      },
+      {
+        "text": "Small orders receive a discount",
+        "correct": false
+      }
+    ],
+    "explanation": "【和訳】フライト日程表には何が示されていますか？—「フライトKE123：ソウル→東京、出発8:30、到着11:00、クラス：ビジネス。復路KE456：東京→ソウル、出発18:00。」\n【正解】ソウルと東京間の往復ビジネスクラス便\n【ポイント】航空券情報の読み取り。路線（ソウル−東京）、クラス（ビジネス）、往復（round-trip）を確認。"
+  },
+  {
+    "category": "ビジネス文書",
+    "question": "What is stated in the company's vacation policy? — 'Full-time employees accrue 15 days of paid vacation per year during their first three years. After three years, the allowance increases to 20 days per year.'",
+    "options": [
+      {
+        "text": "15 days for the first 3 years, then 20 days per year",
+        "correct": true
+      },
+      {
+        "text": "All employees get 20 days of vacation",
+        "correct": false
+      },
+      {
+        "text": "Vacation days increase every year",
+        "correct": false
+      },
+      {
+        "text": "Part-time employees get the same vacation as full-time",
+        "correct": false
+      }
+    ],
+    "explanation": "【和訳】サプライヤー契約は発注数量について何と規定していますか？—「最小注文数量はカテゴリごとに500単位です。この閾値以下の注文には単価に15%の追加料金がかかります。」\n【正解】最小500単位。それ以下の注文は15%の追加料金\n【ポイント】注文条件の読み取り。最小数量（500）とペナルティ（15% surcharge）を確認。"
+  },
+  {
+    "category": "ビジネス文書",
+    "question": "What does the event cancellation policy state? — 'Cancellations received at least 7 days before the event will receive a full refund. Cancellations within 7 days are subject to a 50% cancellation fee. No refunds will be issued for no-shows.'",
+    "options": [
+      {
+        "text": "Full refund 7+ days before; 50% fee within 7 days; no refund for no-shows",
+        "correct": true
+      },
+      {
+        "text": "Full refund is always available",
+        "correct": false
+      },
+      {
+        "text": "No refunds under any circumstances",
+        "correct": false
+      },
+      {
+        "text": "50% refund regardless of timing",
+        "correct": false
+      }
+    ],
+    "explanation": "【和訳】会社の休暇ポリシーには何と記載されていますか？—「正社員は最初の3年間、年間15日間の有給休暇を取得します。3年後は年20日に増加します。」\n【正解】最初の3年間は年15日、その後は年20日\n【ポイント】休暇取得日数の読み取り。勤続年数による段階的な増加（15日→20日）を確認。"
+  },
+  {
+    "category": "ビジネス文書",
+    "question": "What does the software license agreement specify about usage? — 'This license permits installation on up to three devices for a single user. Commercial redistribution is strictly prohibited. The license is valid for one year from the date of purchase.'",
+    "options": [
+      {
+        "text": "Up to 3 devices for one user, no redistribution, valid for one year",
+        "correct": true
+      },
+      {
+        "text": "Unlimited devices for all employees",
+        "correct": false
+      },
+      {
+        "text": "Only one device per user",
+        "correct": false
+      },
+      {
+        "text": "The license is permanent with no restrictions",
+        "correct": false
+      }
+    ],
+    "explanation": "【和訳】イベントキャンセルポリシーには何と記載されていますか？—「7日前までのキャンセルは全額返金。7日以内は50%のキャンセル料。当日の不参加は返金なし。」\n【正解】7日前までは全額返金、7日以内は50%手数料、不参加は返金なし\n【ポイント】キャンセル条件の段階的な読み取り。3つの条件（7日前、7日以内、不参加）を把握。"
+  },
+  {
+    "category": "ビジネス文書",
+    "question": "According to the health and safety memo, what new measure is being introduced? — 'In accordance with updated safety regulations, all warehouse staff are required to wear high-visibility vests and protective footwear while on the warehouse floor, effective immediately.'",
+    "options": [
+      {
+        "text": "High-visibility vests and protective footwear are now mandatory in the warehouse",
+        "correct": true
+      },
+      {
+        "text": "Warehouse hours are being reduced",
+        "correct": false
+      },
+      {
+        "text": "New safety training sessions will be offered",
+        "correct": false
+      },
+      {
+        "text": "The warehouse is being closed for renovations",
+        "correct": false
+      }
+    ],
+    "explanation": "【和訳】ソフトウェアライセンス契約は使用について何と規定していますか？—「このライセンスは1ユーザーにつき最大3台のデバイスにインストールを許可します。商用再配布は厳禁。有効期間は1年。」\n【正解】1ユーザー最大3台、再配布不可、有効期間1年\n【ポイント】ライセンス条件の読み取り。デバイス数（3）、制限（再配布不可）、期間（1年）を確認。"
+  },
+  {
+    "category": "ビジネス文書",
+    "question": "What does the order confirmation indicate? — 'Order #78432: 50 units of Office Chair Model A ($189/ea), 20 units of Standing Desk Model B ($449/ea). Estimated delivery: November 20. Total amount: $18,430.'",
+    "options": [
+      {
+        "text": "50 chairs and 20 standing desks, total $18,430, delivery Nov 20",
+        "correct": true
+      },
+      {
+        "text": "20 chairs and 50 standing desks, total $18,430",
+        "correct": false
+      },
+      {
+        "text": "The order has been cancelled",
+        "correct": false
+      },
+      {
+        "text": "Delivery will be on November 30",
+        "correct": false
+      }
+    ],
+    "explanation": "【和訳】健康安全メモによると、どのような新しい対策が導入されていますか？—「倉庫スタッフはすべて高視認性ベストと保護靴を着用することが義務付けられます。」\n【正解】倉庫での高視認性ベストと保護靴の着用が義務化\n【ポイント】安全対策の読み取り。対象（倉庫スタッフ）と必要な装備（ベスト＋保護靴）を確認。"
+  },
+  {
+    "category": "ビジネス文書",
+    "question": "What is the purpose of this internal newsletter section? — 'Employee Spotlight: Congratulations to James Park from the Engineering team for successfully leading the development of our new mobile application, which has already been downloaded over 100,000 times.'",
+    "options": [
+      {
+        "text": "To recognize James Park for his successful mobile app project",
+        "correct": true
+      },
+      {
+        "text": "To announce a new mobile app for customers",
+        "correct": false
+      },
+      {
+        "text": "To recruit engineers for the mobile team",
+        "correct": false
+      },
+      {
+        "text": "To promote the company's mobile application",
+        "correct": false
+      }
+    ],
+    "explanation": "【和訳】注文確認書には何が示されていますか？—「注文#78432：オフィスチェアモデルA 50台（$189/台）、スタンディングデスクモデルB 20台（$449/台）。配送予定：11月20日。合計：$18,430。」\n【正解】チェア50台とスタンディングデスク20台、合計$18,430、11月20日配送\n【ポイント】注文内容の読み取り。品目・数量・合計金額・配送日の正確な把握。"
+  },
+  {
+    "category": "短文穴埋め Part5",
+    "question": "The company's new sustainability initiative aims to _____ carbon emissions by 25 percent over the next five years.",
+    "options": [
+      {
+        "text": "reduce",
+        "correct": true
+      },
+      {
+        "text": "reproduce",
+        "correct": false
+      },
+      {
+        "text": "restore",
+        "correct": false
+      },
+      {
+        "text": "retain",
+        "correct": false
+      }
+    ],
+    "explanation": "【和訳】この社内ニュースレターのセクションの目的は何ですか？—「従業員スポットライト：エンジニアリングチームのジェームズ・パークが新しいモバイルアプリの開発を成功裏に主導したことを称賛。」\n【正解】ジェームズ・パークの成功したモバイルアプリプロジェクトを称賛するため\n【ポイント】ニュースレターの各セクションの目的を問う。従業員の業績を称賛する「Employee Spotlight」コーナー。"
+  },
+  {
+    "category": "短文穴埋め Part5",
+    "question": "The project manager assigned the task to _____ she believed was the most qualified team member.",
+    "options": [
+      {
+        "text": "whomever",
+        "correct": true
+      },
+      {
+        "text": "whoever",
+        "correct": false
+      },
+      {
+        "text": "whom",
+        "correct": false
+      },
+      {
+        "text": "which",
+        "correct": false
+      }
+    ],
+    "explanation": "【和訳】会社の新サステナビリティイニシアチブは、今後5年間で二酸化炭素排出量を25%削減することを目指している。\n【正解】reduce（削減する）\n【ポイント】aims to reduce emissions = 「排出量を削減することを目指す」。環境問題の文脈で頻出のコロケーション。"
+  },
+  {
+    "category": "短文穴埋め Part5",
+    "question": "The regional sales meeting has been _____ to accommodate the schedule of the overseas delegates.",
+    "options": [
+      {
+        "text": "rescheduled",
+        "correct": true
+      },
+      {
+        "text": "rescheduling",
+        "correct": false
+      },
+      {
+        "text": "schedule",
+        "correct": false
+      },
+      {
+        "text": "to schedule",
+        "correct": false
+      }
+    ],
+    "explanation": "【和訳】プロジェクトマネージャーは、最も資格のあるチームメンバーだと思われる人にタスクを割り当てた。\n【正解】whomever（〜する whoeverの目的格）\n【ポイント】関係代名詞の目的格whomever。assigned the task to [whomever she believed was...]のtoの目的語としてwhomeverが必要。"
+  },
+  {
+    "category": "長文穴埋め Part6",
+    "question": "The City of Eastbrook has launched a new initiative to promote local businesses. Small business owners can apply for grants of up to $10,000 to support their _____.",
+    "options": [
+      {
+        "text": "expansion efforts",
+        "correct": true
+      },
+      {
+        "text": "expense reports",
+        "correct": false
+      },
+      {
+        "text": "employee dismissals",
+        "correct": false
+      },
+      {
+        "text": "office closures",
+        "correct": false
+      }
+    ],
+    "explanation": "【和訳】地域営業会議は、海外代表団のスケジュールに合わせて変更された。\n【正解】rescheduled（日程変更された）\n【ポイント】has been rescheduled = 「日程変更された」。会議日程の調整にrescheduleが適切。"
+  },
+  {
+    "category": "長文穴埋め Part6",
+    "question": "TechVision Corp. announced that its new headquarters will feature solar panels and a rainwater collection system. These _____ are expected to reduce the building's energy consumption by 40 percent.",
+    "options": [
+      {
+        "text": "features",
+        "correct": true
+      },
+      {
+        "text": "figures",
+        "correct": false
+      },
+      {
+        "text": "fixtures",
+        "correct": false
+      },
+      {
+        "text": "failures",
+        "correct": false
+      }
+    ],
+    "explanation": "【和訳】イーストブルック市が地域ビジネスを促進する新しいイニシアチブを開始した。中小企業オーナーは最大1万ドルの助成金に申請できる。\n【正解】expansion efforts（拡大努力）\n【ポイント】助成金（grants）の目的は企業の「拡大」を支援すること。expansion effortsが文脈に合う。"
+  },
+  {
+    "category": "長文穴埋め Part6",
+    "question": "Dear Valued Customer, We sincerely apologize for the inconvenience caused by the recent service outage. Our team has resolved the issue and your account has been _____ accordingly.",
+    "options": [
+      {
+        "text": "credited",
+        "correct": true
+      },
+      {
+        "text": "debited",
+        "correct": false
+      },
+      {
+        "text": "deposited",
+        "correct": false
+      },
+      {
+        "text": "deducted",
+        "correct": false
+      }
+    ],
+    "explanation": "【和訳】TechVision Corp.は新しい本社にソーラーパネルと雨水回収システムを導入すると発表した。これらの設備は建物のエネルギー消費を40%削減すると期待されている。\n【正解】features（設備、特徴）\n【ポイント】These features = 「これらの設備（ソーラーパネルと雨水回収システム）」。文脈から機能・設備を指すfeaturesが適切。"
+  },
+  {
+    "category": "長文穴埋め Part6",
+    "question": "Summit Logistics is pleased to announce a partnership with GreenFleet Inc. to deploy a fleet of electric delivery vehicles. This collaboration _____ our commitment to sustainable business practices.",
+    "options": [
+      {
+        "text": "demonstrates",
+        "correct": true
+      },
+      {
+        "text": "demolishes",
+        "correct": false
+      },
+      {
+        "text": "demands",
+        "correct": false
+      },
+      {
+        "text": "departs",
+        "correct": false
+      }
+    ],
+    "explanation": "【和訳】お客様へ：最近のサービス障害によるご不便をお詫び申し上げます。問題は解決され、お客様のアカウントに適切に_____されました。\n【正解】credited（入金された、クレジットされた）\n【ポイント】サービス障害の補償としてアカウントにクレジット（入金/割引）を反映する。be creditedが適切。"
+  },
+  {
+    "category": "読解 Part7",
+    "question": "According to the article, what is causing the increase in shipping costs?",
+    "options": [
+      {
+        "text": "Rising fuel prices and port congestion",
+        "correct": true
+      },
+      {
+        "text": "New government regulations",
+        "correct": false
+      },
+      {
+        "text": "Decreased demand for shipping",
+        "correct": false
+      },
+      {
+        "text": "Improved logistics technology",
+        "correct": false
+      }
+    ],
+    "explanation": "【和訳】Summit Logisticsは電気配送車両の展開に向けてGreenFleet Inc.との提携を発表した。この協力はサステナブルなビジネス実践への我々の取り組みを_____。\n【正解】demonstrates（実証する、示す）\n【ポイント】This collaboration demonstrates our commitment = 「この協力は我々の取り組みを示す」。企業のCSR活動の文脈で適切。"
+  },
+  {
+    "category": "読解 Part7",
+    "question": "What does the memo say about the new security protocol?",
+    "options": [
+      {
+        "text": "All employees must use two-factor authentication for email access",
+        "correct": true
+      },
+      {
+        "text": "The security protocol will be optional",
+        "correct": false
+      },
+      {
+        "text": "Only remote workers need to follow the protocol",
+        "correct": false
+      },
+      {
+        "text": "The protocol will be implemented next year",
+        "correct": false
+      }
+    ],
+    "explanation": "【和訳】記事によると、配送コストの上昇の原因は何ですか？\n【正解】燃料価格の上昇と港の混雑\n【ポイント】複数の原因を問う問題。「Rising fuel prices and port congestion」の両方を把握する。"
+  },
+  {
+    "category": "読解 Part7",
+    "question": "According to the financial summary, what was the company's total revenue for the year?",
+    "options": [
+      {
+        "text": "$125 million",
+        "correct": true
+      },
+      {
+        "text": "$100 million",
+        "correct": false
+      },
+      {
+        "text": "$150 million",
+        "correct": false
+      },
+      {
+        "text": "$200 million",
+        "correct": false
+      }
+    ],
+    "explanation": "【和訳】メモによると、新しいセキュリティプロトコルについては何が言われていますか？\n【正解】すべての従業員はメールアクセスに二段階認証を使用しなければならない\n【ポイント】セキュリティ対策の読み取り。「two-factor authentication」＝二段階認証が必須。"
+  },
+  {
+    "category": "読解 Part7",
+    "question": "What is mentioned about the upcoming product launch?",
+    "options": [
+      {
+        "text": "It will be accompanied by a nationwide advertising campaign",
+        "correct": true
+      },
+      {
+        "text": "It has been postponed indefinitely",
+        "correct": false
+      },
+      {
+        "text": "It will only be available online",
+        "correct": false
+      },
+      {
+        "text": "The launch date has not been determined",
+        "correct": false
+      }
+    ],
+    "explanation": "【和訳】財務サマリーによると、今年の会社の総収益はいくらですか？\n【正解】1億2500万ドル\n【ポイント】金額の正確な読み取り。「$125 million」を確認。TOEICでは数字ミスに注意。"
+  },
+  {
+    "category": "読解 Part7",
+    "question": "According to the training schedule, which session is mandatory for all supervisors?",
+    "options": [
+      {
+        "text": "Workplace Harassment Prevention",
+        "correct": true
+      },
+      {
+        "text": "Advanced Excel Techniques",
+        "correct": false
+      },
+      {
+        "text": "Social Media Marketing",
+        "correct": false
+      },
+      {
+        "text": "Personal Finance Management",
+        "correct": false
+      }
+    ],
+    "explanation": "【和訳】今後の製品発表について何が言及されていますか？\n【正解】全国広告キャンペーンを伴う\n【ポイント】製品発表の付帯情報。「nationwide advertising campaign」が該当。"
+  },
+  {
+    "category": "読解 Part7",
+    "question": "What can be inferred from the employee survey results about remote work preferences?",
+    "options": [
+      {
+        "text": "A majority of employees prefer a hybrid work arrangement",
+        "correct": true
+      },
+      {
+        "text": "Most employees want to work fully remotely",
+        "correct": false
+      },
+      {
+        "text": "Employees prefer working from the office full-time",
+        "correct": false
+      },
+      {
+        "text": "No clear preference was indicated",
+        "correct": false
+      }
+    ],
+    "explanation": "【和訳】研修スケジュールによると、すべての監督者にとって必修のセッションはどれですか？\n【正解】ワークプレイス・ハラスメント防止\n【ポイント】「mandatory for all supervisors」に該当するセッションを特定する。"
+  },
+  {
+    "category": "読解 Part7",
+    "question": "What does the restaurant review highlight about the dining experience?",
+    "options": [
+      {
+        "text": "The food quality is excellent but the service is slow during peak hours",
+        "correct": true
+      },
+      {
+        "text": "Both food and service are outstanding at all times",
+        "correct": false
+      },
+      {
+        "text": "The prices are too high for the quality offered",
+        "correct": false
+      },
+      {
+        "text": "The restaurant is best suited for large groups",
+        "correct": false
+      }
+    ],
+    "explanation": "【和訳】リモートワークの好みについて従業員調査結果から何が推測できますか？\n【正解】大多数の従業員がハイブリッド勤務を好んでいる\n【ポイント】推測問題（infer）。調査結果から傾向を読み取る。「majority prefer hybrid」がポイント。"
+  },
+  {
+    "category": "読解 Part7",
+    "question": "According to the announcement, what benefit do long-term tenants receive?",
+    "options": [
+      {
+        "text": "A rent reduction of 5% after two years of continuous residency",
+        "correct": true
+      },
+      {
+        "text": "Free parking for one vehicle",
+        "correct": false
+      },
+      {
+        "text": "Priority access to new units",
+        "correct": false
+      },
+      {
+        "text": "No increase in rent for five years",
+        "correct": false
+      }
+    ],
+    "explanation": "【和訳】レストランレビューは食事体験について何を強調していますか？\n【正解】料理の品質は優秀だが、ピーク時のサービスが遅い\n【ポイント】良い点（品質）と悪い点（サービス速度）の両方を把握する。バランスの取れたレビューの読み取り。"
+  },
+  {
+    "category": "ビジネス会話",
+    "question": "A: 'The client wants to schedule a site visit next Tuesday.' B: '_____'",
+    "options": [
+      {
+        "text": "I'll coordinate with the facility manager and confirm the arrangements.",
+        "correct": true
+      },
+      {
+        "text": "Tell them to visit another time.",
+        "correct": false
+      },
+      {
+        "text": "Tuesday is a bad day for everyone.",
+        "correct": false
+      },
+      {
+        "text": "We don't allow visitors.",
+        "correct": false
+      }
+    ],
+    "explanation": "【和訳】A「クライアントが来週火曜日に現場訪問のスケジュールを希望しています。」B「_____」\n【正解】施設管理者と調整して手配を確認します。\n【ポイント】訪問スケジュールの依頼への対応。担当者との調整を約束する。"
+  },
+  {
+    "category": "ビジネス会話",
+    "question": "A: 'I noticed a discrepancy in the monthly financial report.' B: '_____'",
+    "options": [
+      {
+        "text": "Thank you for catching that. I'll cross-reference the entries with the accounting records.",
+        "correct": true
+      },
+      {
+        "text": "It's probably fine, don't worry about it.",
+        "correct": false
+      },
+      {
+        "text": "Financial reports are not my responsibility.",
+        "correct": false
+      },
+      {
+        "text": "Let me ignore it for now.",
+        "correct": false
+      }
+    ],
+    "explanation": "【和訳】A「月次財務報告書に不一致を見つけました。」B「_____」\n【正解】気づいてありがとう。会計記録と突き合わせます。\n【ポイント】エラー発見への対応。感謝＋具体的な修正アクションを示す。"
+  },
+  {
+    "category": "ビジネス文書",
+    "question": "What does the partnership agreement specify about intellectual property?",
+    "options": [
+      {
+        "text": "IP is jointly owned and commercial use requires written consent",
+        "correct": true
+      },
+      {
+        "text": "Each party owns the IP they individually create",
+        "correct": false
+      },
+      {
+        "text": "IP cannot be used commercially by either party",
+        "correct": false
+      },
+      {
+        "text": "Only the larger company owns the IP",
+        "correct": false
+      }
+    ],
+    "explanation": "【和訳】パートナーシップ契約は知的財産について何と規定していますか？\n【正解】IPは共同所有で、商用利用には書面の同意が必要\n【ポイント】知的財産（IP）の取り扱い。共有（jointly owned）と商用利用の制限（written consent）を確認。"
+  },
+  {
+    "category": "ビジネス文書",
+    "question": "According to the employee handbook, how many sick days are provided annually?",
+    "options": [
+      {
+        "text": "10 paid sick days that do not carry over",
+        "correct": true
+      },
+      {
+        "text": "5 paid sick days with carryover",
+        "correct": false
+      },
+      {
+        "text": "15 paid sick days per year",
+        "correct": false
+      },
+      {
+        "text": "Unlimited sick days",
+        "correct": false
+      }
+    ],
+    "explanation": "【和訳】従業員ハンドブックによると、年間の病気休暇は何日ですか？\n【正解】繰り越しなしの有給病気休暇10日\n【ポイント】休暇制度の読み取り。日数（10日）と繰り越し不可（do not carry over）を確認。"
+  },
+  {
+    "category": "ビジネス文書",
+    "question": "What does the building access policy state?",
+    "options": [
+      {
+        "text": "A security badge and registration are required for after-hours access",
+        "correct": true
+      },
+      {
+        "text": "The building is closed after 7 p.m.",
+        "correct": false
+      },
+      {
+        "text": "No registration is needed with a valid badge",
+        "correct": false
+      },
+      {
+        "text": "Only managers have after-hours access",
+        "correct": false
+      }
+    ],
+    "explanation": "【和訳】建物のアクセスポリシーには何と記載されていますか？\n【正解】時間外アクセスにはセキュリティバッジと登録が必要\n【ポイント】セキュリティ規定の読み取り。対象（after-hours）と必要な手続き（badge + registration）を確認。"
+  },
+  {
+    "category": "ビジネス文書",
+    "question": "What is indicated in the company's dividend announcement?",
+    "options": [
+      {
+        "text": "A $0.45 per share dividend payable March 15 to shareholders of record by Feb 28",
+        "correct": true
+      },
+      {
+        "text": "A $0.45 per share dividend payable immediately",
+        "correct": false
+      },
+      {
+        "text": "No dividend will be paid this quarter",
+        "correct": false
+      },
+      {
+        "text": "The dividend amount has not been determined",
+        "correct": false
+      }
+    ],
+    "explanation": "【和訳】会社の配当金発表では何が示されていますか？\n【正解】1株あたり$0.45の配当。3月15日支払い、2月28日基準日までの株主対象\n【ポイント】配当情報の読み取り。金額（$0.45/株）、支払日（3/15）、権利確定日（2/28）を確認。"
+  },
+  {
+    "category": "ビジネス文書",
+    "question": "What does the conference schedule indicate about the keynote address?",
+    "options": [
+      {
+        "text": "Dr. Watson will speak about AI in healthcare at 9 a.m. on Day 1",
+        "correct": true
+      },
+      {
+        "text": "The keynote is about business automation",
+        "correct": false
+      },
+      {
+        "text": "The keynote address has been cancelled",
+        "correct": false
+      },
+      {
+        "text": "The keynote will be held on the final day",
+        "correct": false
+      }
+    ],
+    "explanation": "【和訳】会議スケジュールは基調講演について何を示していますか？\n【正解】ワトソン博士が1日目の午前9時にAI in healthcareについて講演\n【ポイント】スケジュールの読み取り。講演者（Dr. Watson）、日時（Day 1, 9 a.m.）、トピック（AI in healthcare）を確認。"
+  },
+  {
+    "category": "ビジネス文書",
+    "question": "According to the equipment maintenance log, what action was taken?",
+    "options": [
+      {
+        "text": "The printer was serviced, toner replaced, with next maintenance on July 15",
+        "correct": true
+      },
+      {
+        "text": "The printer was replaced with a new model",
+        "correct": false
+      },
+      {
+        "text": "No maintenance was performed",
+        "correct": false
+      },
+      {
+        "text": "The printer on the 2nd floor was serviced",
+        "correct": false
+      }
+    ],
+    "explanation": "【和訳】設備メンテナンスログによると、どのような措置が取られましたか？\n【正解】プリンターが点検され、トナーが交換された。次回メンテナンスは7月15日\n【ポイント】メンテナンス記録の読み取り。実施内容（serviced + toner replacement）と次回予定日（July 15）を確認。"
+  },
+  {
+    "category": "ビジネス文書",
+    "question": "What does the non-disclosure agreement state?",
+    "options": [
+      {
+        "text": "Confidential information must not be shared for 5 years, with legal consequences for violations",
+        "correct": true
+      },
+      {
+        "text": "Information can be shared after 1 year",
+        "correct": false
+      },
+      {
+        "text": "There are no restrictions on sharing information",
+        "correct": false
+      },
+      {
+        "text": "Only verbal disclosure is prohibited",
+        "correct": false
+      }
+    ],
+    "explanation": "【和訳】秘密保持契約（NDA）には何と記載されていますか？\n【正解】機密情報は5年間共有不可、違反には法的措置の対象\n【ポイント】NDAの条件の読み取り。期間（5年）と制限（共有不可）と違反時の結果（legal consequences）を確認。"
+  }
+]

@@ -1,0 +1,6602 @@
+[
+  {
+    "word": "hello",
+    "lang": "en",
+    "level": "A1",
+    "pos": "interjection",
+    "meaning": "こんにちは",
+    "pron": "ハロウ",
+    "examples": [
+      {
+        "en": "Hello, how are you?",
+        "ja": "こんにちは、お元気ですか？"
+      },
+      {
+        "en": "She said hello to everyone.",
+        "ja": "彼女はみんなに挨拶した。"
+      },
+      {
+        "en": "Hello, is anyone there?",
+        "ja": "こんにちは、誰かいますか？"
+      }
+    ]
+  },
+  {
+    "word": "goodbye",
+    "lang": "en",
+    "level": "A1",
+    "pos": "interjection",
+    "meaning": "さようなら",
+    "pron": "グッドバイ",
+    "examples": [
+      {
+        "en": "Goodbye, see you tomorrow.",
+        "ja": "さようなら、また明日。"
+      },
+      {
+        "en": "It was hard to say goodbye.",
+        "ja": "別れを告げるのは辛かった。"
+      },
+      {
+        "en": "She waved goodbye at the door.",
+        "ja": "彼女はドアで手を振って別れを告げた。"
+      }
+    ]
+  },
+  {
+    "word": "please",
+    "lang": "en",
+    "level": "A1",
+    "pos": "adverb",
+    "meaning": "お願いします",
+    "pron": "プリーズ",
+    "examples": [
+      {
+        "en": "Please sit down.",
+        "ja": "どうぞ座ってください。"
+      },
+      {
+        "en": "Can I have some water, please?",
+        "ja": "水をいただけますか？"
+      },
+      {
+        "en": "Please be quiet.",
+        "ja": "静かにしてください。"
+      }
+    ]
+  },
+  {
+    "word": "sorry",
+    "lang": "en",
+    "level": "A1",
+    "pos": "adjective",
+    "meaning": "ごめんなさい",
+    "pron": "ソーリー",
+    "examples": [
+      {
+        "en": "I am sorry for being late.",
+        "ja": "遅れてすみません。"
+      },
+      {
+        "en": "Sorry, I did not understand.",
+        "ja": "すみません、理解できませんでした。"
+      },
+      {
+        "en": "He said he was sorry.",
+        "ja": "彼は謝った。"
+      }
+    ]
+  },
+  {
+    "word": "water",
+    "lang": "en",
+    "level": "A1",
+    "pos": "noun",
+    "meaning": "水",
+    "pron": "ウォーター",
+    "examples": [
+      {
+        "en": "Can I have a glass of water?",
+        "ja": "水を一杯いただけますか？"
+      },
+      {
+        "en": "The water is very cold.",
+        "ja": "水がとても冷たい。"
+      },
+      {
+        "en": "I drink water every morning.",
+        "ja": "毎朝水を飲みます。"
+      }
+    ]
+  },
+  {
+    "word": "food",
+    "lang": "en",
+    "level": "A1",
+    "pos": "noun",
+    "meaning": "食べ物",
+    "pron": "フード",
+    "examples": [
+      {
+        "en": "The food here is delicious.",
+        "ja": "ここの食べ物はおいしい。"
+      },
+      {
+        "en": "We need to buy more food.",
+        "ja": "もっと食べ物を買う必要がある。"
+      },
+      {
+        "en": "What is your favorite food?",
+        "ja": "好きな食べ物は何ですか？"
+      }
+    ]
+  },
+  {
+    "word": "house",
+    "lang": "en",
+    "level": "A1",
+    "pos": "noun",
+    "meaning": "家",
+    "pron": "ハウス",
+    "examples": [
+      {
+        "en": "Our house is near the park.",
+        "ja": "私たちの家は公園の近くです。"
+      },
+      {
+        "en": "She bought a new house.",
+        "ja": "彼女は新しい家を買った。"
+      },
+      {
+        "en": "The house is very big.",
+        "ja": "その家はとても大きい。"
+      }
+    ]
+  },
+  {
+    "word": "family",
+    "lang": "en",
+    "level": "A1",
+    "pos": "noun",
+    "meaning": "家族",
+    "pron": "ファミリー",
+    "examples": [
+      {
+        "en": "I love my family.",
+        "ja": "私は家族が大好きです。"
+      },
+      {
+        "en": "My family lives in Tokyo.",
+        "ja": "私の家族は東京に住んでいます。"
+      },
+      {
+        "en": "We are a happy family.",
+        "ja": "私たちは幸せな家族です。"
+      }
+    ]
+  },
+  {
+    "word": "friend",
+    "lang": "en",
+    "level": "A1",
+    "pos": "noun",
+    "meaning": "友達",
+    "pron": "フレンド",
+    "examples": [
+      {
+        "en": "She is my best friend.",
+        "ja": "彼女は私の親友です。"
+      },
+      {
+        "en": "I have many friends at school.",
+        "ja": "学校にたくさん友達がいます。"
+      },
+      {
+        "en": "We have been friends for years.",
+        "ja": "私たちは長年友達です。"
+      }
+    ]
+  },
+  {
+    "word": "school",
+    "lang": "en",
+    "level": "A1",
+    "pos": "noun",
+    "meaning": "学校",
+    "pron": "スクール",
+    "examples": [
+      {
+        "en": "I go to school every day.",
+        "ja": "毎日学校に行きます。"
+      },
+      {
+        "en": "The school is not far from here.",
+        "ja": "学校はここから遠くない。"
+      },
+      {
+        "en": "She teaches at a school.",
+        "ja": "彼女は学校で教えている。"
+      }
+    ]
+  },
+  {
+    "word": "work",
+    "lang": "en",
+    "level": "A1",
+    "pos": "noun",
+    "meaning": "仕事、働く",
+    "pron": "ワーク",
+    "examples": [
+      {
+        "en": "I go to work at eight.",
+        "ja": "8時に仕事に行きます。"
+      },
+      {
+        "en": "This work is very important.",
+        "ja": "この仕事はとても重要だ。"
+      },
+      {
+        "en": "He does not like his work.",
+        "ja": "彼は自分の仕事が好きではない。"
+      }
+    ]
+  },
+  {
+    "word": "time",
+    "lang": "en",
+    "level": "A1",
+    "pos": "noun",
+    "meaning": "時間",
+    "pron": "タイム",
+    "examples": [
+      {
+        "en": "What time is it?",
+        "ja": "今何時ですか？"
+      },
+      {
+        "en": "We do not have much time.",
+        "ja": "時間があまりありません。"
+      },
+      {
+        "en": "I had a good time at the party.",
+        "ja": "パーティーで楽しい時間を過ごした。"
+      }
+    ]
+  },
+  {
+    "word": "day",
+    "lang": "en",
+    "level": "A1",
+    "pos": "noun",
+    "meaning": "日、一日",
+    "pron": "デイ",
+    "examples": [
+      {
+        "en": "What day is it today?",
+        "ja": "今日は何曜日ですか？"
+      },
+      {
+        "en": "I work every day.",
+        "ja": "毎日働いています。"
+      },
+      {
+        "en": "It was a beautiful day.",
+        "ja": "美しい一日でした。"
+      }
+    ]
+  },
+  {
+    "word": "money",
+    "lang": "en",
+    "level": "A1",
+    "pos": "noun",
+    "meaning": "お金",
+    "pron": "マニー",
+    "examples": [
+      {
+        "en": "I need to save more money.",
+        "ja": "もっとお金を貯める必要がある。"
+      },
+      {
+        "en": "How much money do you have?",
+        "ja": "いくらお金を持っていますか？"
+      },
+      {
+        "en": "Money is not everything.",
+        "ja": "お金がすべてではない。"
+      }
+    ]
+  },
+  {
+    "word": "happy",
+    "lang": "en",
+    "level": "A1",
+    "pos": "adjective",
+    "meaning": "幸せな、嬉しい",
+    "pron": "ハッピー",
+    "examples": [
+      {
+        "en": "I am very happy today.",
+        "ja": "今日はとても嬉しい。"
+      },
+      {
+        "en": "She looks happy.",
+        "ja": "彼女は幸せそうだ。"
+      },
+      {
+        "en": "Happy birthday!",
+        "ja": "お誕生日おめでとう！"
+      }
+    ]
+  },
+  {
+    "word": "big",
+    "lang": "en",
+    "level": "A1",
+    "pos": "adjective",
+    "meaning": "大きい",
+    "pron": "ビッグ",
+    "examples": [
+      {
+        "en": "That is a big house.",
+        "ja": "あれは大きい家だ。"
+      },
+      {
+        "en": "The pizza was very big.",
+        "ja": "ピザはとても大きかった。"
+      },
+      {
+        "en": "He has a big dream.",
+        "ja": "彼は大きな夢を持っている。"
+      }
+    ]
+  },
+  {
+    "word": "small",
+    "lang": "en",
+    "level": "A1",
+    "pos": "adjective",
+    "meaning": "小さい",
+    "pron": "スモール",
+    "examples": [
+      {
+        "en": "I have a small dog.",
+        "ja": "私は小さい犬を飼っている。"
+      },
+      {
+        "en": "The room is too small.",
+        "ja": "部屋が小さすぎる。"
+      },
+      {
+        "en": "She wrote a small note.",
+        "ja": "彼女は小さなメモを書いた。"
+      }
+    ]
+  },
+  {
+    "word": "good",
+    "lang": "en",
+    "level": "A1",
+    "pos": "adjective",
+    "meaning": "良い、上手な",
+    "pron": "グッド",
+    "examples": [
+      {
+        "en": "This is a good book.",
+        "ja": "これは良い本だ。"
+      },
+      {
+        "en": "She is good at cooking.",
+        "ja": "彼女は料理が上手だ。"
+      },
+      {
+        "en": "Good morning!",
+        "ja": "おはようございます！"
+      }
+    ]
+  },
+  {
+    "word": "bad",
+    "lang": "en",
+    "level": "A1",
+    "pos": "adjective",
+    "meaning": "悪い",
+    "pron": "バッド",
+    "examples": [
+      {
+        "en": "The weather is bad today.",
+        "ja": "今日は天気が悪い。"
+      },
+      {
+        "en": "That was a bad idea.",
+        "ja": "それは悪い考えだった。"
+      },
+      {
+        "en": "I feel bad about it.",
+        "ja": "それについて悪い気分だ。"
+      }
+    ]
+  },
+  {
+    "word": "new",
+    "lang": "en",
+    "level": "A1",
+    "pos": "adjective",
+    "meaning": "新しい",
+    "pron": "ニュー",
+    "examples": [
+      {
+        "en": "I bought a new phone.",
+        "ja": "新しい携帯を買った。"
+      },
+      {
+        "en": "She is a new student.",
+        "ja": "彼女は新しい生徒だ。"
+      },
+      {
+        "en": "Happy new year!",
+        "ja": "あけましておめでとう！"
+      }
+    ]
+  },
+  {
+    "word": "old",
+    "lang": "en",
+    "level": "A1",
+    "pos": "adjective",
+    "meaning": "古い、年寄りの",
+    "pron": "オールド",
+    "examples": [
+      {
+        "en": "This is an old building.",
+        "ja": "これは古い建物だ。"
+      },
+      {
+        "en": "My grandfather is very old.",
+        "ja": "私の祖父はとても年をとっている。"
+      },
+      {
+        "en": "I like old movies.",
+        "ja": "古い映画が好きだ。"
+      }
+    ]
+  },
+  {
+    "word": "eat",
+    "lang": "en",
+    "level": "A1",
+    "pos": "verb",
+    "meaning": "食べる",
+    "pron": "イート",
+    "examples": [
+      {
+        "en": "Let us eat lunch together.",
+        "ja": "一緒に昼食を食べよう。"
+      },
+      {
+        "en": "I usually eat breakfast at seven.",
+        "ja": "いつも7時に朝食を食べる。"
+      },
+      {
+        "en": "She does not eat meat.",
+        "ja": "彼女は肉を食べない。"
+      }
+    ]
+  },
+  {
+    "word": "drink",
+    "lang": "en",
+    "level": "A1",
+    "pos": "verb",
+    "meaning": "飲む",
+    "pron": "ドリンク",
+    "examples": [
+      {
+        "en": "Would you like something to drink?",
+        "ja": "何か飲みますか？"
+      },
+      {
+        "en": "I drink coffee every morning.",
+        "ja": "毎朝コーヒーを飲みます。"
+      },
+      {
+        "en": "Do not drink too much.",
+        "ja": "飲みすぎないでください。"
+      }
+    ]
+  },
+  {
+    "word": "go",
+    "lang": "en",
+    "level": "A1",
+    "pos": "verb",
+    "meaning": "行く",
+    "pron": "ゴウ",
+    "examples": [
+      {
+        "en": "I go to school by bus.",
+        "ja": "バスで学校に行きます。"
+      },
+      {
+        "en": "Where do you want to go?",
+        "ja": "どこに行きたいですか？"
+      },
+      {
+        "en": "Let us go home.",
+        "ja": "家に帰ろう。"
+      }
+    ]
+  },
+  {
+    "word": "come",
+    "lang": "en",
+    "level": "A1",
+    "pos": "verb",
+    "meaning": "来る",
+    "pron": "カム",
+    "examples": [
+      {
+        "en": "Come here, please.",
+        "ja": "ここに来てください。"
+      },
+      {
+        "en": "She came to the party late.",
+        "ja": "彼女はパーティーに遅れて来た。"
+      },
+      {
+        "en": "Spring has come at last.",
+        "ja": "ついに春が来た。"
+      }
+    ]
+  },
+  {
+    "word": "make",
+    "lang": "en",
+    "level": "A1",
+    "pos": "verb",
+    "meaning": "作る",
+    "pron": "メイク",
+    "examples": [
+      {
+        "en": "I will make dinner tonight.",
+        "ja": "今夜は夕食を作ります。"
+      },
+      {
+        "en": "She made a beautiful cake.",
+        "ja": "彼女は美しいケーキを作った。"
+      },
+      {
+        "en": "Can you make a copy?",
+        "ja": "コピーを作ってくれますか？"
+      }
+    ]
+  },
+  {
+    "word": "take",
+    "lang": "en",
+    "level": "A1",
+    "pos": "verb",
+    "meaning": "取る、連れて行く",
+    "pron": "テイク",
+    "examples": [
+      {
+        "en": "Take your time.",
+        "ja": "ゆっくりどうぞ。"
+      },
+      {
+        "en": "I take the train to work.",
+        "ja": "電車で通勤しています。"
+      },
+      {
+        "en": "She took a photo of us.",
+        "ja": "彼女は私たちの写真を撮った。"
+      }
+    ]
+  },
+  {
+    "word": "see",
+    "lang": "en",
+    "level": "A1",
+    "pos": "verb",
+    "meaning": "見る",
+    "pron": "シー",
+    "examples": [
+      {
+        "en": "I can see the mountains from here.",
+        "ja": "ここから山が見える。"
+      },
+      {
+        "en": "See you later!",
+        "ja": "またね！"
+      },
+      {
+        "en": "Let me see the menu, please.",
+        "ja": "メニューを見せてください。"
+      }
+    ]
+  },
+  {
+    "word": "buy",
+    "lang": "en",
+    "level": "A1",
+    "pos": "verb",
+    "meaning": "買う",
+    "pron": "バイ",
+    "examples": [
+      {
+        "en": "I want to buy a new car.",
+        "ja": "新しい車を買いたい。"
+      },
+      {
+        "en": "She buys groceries every week.",
+        "ja": "彼女は毎週食料品を買う。"
+      },
+      {
+        "en": "Where can I buy tickets?",
+        "ja": "どこでチケットが買えますか？"
+      }
+    ]
+  },
+  {
+    "word": "read",
+    "lang": "en",
+    "level": "A1",
+    "pos": "verb",
+    "meaning": "読む",
+    "pron": "リード",
+    "examples": [
+      {
+        "en": "I read books every night.",
+        "ja": "毎晩本を読みます。"
+      },
+      {
+        "en": "She is reading a newspaper.",
+        "ja": "彼女は新聞を読んでいる。"
+      },
+      {
+        "en": "Can you read this for me?",
+        "ja": "これを読んでくれますか？"
+      }
+    ]
+  },
+  {
+    "word": "write",
+    "lang": "en",
+    "level": "A1",
+    "pos": "verb",
+    "meaning": "書く",
+    "pron": "ライト",
+    "examples": [
+      {
+        "en": "Please write your name here.",
+        "ja": "ここに名前を書いてください。"
+      },
+      {
+        "en": "She writes in her diary every day.",
+        "ja": "彼女は毎日日記を書く。"
+      },
+      {
+        "en": "I wrote a letter to my friend.",
+        "ja": "友達に手紙を書いた。"
+      }
+    ]
+  },
+  {
+    "word": "speak",
+    "lang": "en",
+    "level": "A1",
+    "pos": "verb",
+    "meaning": "話す",
+    "pron": "スピーク",
+    "examples": [
+      {
+        "en": "Do you speak English?",
+        "ja": "英語を話しますか？"
+      },
+      {
+        "en": "She speaks three languages.",
+        "ja": "彼女は3つの言語を話す。"
+      },
+      {
+        "en": "Can you speak more slowly?",
+        "ja": "もっとゆっくり話してくれますか？"
+      }
+    ]
+  },
+  {
+    "word": "like",
+    "lang": "en",
+    "level": "A1",
+    "pos": "verb",
+    "meaning": "好きだ",
+    "pron": "ライク",
+    "examples": [
+      {
+        "en": "I like Japanese food.",
+        "ja": "私は日本食が好きだ。"
+      },
+      {
+        "en": "She likes listening to music.",
+        "ja": "彼女は音楽を聴くのが好きだ。"
+      },
+      {
+        "en": "Would you like to join us?",
+        "ja": "一緒に行きませんか？"
+      }
+    ]
+  },
+  {
+    "word": "want",
+    "lang": "en",
+    "level": "A1",
+    "pos": "verb",
+    "meaning": "欲しい",
+    "pron": "ウォント",
+    "examples": [
+      {
+        "en": "I want to go home.",
+        "ja": "家に帰りたい。"
+      },
+      {
+        "en": "She wants a new phone.",
+        "ja": "彼女は新しい携帯が欲しい。"
+      },
+      {
+        "en": "What do you want to eat?",
+        "ja": "何を食べたいですか？"
+      }
+    ]
+  },
+  {
+    "word": "love",
+    "lang": "en",
+    "level": "A1",
+    "pos": "verb",
+    "meaning": "愛する",
+    "pron": "ラヴ",
+    "examples": [
+      {
+        "en": "I love you.",
+        "ja": "愛しています。"
+      },
+      {
+        "en": "She loves her family.",
+        "ja": "彼女は家族を愛している。"
+      },
+      {
+        "en": "I would love to visit Japan.",
+        "ja": "日本を訪れたいです。"
+      }
+    ]
+  },
+  {
+    "word": "know",
+    "lang": "en",
+    "level": "A1",
+    "pos": "verb",
+    "meaning": "知っている",
+    "pron": "ノウ",
+    "examples": [
+      {
+        "en": "I know the answer.",
+        "ja": "答えを知っています。"
+      },
+      {
+        "en": "Do you know where she is?",
+        "ja": "彼女がどこにいるか知っていますか？"
+      },
+      {
+        "en": "I did not know that.",
+        "ja": "それは知りませんでした。"
+      }
+    ]
+  },
+  {
+    "word": "think",
+    "lang": "en",
+    "level": "A1",
+    "pos": "verb",
+    "meaning": "思う、考える",
+    "pron": "シンク",
+    "examples": [
+      {
+        "en": "I think it will rain.",
+        "ja": "雨が降ると思います。"
+      },
+      {
+        "en": "What do you think about this?",
+        "ja": "これについてどう思いますか？"
+      },
+      {
+        "en": "Let me think about it.",
+        "ja": "考えさせてください。"
+      }
+    ]
+  },
+  {
+    "word": "sleep",
+    "lang": "en",
+    "level": "A1",
+    "pos": "verb",
+    "meaning": "眠る",
+    "pron": "スリープ",
+    "examples": [
+      {
+        "en": "I usually sleep at eleven.",
+        "ja": "いつも11時に寝る。"
+      },
+      {
+        "en": "She needs more sleep.",
+        "ja": "彼女はもっと睡眠が必要だ。"
+      },
+      {
+        "en": "The baby is sleeping.",
+        "ja": "赤ん坊が寝ている。"
+      }
+    ]
+  },
+  {
+    "word": "walk",
+    "lang": "en",
+    "level": "A1",
+    "pos": "verb",
+    "meaning": "歩く",
+    "pron": "ウォーク",
+    "examples": [
+      {
+        "en": "I walk to school every day.",
+        "ja": "毎日学校まで歩く。"
+      },
+      {
+        "en": "Let us take a walk.",
+        "ja": "散歩に行こう。"
+      },
+      {
+        "en": "She walks her dog in the park.",
+        "ja": "彼女は公園で犬を散歩させる。"
+      }
+    ]
+  },
+  {
+    "word": "run",
+    "lang": "en",
+    "level": "A1",
+    "pos": "verb",
+    "meaning": "走る",
+    "pron": "ラン",
+    "examples": [
+      {
+        "en": "He runs every morning.",
+        "ja": "彼は毎朝走る。"
+      },
+      {
+        "en": "The children are running in the park.",
+        "ja": "子供たちが公園で走っている。"
+      },
+      {
+        "en": "I need to run to the station.",
+        "ja": "駅まで走らなければならない。"
+      }
+    ]
+  },
+  {
+    "word": "open",
+    "lang": "en",
+    "level": "A1",
+    "pos": "verb",
+    "meaning": "開ける",
+    "pron": "オープン",
+    "examples": [
+      {
+        "en": "Please open the window.",
+        "ja": "窓を開けてください。"
+      },
+      {
+        "en": "The store opens at nine.",
+        "ja": "店は9時に開く。"
+      },
+      {
+        "en": "She opened her bag.",
+        "ja": "彼女はバッグを開けた。"
+      }
+    ]
+  },
+  {
+    "word": "close",
+    "lang": "en",
+    "level": "A1",
+    "pos": "verb",
+    "meaning": "閉める",
+    "pron": "クローズ",
+    "examples": [
+      {
+        "en": "Please close the door.",
+        "ja": "ドアを閉めてください。"
+      },
+      {
+        "en": "The shop closes at six.",
+        "ja": "店は6時に閉まる。"
+      },
+      {
+        "en": "She sat close to me.",
+        "ja": "彼女は私の近くに座った。"
+      }
+    ]
+  },
+  {
+    "word": "hotel",
+    "lang": "en",
+    "level": "A1",
+    "pos": "noun",
+    "meaning": "ホテル",
+    "pron": "ホテル",
+    "examples": [
+      {
+        "en": "We stayed at a nice hotel.",
+        "ja": "良いホテルに泊まった。"
+      },
+      {
+        "en": "The hotel has a swimming pool.",
+        "ja": "そのホテルにはプールがある。"
+      },
+      {
+        "en": "I booked a hotel for two nights.",
+        "ja": "2泊分のホテルを予約した。"
+      }
+    ]
+  },
+  {
+    "word": "restaurant",
+    "lang": "en",
+    "level": "A1",
+    "pos": "noun",
+    "meaning": "レストラン",
+    "pron": "レストラン",
+    "examples": [
+      {
+        "en": "Let us eat at a restaurant.",
+        "ja": "レストランで食べよう。"
+      },
+      {
+        "en": "This restaurant is very popular.",
+        "ja": "このレストランはとても人気がある。"
+      },
+      {
+        "en": "She works at a restaurant.",
+        "ja": "彼女はレストランで働いている。"
+      }
+    ]
+  },
+  {
+    "word": "airport",
+    "lang": "en",
+    "level": "A1",
+    "pos": "noun",
+    "meaning": "空港",
+    "pron": "エアポート",
+    "examples": [
+      {
+        "en": "We need to go to the airport.",
+        "ja": "空港に行く必要がある。"
+      },
+      {
+        "en": "The airport is far from here.",
+        "ja": "空港はここから遠い。"
+      },
+      {
+        "en": "My flight arrives at three.",
+        "ja": "私の飛行機は3時に到着する。"
+      }
+    ]
+  },
+  {
+    "word": "ticket",
+    "lang": "en",
+    "level": "A1",
+    "pos": "noun",
+    "meaning": "切符、チケット",
+    "pron": "チケット",
+    "examples": [
+      {
+        "en": "I bought two tickets for the concert.",
+        "ja": "コンサートのチケットを2枚買った。"
+      },
+      {
+        "en": "Show your ticket, please.",
+        "ja": "チケットを見せてください。"
+      },
+      {
+        "en": "The train ticket costs five dollars.",
+        "ja": "電車の切符は5ドルだ。"
+      }
+    ]
+  },
+  {
+    "word": "weather",
+    "lang": "en",
+    "level": "A1",
+    "pos": "noun",
+    "meaning": "天気",
+    "pron": "ウェザー",
+    "examples": [
+      {
+        "en": "The weather is nice today.",
+        "ja": "今日は天気がいい。"
+      },
+      {
+        "en": "What is the weather like tomorrow?",
+        "ja": "明日の天気はどうですか？"
+      },
+      {
+        "en": "Hot weather makes me tired.",
+        "ja": "暑い天気で疲れる。"
+      }
+    ]
+  },
+  {
+    "word": "doctor",
+    "lang": "en",
+    "level": "A1",
+    "pos": "noun",
+    "meaning": "医者",
+    "pron": "ドクター",
+    "examples": [
+      {
+        "en": "I need to see a doctor.",
+        "ja": "医者に診てもらう必要がある。"
+      },
+      {
+        "en": "The doctor said I should rest.",
+        "ja": "医者は休むように言った。"
+      },
+      {
+        "en": "She wants to be a doctor.",
+        "ja": "彼女は医者になりたい。"
+      }
+    ]
+  },
+  {
+    "word": "medicine",
+    "lang": "en",
+    "level": "A1",
+    "pos": "noun",
+    "meaning": "薬",
+    "pron": "メディシン",
+    "examples": [
+      {
+        "en": "I need to take my medicine.",
+        "ja": "薬を飲む必要がある。"
+      },
+      {
+        "en": "The medicine did not work.",
+        "ja": "薬が効かなかった。"
+      },
+      {
+        "en": "She studies medicine at university.",
+        "ja": "彼女は大学で医学を勉強している。"
+      }
+    ]
+  },
+  {
+    "word": "morning",
+    "lang": "en",
+    "level": "A1",
+    "pos": "noun",
+    "meaning": "朝",
+    "pron": "モーニング",
+    "examples": [
+      {
+        "en": "I wake up early in the morning.",
+        "ja": "朝早く起きる。"
+      },
+      {
+        "en": "Good morning, everyone.",
+        "ja": "みなさん、おはようございます。"
+      },
+      {
+        "en": "She exercises every morning.",
+        "ja": "彼女は毎朝運動する。"
+      }
+    ]
+  },
+  {
+    "word": "night",
+    "lang": "en",
+    "level": "A1",
+    "pos": "noun",
+    "meaning": "夜",
+    "pron": "ナイト",
+    "examples": [
+      {
+        "en": "I go to bed at night.",
+        "ja": "夜は寝る時間だ。"
+      },
+      {
+        "en": "The night sky was beautiful.",
+        "ja": "夜空は美しかった。"
+      },
+      {
+        "en": "She works at night.",
+        "ja": "彼女は夜働く。"
+      }
+    ]
+  },
+  {
+    "word": "today",
+    "lang": "en",
+    "level": "A1",
+    "pos": "adverb",
+    "meaning": "今日",
+    "pron": "トゥデイ",
+    "examples": [
+      {
+        "en": "Today is Monday.",
+        "ja": "今日は月曜日です。"
+      },
+      {
+        "en": "I am busy today.",
+        "ja": "今日は忙しい。"
+      },
+      {
+        "en": "What are you doing today?",
+        "ja": "今日は何をしますか？"
+      }
+    ]
+  },
+  {
+    "word": "tomorrow",
+    "lang": "en",
+    "level": "A1",
+    "pos": "adverb",
+    "meaning": "明日",
+    "pron": "トゥモロー",
+    "examples": [
+      {
+        "en": "See you tomorrow.",
+        "ja": "また明日。"
+      },
+      {
+        "en": "I have a meeting tomorrow.",
+        "ja": "明日は会議がある。"
+      },
+      {
+        "en": "Tomorrow is a holiday.",
+        "ja": "明日は休日だ。"
+      }
+    ]
+  },
+  {
+    "word": "yesterday",
+    "lang": "en",
+    "level": "A1",
+    "pos": "adverb",
+    "meaning": "昨日",
+    "pron": "イエスタデイ",
+    "examples": [
+      {
+        "en": "I saw her yesterday.",
+        "ja": "昨日彼女に会った。"
+      },
+      {
+        "en": "Yesterday was my birthday.",
+        "ja": "昨日は私の誕生日だった。"
+      },
+      {
+        "en": "He arrived yesterday evening.",
+        "ja": "彼は昨日の夕方に到着した。"
+      }
+    ]
+  },
+  {
+    "word": "always",
+    "lang": "en",
+    "level": "A1",
+    "pos": "adverb",
+    "meaning": "いつも",
+    "pron": "オールウェイズ",
+    "examples": [
+      {
+        "en": "She always arrives on time.",
+        "ja": "彼女はいつも時間通りに到着する。"
+      },
+      {
+        "en": "I always drink coffee in the morning.",
+        "ja": "いつも朝コーヒーを飲む。"
+      },
+      {
+        "en": "He is always late.",
+        "ja": "彼はいつも遅刻する。"
+      }
+    ]
+  },
+  {
+    "word": "never",
+    "lang": "en",
+    "level": "A1",
+    "pos": "adverb",
+    "meaning": "決して～ない",
+    "pron": "ネバー",
+    "examples": [
+      {
+        "en": "I have never been to Paris.",
+        "ja": "パリに行ったことがない。"
+      },
+      {
+        "en": "She never eats breakfast.",
+        "ja": "彼女は決して朝食を食べない。"
+      },
+      {
+        "en": "Never give up.",
+        "ja": "決して諦めるな。"
+      }
+    ]
+  },
+  {
+    "word": "teacher",
+    "lang": "en",
+    "level": "A1",
+    "pos": "noun",
+    "meaning": "先生",
+    "pron": "ティーチャー",
+    "examples": [
+      {
+        "en": "My teacher is very kind.",
+        "ja": "私の先生はとても優しい。"
+      },
+      {
+        "en": "She became a teacher last year.",
+        "ja": "彼女は去年先生になった。"
+      },
+      {
+        "en": "The teacher asked us a question.",
+        "ja": "先生は私たちに質問した。"
+      }
+    ]
+  },
+  {
+    "word": "student",
+    "lang": "en",
+    "level": "A1",
+    "pos": "noun",
+    "meaning": "学生",
+    "pron": "ステューデント",
+    "examples": [
+      {
+        "en": "She is a good student.",
+        "ja": "彼女は良い学生だ。"
+      },
+      {
+        "en": "There are thirty students in the class.",
+        "ja": "クラスには30人の学生がいる。"
+      },
+      {
+        "en": "The student studies hard every day.",
+        "ja": "その学生は毎日一生懸命勉強する。"
+      }
+    ]
+  },
+  {
+    "word": "book",
+    "lang": "en",
+    "level": "A1",
+    "pos": "noun",
+    "meaning": "本",
+    "pron": "ブック",
+    "examples": [
+      {
+        "en": "I am reading a good book.",
+        "ja": "良い本を読んでいる。"
+      },
+      {
+        "en": "She has many books.",
+        "ja": "彼女はたくさんの本を持っている。"
+      },
+      {
+        "en": "I want to book a room.",
+        "ja": "部屋を予約したい。"
+      }
+    ]
+  },
+  {
+    "word": "phone",
+    "lang": "en",
+    "level": "A1",
+    "pos": "noun",
+    "meaning": "電話、携帯",
+    "pron": "フォーン",
+    "examples": [
+      {
+        "en": "Can I use your phone?",
+        "ja": "電話を使ってもいいですか？"
+      },
+      {
+        "en": "She is talking on the phone.",
+        "ja": "彼女は電話で話している。"
+      },
+      {
+        "en": "My phone battery is low.",
+        "ja": "携帯の充電が残り少ない。"
+      }
+    ]
+  },
+  {
+    "word": "computer",
+    "lang": "en",
+    "level": "A1",
+    "pos": "noun",
+    "meaning": "コンピューター",
+    "pron": "コンピューター",
+    "examples": [
+      {
+        "en": "I use a computer at work.",
+        "ja": "仕事でコンピューターを使う。"
+      },
+      {
+        "en": "The computer is very fast.",
+        "ja": "そのコンピューターはとても速い。"
+      },
+      {
+        "en": "She studies computer science.",
+        "ja": "彼女はコンピューターサイエンスを勉強している。"
+      }
+    ]
+  },
+  {
+    "word": "music",
+    "lang": "en",
+    "level": "A1",
+    "pos": "noun",
+    "meaning": "音楽",
+    "pron": "ミュージック",
+    "examples": [
+      {
+        "en": "I love listening to music.",
+        "ja": "音楽を聴くのが大好きだ。"
+      },
+      {
+        "en": "She plays music every evening.",
+        "ja": "彼女は毎晩音楽を演奏する。"
+      },
+      {
+        "en": "What kind of music do you like?",
+        "ja": "どんな音楽が好きですか？"
+      }
+    ]
+  },
+  {
+    "word": "movie",
+    "lang": "en",
+    "level": "A1",
+    "pos": "noun",
+    "meaning": "映画",
+    "pron": "ムービー",
+    "examples": [
+      {
+        "en": "Let us watch a movie tonight.",
+        "ja": "今夜映画を見よう。"
+      },
+      {
+        "en": "That movie was very interesting.",
+        "ja": "その映画はとても面白かった。"
+      },
+      {
+        "en": "She goes to the movies every weekend.",
+        "ja": "彼女は毎週末映画を見に行く。"
+      }
+    ]
+  },
+  {
+    "word": "rain",
+    "lang": "en",
+    "level": "A1",
+    "pos": "noun",
+    "meaning": "雨",
+    "pron": "レイン",
+    "examples": [
+      {
+        "en": "It is raining outside.",
+        "ja": "外は雨が降っている。"
+      },
+      {
+        "en": "The rain stopped at noon.",
+        "ja": "雨は昼に止んだ。"
+      },
+      {
+        "en": "Take an umbrella because it might rain.",
+        "ja": "雨が降るかもしれないから傘を持っていって。"
+      }
+    ]
+  },
+  {
+    "word": "breakfast",
+    "lang": "en",
+    "level": "A1",
+    "pos": "noun",
+    "meaning": "朝食",
+    "pron": "ブレックファスト",
+    "examples": [
+      {
+        "en": "What did you have for breakfast?",
+        "ja": "朝食は何を食べましたか？"
+      },
+      {
+        "en": "I eat breakfast at seven.",
+        "ja": "7時に朝食を食べる。"
+      },
+      {
+        "en": "She made pancakes for breakfast.",
+        "ja": "彼女は朝食にパンケーキを作った。"
+      }
+    ]
+  },
+  {
+    "word": "lunch",
+    "lang": "en",
+    "level": "A1",
+    "pos": "noun",
+    "meaning": "昼食",
+    "pron": "ランチ",
+    "examples": [
+      {
+        "en": "Let us have lunch together.",
+        "ja": "一緒に昼食を食べよう。"
+      },
+      {
+        "en": "I usually eat lunch at twelve.",
+        "ja": "いつも12時に昼食を食べる。"
+      },
+      {
+        "en": "She brought lunch from home.",
+        "ja": "彼女はお昼を持参した。"
+      }
+    ]
+  },
+  {
+    "word": "dinner",
+    "lang": "en",
+    "level": "A1",
+    "pos": "noun",
+    "meaning": "夕食",
+    "pron": "ディナー",
+    "examples": [
+      {
+        "en": "What is for dinner tonight?",
+        "ja": "今夜の夕食は何ですか？"
+      },
+      {
+        "en": "We had a delicious dinner.",
+        "ja": "おいしい夕食を食べた。"
+      },
+      {
+        "en": "She is cooking dinner now.",
+        "ja": "彼女は今夕食を作っている。"
+      }
+    ]
+  },
+  {
+    "word": "coffee",
+    "lang": "en",
+    "level": "A1",
+    "pos": "noun",
+    "meaning": "コーヒー",
+    "pron": "コフィー",
+    "examples": [
+      {
+        "en": "I drink coffee every morning.",
+        "ja": "毎朝コーヒーを飲む。"
+      },
+      {
+        "en": "Would you like some coffee?",
+        "ja": "コーヒーはいかがですか？"
+      },
+      {
+        "en": "This coffee is too hot.",
+        "ja": "このコーヒーは熱すぎる。"
+      }
+    ]
+  },
+  {
+    "word": "tea",
+    "lang": "en",
+    "level": "A1",
+    "pos": "noun",
+    "meaning": "お茶",
+    "pron": "ティー",
+    "examples": [
+      {
+        "en": "Would you like tea or coffee?",
+        "ja": "お茶かコーヒーはいかがですか？"
+      },
+      {
+        "en": "She drinks green tea every day.",
+        "ja": "彼女は毎日緑茶を飲む。"
+      },
+      {
+        "en": "This tea is very good.",
+        "ja": "このお茶はとてもおいしい。"
+      }
+    ]
+  },
+  {
+    "word": "bread",
+    "lang": "en",
+    "level": "A1",
+    "pos": "noun",
+    "meaning": "パン",
+    "pron": "ブレッド",
+    "examples": [
+      {
+        "en": "I ate bread for breakfast.",
+        "ja": "朝食にパンを食べた。"
+      },
+      {
+        "en": "She bought fresh bread at the bakery.",
+        "ja": "彼女はパン屋で焼きたてのパンを買った。"
+      },
+      {
+        "en": "Can you pass me the bread?",
+        "ja": "パンを渡してください。"
+      }
+    ]
+  },
+  {
+    "word": "appointment",
+    "lang": "en",
+    "level": "A2",
+    "pos": "noun",
+    "meaning": "予約、約束",
+    "pron": "アポイントメント",
+    "examples": [
+      {
+        "en": "I have an appointment at three.",
+        "ja": "3時に予約がある。"
+      },
+      {
+        "en": "She made an appointment with the doctor.",
+        "ja": "彼女は医者の予約をした。"
+      },
+      {
+        "en": "I forgot about my appointment.",
+        "ja": "予約を忘れていた。"
+      }
+    ]
+  },
+  {
+    "word": "neighbor",
+    "lang": "en",
+    "level": "A2",
+    "pos": "noun",
+    "meaning": "隣人",
+    "pron": "ネイバー",
+    "examples": [
+      {
+        "en": "Our neighbor is very friendly.",
+        "ja": "私たちの隣人はとてもフレンドリーだ。"
+      },
+      {
+        "en": "She talked to the neighbor about the noise.",
+        "ja": "彼女は隣人に騒音について話した。"
+      },
+      {
+        "en": "We invited our neighbors to the party.",
+        "ja": "隣人をパーティーに招待した。"
+      }
+    ]
+  },
+  {
+    "word": "invitation",
+    "lang": "en",
+    "level": "A2",
+    "pos": "noun",
+    "meaning": "招待",
+    "pron": "インビテーション",
+    "examples": [
+      {
+        "en": "I received an invitation to the wedding.",
+        "ja": "結婚式の招待状を受け取った。"
+      },
+      {
+        "en": "She sent me an invitation by email.",
+        "ja": "彼女はメールで招待状を送ってくれた。"
+      },
+      {
+        "en": "Thank you for the invitation.",
+        "ja": "招待ありがとうございます。"
+      }
+    ]
+  },
+  {
+    "word": "experience",
+    "lang": "en",
+    "level": "A2",
+    "pos": "noun",
+    "meaning": "経験",
+    "pron": "エクスペリエンス",
+    "examples": [
+      {
+        "en": "It was a great experience.",
+        "ja": "それは素晴らしい経験だった。"
+      },
+      {
+        "en": "She has a lot of experience in teaching.",
+        "ja": "彼女は教育の経験が豊富だ。"
+      },
+      {
+        "en": "I want to experience different cultures.",
+        "ja": "色々な文化を体験したい。"
+      }
+    ]
+  },
+  {
+    "word": "advice",
+    "lang": "en",
+    "level": "A2",
+    "pos": "noun",
+    "meaning": "アドバイス、助言",
+    "pron": "アドバイス",
+    "examples": [
+      {
+        "en": "Can you give me some advice?",
+        "ja": "アドバイスをくれますか？"
+      },
+      {
+        "en": "She gave me good advice.",
+        "ja": "彼女は良いアドバイスをくれた。"
+      },
+      {
+        "en": "I followed my teacher's advice.",
+        "ja": "先生のアドバイスに従った。"
+      }
+    ]
+  },
+  {
+    "word": "decision",
+    "lang": "en",
+    "level": "A2",
+    "pos": "noun",
+    "meaning": "決定",
+    "pron": "ディシジョン",
+    "examples": [
+      {
+        "en": "That was a difficult decision.",
+        "ja": "それは難しい決定だった。"
+      },
+      {
+        "en": "She made the right decision.",
+        "ja": "彼女は正しい決定をした。"
+      },
+      {
+        "en": "We need to make a decision soon.",
+        "ja": "すぐに決定する必要がある。"
+      }
+    ]
+  },
+  {
+    "word": "problem",
+    "lang": "en",
+    "level": "A2",
+    "pos": "noun",
+    "meaning": "問題",
+    "pron": "プロブレム",
+    "examples": [
+      {
+        "en": "We have a big problem.",
+        "ja": "大きな問題がある。"
+      },
+      {
+        "en": "Can you help me solve this problem?",
+        "ja": "この問題を解決するのを手伝ってくれますか？"
+      },
+      {
+        "en": "The problem is more complex than I thought.",
+        "ja": "問題は思ったより複雑だ。"
+      }
+    ]
+  },
+  {
+    "word": "opportunity",
+    "lang": "en",
+    "level": "A2",
+    "pos": "noun",
+    "meaning": "機会",
+    "pron": "オポチュニティ",
+    "examples": [
+      {
+        "en": "This is a great opportunity.",
+        "ja": "これは素晴らしい機会だ。"
+      },
+      {
+        "en": "She did not miss the opportunity.",
+        "ja": "彼女はその機会を逃さなかった。"
+      },
+      {
+        "en": "I hope to get an opportunity to work abroad.",
+        "ja": "海外で働く機会が欲しい。"
+      }
+    ]
+  },
+  {
+    "word": "relationship",
+    "lang": "en",
+    "level": "A2",
+    "pos": "noun",
+    "meaning": "関係",
+    "pron": "リレーションシップ",
+    "examples": [
+      {
+        "en": "Their relationship is very strong.",
+        "ja": "彼らの関係はとても強い。"
+      },
+      {
+        "en": "We have a good working relationship.",
+        "ja": "良い仕事関係がある。"
+      },
+      {
+        "en": "She values her relationship with her family.",
+        "ja": "彼女は家族との関係を大切にしている。"
+      }
+    ]
+  },
+  {
+    "word": "environment",
+    "lang": "en",
+    "level": "A2",
+    "pos": "noun",
+    "meaning": "環境",
+    "pron": "エンバイロメント",
+    "examples": [
+      {
+        "en": "We must protect the environment.",
+        "ja": "環境を守らなければならない。"
+      },
+      {
+        "en": "The work environment is very important.",
+        "ja": "労働環境はとても重要だ。"
+      },
+      {
+        "en": "She cares about the environment.",
+        "ja": "彼女は環境問題に関心がある。"
+      }
+    ]
+  },
+  {
+    "word": "information",
+    "lang": "en",
+    "level": "A2",
+    "pos": "noun",
+    "meaning": "情報",
+    "pron": "インフォメーション",
+    "examples": [
+      {
+        "en": "I need more information.",
+        "ja": "もっと情報が必要だ。"
+      },
+      {
+        "en": "Can you give me some information about the hotel?",
+        "ja": "ホテルについての情報をくれますか？"
+      },
+      {
+        "en": "The information is on the website.",
+        "ja": "情報はウェブサイトにあります。"
+      }
+    ]
+  },
+  {
+    "word": "improve",
+    "lang": "en",
+    "level": "A2",
+    "pos": "verb",
+    "meaning": "改善する、上達する",
+    "pron": "インプルーブ",
+    "examples": [
+      {
+        "en": "I want to improve my English.",
+        "ja": "英語を上達させたい。"
+      },
+      {
+        "en": "She is trying to improve her skills.",
+        "ja": "彼女はスキルの向上に努めている。"
+      },
+      {
+        "en": "We need to improve our service.",
+        "ja": "サービスを改善する必要がある。"
+      }
+    ]
+  },
+  {
+    "word": "explain",
+    "lang": "en",
+    "level": "A2",
+    "pos": "verb",
+    "meaning": "説明する",
+    "pron": "エクスプレイン",
+    "examples": [
+      {
+        "en": "Can you explain this to me?",
+        "ja": "これを説明してくれますか？"
+      },
+      {
+        "en": "She explained the rules clearly.",
+        "ja": "彼女はルールを明確に説明した。"
+      },
+      {
+        "en": "Please explain why you were late.",
+        "ja": "なぜ遅刻したのか説明してください。"
+      }
+    ]
+  },
+  {
+    "word": "describe",
+    "lang": "en",
+    "level": "A2",
+    "pos": "verb",
+    "meaning": "描写する、説明する",
+    "pron": "ディスクライブ",
+    "examples": [
+      {
+        "en": "Can you describe the person?",
+        "ja": "その人を描写できますか？"
+      },
+      {
+        "en": "She described the view from the mountain.",
+        "ja": "彼女は山からの景色を描写した。"
+      },
+      {
+        "en": "He described his experience in detail.",
+        "ja": "彼は経験を詳しく説明した。"
+      }
+    ]
+  },
+  {
+    "word": "remember",
+    "lang": "en",
+    "level": "A2",
+    "pos": "verb",
+    "meaning": "覚えている、思い出す",
+    "pron": "リメンバー",
+    "examples": [
+      {
+        "en": "I remember her name.",
+        "ja": "彼女の名前を覚えている。"
+      },
+      {
+        "en": "Do you remember the first time we met?",
+        "ja": "初めて会った時を覚えていますか？"
+      },
+      {
+        "en": "She could not remember the password.",
+        "ja": "彼女はパスワードを思い出せなかった。"
+      }
+    ]
+  },
+  {
+    "word": "believe",
+    "lang": "en",
+    "level": "A2",
+    "pos": "verb",
+    "meaning": "信じる",
+    "pron": "ビリーブ",
+    "examples": [
+      {
+        "en": "I believe you.",
+        "ja": "あなたを信じています。"
+      },
+      {
+        "en": "She believes in hard work.",
+        "ja": "彼女は努力を信じている。"
+      },
+      {
+        "en": "Do you believe in ghosts?",
+        "ja": "幽霊を信じますか？"
+      }
+    ]
+  },
+  {
+    "word": "arrive",
+    "lang": "en",
+    "level": "A2",
+    "pos": "verb",
+    "meaning": "到着する",
+    "pron": "アライヴ",
+    "examples": [
+      {
+        "en": "The train arrives at ten.",
+        "ja": "電車は10時に到着する。"
+      },
+      {
+        "en": "She arrived at the airport early.",
+        "ja": "彼女は空港に早く到着した。"
+      },
+      {
+        "en": "We arrived just in time.",
+        "ja": "私たちは間に合って到着した。"
+      }
+    ]
+  },
+  {
+    "word": "prepare",
+    "lang": "en",
+    "level": "A2",
+    "pos": "verb",
+    "meaning": "準備する",
+    "pron": "プリペア",
+    "examples": [
+      {
+        "en": "She is preparing dinner.",
+        "ja": "彼女は夕食の準備をしている。"
+      },
+      {
+        "en": "We need to prepare for the exam.",
+        "ja": "試験の準備が必要だ。"
+      },
+      {
+        "en": "He prepared a presentation for the meeting.",
+        "ja": "彼は会議のためにプレゼンを準備した。"
+      }
+    ]
+  },
+  {
+    "word": "continue",
+    "lang": "en",
+    "level": "A2",
+    "pos": "verb",
+    "meaning": "続ける、継続する",
+    "pron": "コンティニュー",
+    "examples": [
+      {
+        "en": "Please continue your work.",
+        "ja": "作業を続けてください。"
+      },
+      {
+        "en": "The rain continued all day.",
+        "ja": "雨は一日中降り続いた。"
+      },
+      {
+        "en": "She decided to continue studying.",
+        "ja": "彼女は勉強を続けることにした。"
+      }
+    ]
+  },
+  {
+    "word": "develop",
+    "lang": "en",
+    "level": "A2",
+    "pos": "verb",
+    "meaning": "発展させる、開発する",
+    "pron": "ディヴェロップ",
+    "examples": [
+      {
+        "en": "The company is developing a new product.",
+        "ja": "その会社は新製品を開発している。"
+      },
+      {
+        "en": "She developed her skills over many years.",
+        "ja": "彼女は長年スキルを発展させた。"
+      },
+      {
+        "en": "The town is developing quickly.",
+        "ja": "町は急速に発展している。"
+      }
+    ]
+  },
+  {
+    "word": "manage",
+    "lang": "en",
+    "level": "A2",
+    "pos": "verb",
+    "meaning": "管理する",
+    "pron": "マネージ",
+    "examples": [
+      {
+        "en": "She manages the team well.",
+        "ja": "彼女はチームをうまく管理している。"
+      },
+      {
+        "en": "I need to manage my time better.",
+        "ja": "時間をうまく管理する必要がある。"
+      },
+      {
+        "en": "He manages a small restaurant.",
+        "ja": "彼は小さなレストランを経営している。"
+      }
+    ]
+  },
+  {
+    "word": "discuss",
+    "lang": "en",
+    "level": "A2",
+    "pos": "verb",
+    "meaning": "議論する",
+    "pron": "ディスカス",
+    "examples": [
+      {
+        "en": "We discussed the plan in detail.",
+        "ja": "計画について詳しく議論した。"
+      },
+      {
+        "en": "She wants to discuss the issue.",
+        "ja": "彼女はその問題を議論したい。"
+      },
+      {
+        "en": "They discussed their ideas for hours.",
+        "ja": "彼らは何時間もアイデアを議論した。"
+      }
+    ]
+  },
+  {
+    "word": "receive",
+    "lang": "en",
+    "level": "A2",
+    "pos": "verb",
+    "meaning": "受け取る",
+    "pron": "リシーブ",
+    "examples": [
+      {
+        "en": "I received a letter from her.",
+        "ja": "彼女から手紙を受け取った。"
+      },
+      {
+        "en": "She received an award for her work.",
+        "ja": "彼女は仕事の成果で賞を受けた。"
+      },
+      {
+        "en": "We received good news today.",
+        "ja": "今日良い知らせを受け取った。"
+      }
+    ]
+  },
+  {
+    "word": "choose",
+    "lang": "en",
+    "level": "A2",
+    "pos": "verb",
+    "meaning": "選ぶ",
+    "pron": "チューズ",
+    "examples": [
+      {
+        "en": "You can choose any color.",
+        "ja": "好きな色を選んでいいよ。"
+      },
+      {
+        "en": "She chose the red dress.",
+        "ja": "彼女は赤いドレスを選んだ。"
+      },
+      {
+        "en": "It is hard to choose between the two.",
+        "ja": "2つの間で選ぶのは難しい。"
+      }
+    ]
+  },
+  {
+    "word": "discover",
+    "lang": "en",
+    "level": "A2",
+    "pos": "verb",
+    "meaning": "発見する",
+    "pron": "ディスカバー",
+    "examples": [
+      {
+        "en": "Scientists discovered a new planet.",
+        "ja": "科学者たちは新しい惑星を発見した。"
+      },
+      {
+        "en": "She discovered her passion for painting.",
+        "ja": "彼女は絵画への情熱を発見した。"
+      },
+      {
+        "en": "I discovered a great restaurant near my house.",
+        "ja": "家の近くに素晴らしいレストランを発見した。"
+      }
+    ]
+  },
+  {
+    "word": "enjoy",
+    "lang": "en",
+    "level": "A2",
+    "pos": "verb",
+    "meaning": "楽しむ",
+    "pron": "エンジョイ",
+    "examples": [
+      {
+        "en": "I enjoy reading books.",
+        "ja": "本を読むのを楽しむ。"
+      },
+      {
+        "en": "She really enjoyed the movie.",
+        "ja": "彼女はその映画をとても楽しんだ。"
+      },
+      {
+        "en": "We enjoyed our trip to Kyoto.",
+        "ja": "京都への旅行を楽しんだ。"
+      }
+    ]
+  },
+  {
+    "word": "travel",
+    "lang": "en",
+    "level": "A2",
+    "pos": "verb",
+    "meaning": "旅行する",
+    "pron": "トラヴェル",
+    "examples": [
+      {
+        "en": "I love to travel to new places.",
+        "ja": "新しい場所へ旅行するのが好きだ。"
+      },
+      {
+        "en": "She travels for work every month.",
+        "ja": "彼女は毎月出張で旅行する。"
+      },
+      {
+        "en": "We plan to travel to Europe next year.",
+        "ja": "来年ヨーロッパへ旅行する予定だ。"
+      }
+    ]
+  },
+  {
+    "word": "introduce",
+    "lang": "en",
+    "level": "A2",
+    "pos": "verb",
+    "meaning": "紹介する",
+    "pron": "イントロデュース",
+    "examples": [
+      {
+        "en": "Let me introduce myself.",
+        "ja": "自己紹介させてください。"
+      },
+      {
+        "en": "She introduced me to her friend.",
+        "ja": "彼女は私を友達に紹介した。"
+      },
+      {
+        "en": "He introduced a new topic in the meeting.",
+        "ja": "彼は会議で新しいトピックを紹介した。"
+      }
+    ]
+  },
+  {
+    "word": "comfortable",
+    "lang": "en",
+    "level": "A2",
+    "pos": "adjective",
+    "meaning": "快適な",
+    "pron": "カムフォータブル",
+    "examples": [
+      {
+        "en": "This chair is very comfortable.",
+        "ja": "この椅子はとても快適だ。"
+      },
+      {
+        "en": "I feel comfortable in this hotel.",
+        "ja": "このホテルは快適だ。"
+      },
+      {
+        "en": "She is comfortable speaking in public.",
+        "ja": "彼女は人前で話すのに慣れている。"
+      }
+    ]
+  },
+  {
+    "word": "difficult",
+    "lang": "en",
+    "level": "A2",
+    "pos": "adjective",
+    "meaning": "難しい",
+    "pron": "ディフィカルト",
+    "examples": [
+      {
+        "en": "The exam was very difficult.",
+        "ja": "試験はとても難しかった。"
+      },
+      {
+        "en": "It is difficult to learn a new language.",
+        "ja": "新しい言語を学ぶのは難しい。"
+      },
+      {
+        "en": "She is in a difficult situation.",
+        "ja": "彼女は困難な状況にある。"
+      }
+    ]
+  },
+  {
+    "word": "different",
+    "lang": "en",
+    "level": "A2",
+    "pos": "adjective",
+    "meaning": "違う、異なる",
+    "pron": "ディファレント",
+    "examples": [
+      {
+        "en": "We have different opinions.",
+        "ja": "私たちは意見が違う。"
+      },
+      {
+        "en": "This is a different approach.",
+        "ja": "これは違うアプローチだ。"
+      },
+      {
+        "en": "Life is very different now.",
+        "ja": "今は生活がとても違う。"
+      }
+    ]
+  },
+  {
+    "word": "important",
+    "lang": "en",
+    "level": "A2",
+    "pos": "adjective",
+    "meaning": "重要な",
+    "pron": "インポータント",
+    "examples": [
+      {
+        "en": "This is very important to me.",
+        "ja": "これは私にとってとても重要だ。"
+      },
+      {
+        "en": "Education is important for children.",
+        "ja": "教育は子供にとって重要だ。"
+      },
+      {
+        "en": "It is important to be on time.",
+        "ja": "時間通りに行動することが重要だ。"
+      }
+    ]
+  },
+  {
+    "word": "interesting",
+    "lang": "en",
+    "level": "A2",
+    "pos": "adjective",
+    "meaning": "面白い",
+    "pron": "インタレスティング",
+    "examples": [
+      {
+        "en": "The book is very interesting.",
+        "ja": "その本はとても面白い。"
+      },
+      {
+        "en": "She told us an interesting story.",
+        "ja": "彼女は面白い話をしてくれた。"
+      },
+      {
+        "en": "It is interesting to learn about other cultures.",
+        "ja": "他の文化について学ぶのは面白い。"
+      }
+    ]
+  },
+  {
+    "word": "possible",
+    "lang": "en",
+    "level": "A2",
+    "pos": "adjective",
+    "meaning": "可能な",
+    "pron": "ポッシブル",
+    "examples": [
+      {
+        "en": "Is it possible to change the date?",
+        "ja": "日付を変更することは可能ですか？"
+      },
+      {
+        "en": "We will do everything possible to help.",
+        "ja": "できる限りのことを手伝います。"
+      },
+      {
+        "en": "It is not possible right now.",
+        "ja": "今はそれは不可能だ。"
+      }
+    ]
+  },
+  {
+    "word": "dangerous",
+    "lang": "en",
+    "level": "A2",
+    "pos": "adjective",
+    "meaning": "危険な",
+    "pron": "デンジャラス",
+    "examples": [
+      {
+        "en": "That road is very dangerous.",
+        "ja": "あの道はとても危険だ。"
+      },
+      {
+        "en": "It is dangerous to swim here.",
+        "ja": "ここで泳ぐのは危険だ。"
+      },
+      {
+        "en": "She was in a dangerous situation.",
+        "ja": "彼女は危険な状況にいた。"
+      }
+    ]
+  },
+  {
+    "word": "successful",
+    "lang": "en",
+    "level": "A2",
+    "pos": "adjective",
+    "meaning": "成功した、成功した",
+    "pron": "サクセスフル",
+    "examples": [
+      {
+        "en": "She is a successful businesswoman.",
+        "ja": "彼女は成功したビジネスウーマンだ。"
+      },
+      {
+        "en": "The event was very successful.",
+        "ja": "イベントはとても成功した。"
+      },
+      {
+        "en": "We had a successful meeting.",
+        "ja": "成功した会議だった。"
+      }
+    ]
+  },
+  {
+    "word": "popular",
+    "lang": "en",
+    "level": "A2",
+    "pos": "adjective",
+    "meaning": "人気のある",
+    "pron": "ポピュラー",
+    "examples": [
+      {
+        "en": "This restaurant is very popular.",
+        "ja": "このレストランはとても人気がある。"
+      },
+      {
+        "en": "She is popular among her classmates.",
+        "ja": "彼女はクラスメートに人気がある。"
+      },
+      {
+        "en": "Coffee is a popular drink around the world.",
+        "ja": "コーヒーは世界中で人気の飲み物だ。"
+      }
+    ]
+  },
+  {
+    "word": "healthy",
+    "lang": "en",
+    "level": "A2",
+    "pos": "adjective",
+    "meaning": "健康な",
+    "pron": "ヘルシー",
+    "examples": [
+      {
+        "en": "She eats a healthy diet.",
+        "ja": "彼女は健康的な食事をする。"
+      },
+      {
+        "en": "Exercise is important for a healthy life.",
+        "ja": "運動は健康な生活に重要だ。"
+      },
+      {
+        "en": "The children look very healthy.",
+        "ja": "子供たちはとても健康そうだ。"
+      }
+    ]
+  },
+  {
+    "word": "nervous",
+    "lang": "en",
+    "level": "A2",
+    "pos": "adjective",
+    "meaning": "緊張した",
+    "pron": "ナーヴァス",
+    "examples": [
+      {
+        "en": "I feel nervous before exams.",
+        "ja": "試験の前は緊張する。"
+      },
+      {
+        "en": "She was nervous about the interview.",
+        "ja": "彼女は面接について緊張していた。"
+      },
+      {
+        "en": "Do not be nervous.",
+        "ja": "緊張しないで。"
+      }
+    ]
+  },
+  {
+    "word": "excited",
+    "lang": "en",
+    "level": "A2",
+    "pos": "adjective",
+    "meaning": "ワクワクした",
+    "pron": "エキサイティッド",
+    "examples": [
+      {
+        "en": "I am excited about the trip.",
+        "ja": "旅行にワクワクしている。"
+      },
+      {
+        "en": "The children were very excited.",
+        "ja": "子供たちはとてもワクワクしていた。"
+      },
+      {
+        "en": "She was excited to see her old friends.",
+        "ja": "彼女は古い友達に会えてワクワクした。"
+      }
+    ]
+  },
+  {
+    "word": "worried",
+    "lang": "en",
+    "level": "A2",
+    "pos": "adjective",
+    "meaning": "心配した",
+    "pron": "ウォーリード",
+    "examples": [
+      {
+        "en": "I am worried about the exam.",
+        "ja": "試験が心配だ。"
+      },
+      {
+        "en": "She looked worried.",
+        "ja": "彼女は心配そうだった。"
+      },
+      {
+        "en": "Do not be worried.",
+        "ja": "心配しないで。"
+      }
+    ]
+  },
+  {
+    "word": "disappointed",
+    "lang": "en",
+    "level": "A2",
+    "pos": "adjective",
+    "meaning": "がっかりした",
+    "pron": "ディサポインティッド",
+    "examples": [
+      {
+        "en": "I was disappointed with the result.",
+        "ja": "結果にがっかりした。"
+      },
+      {
+        "en": "She felt disappointed.",
+        "ja": "彼女はがっかりした。"
+      },
+      {
+        "en": "Do not be disappointed.",
+        "ja": "がっかりしないで。"
+      }
+    ]
+  },
+  {
+    "word": "surprised",
+    "lang": "en",
+    "level": "A2",
+    "pos": "adjective",
+    "meaning": "驚いた",
+    "pron": "サプライズド",
+    "examples": [
+      {
+        "en": "I was surprised by the news.",
+        "ja": "ニュースに驚いた。"
+      },
+      {
+        "en": "She was surprised to see him.",
+        "ja": "彼に会って驚いた。"
+      },
+      {
+        "en": "Everyone was surprised at the result.",
+        "ja": "誰もが結果に驚いた。"
+      }
+    ]
+  },
+  {
+    "word": "angry",
+    "lang": "en",
+    "level": "A2",
+    "pos": "adjective",
+    "meaning": "怒った",
+    "pron": "アングリー",
+    "examples": [
+      {
+        "en": "She was angry with me.",
+        "ja": "彼女は私に怒っていた。"
+      },
+      {
+        "en": "Do not be angry.",
+        "ja": "怒らないで。"
+      },
+      {
+        "en": "He gets angry easily.",
+        "ja": "彼はすぐ怒る。"
+      }
+    ]
+  },
+  {
+    "word": "afraid",
+    "lang": "en",
+    "level": "A2",
+    "pos": "adjective",
+    "meaning": "恐れている",
+    "pron": "アフレイド",
+    "examples": [
+      {
+        "en": "She is afraid of spiders.",
+        "ja": "彼女は蜘蛛が怖い。"
+      },
+      {
+        "en": "Do not be afraid.",
+        "ja": "恐れないで。"
+      },
+      {
+        "en": "I am afraid I cannot come.",
+        "ja": "残念ながら来られません。"
+      }
+    ]
+  },
+  {
+    "word": "tired",
+    "lang": "en",
+    "level": "A2",
+    "pos": "adjective",
+    "meaning": "疲れた",
+    "pron": "タイアード",
+    "examples": [
+      {
+        "en": "I am very tired today.",
+        "ja": "今日はとても疲れた。"
+      },
+      {
+        "en": "She felt tired after work.",
+        "ja": "彼女は仕事後に疲れた。"
+      },
+      {
+        "en": "He was too tired to study.",
+        "ja": "彼は疲れすぎて勉強できなかった。"
+      }
+    ]
+  },
+  {
+    "word": "hungry",
+    "lang": "en",
+    "level": "A2",
+    "pos": "adjective",
+    "meaning": "空腹の",
+    "pron": "ハングリー",
+    "examples": [
+      {
+        "en": "I am very hungry.",
+        "ja": "とてもお腹が空いた。"
+      },
+      {
+        "en": "The children were hungry after playing.",
+        "ja": "子供たちは遊んだ後お腹が空いた。"
+      },
+      {
+        "en": "Are you hungry?",
+        "ja": "お腹が空きましたか？"
+      }
+    ]
+  },
+  {
+    "word": "expensive",
+    "lang": "en",
+    "level": "A2",
+    "pos": "adjective",
+    "meaning": "高価な",
+    "pron": "エクスペンシブ",
+    "examples": [
+      {
+        "en": "This restaurant is expensive.",
+        "ja": "このレストランは高い。"
+      },
+      {
+        "en": "The bag was too expensive.",
+        "ja": "そのバッグは高すぎた。"
+      },
+      {
+        "en": "Living in Tokyo is expensive.",
+        "ja": "東京での生活は高い。"
+      }
+    ]
+  },
+  {
+    "word": "cheap",
+    "lang": "en",
+    "level": "A2",
+    "pos": "adjective",
+    "meaning": "安い",
+    "pron": "チープ",
+    "examples": [
+      {
+        "en": "This is very cheap.",
+        "ja": "これはとても安い。"
+      },
+      {
+        "en": "She bought a cheap phone.",
+        "ja": "彼女は安い携帯を買った。"
+      },
+      {
+        "en": "The food here is cheap and good.",
+        "ja": "ここの食べ物は安くておいしい。"
+      }
+    ]
+  },
+  {
+    "word": "beautiful",
+    "lang": "en",
+    "level": "A2",
+    "pos": "adjective",
+    "meaning": "美しい",
+    "pron": "ビューティフル",
+    "examples": [
+      {
+        "en": "The garden is beautiful.",
+        "ja": "庭は美しい。"
+      },
+      {
+        "en": "She wore a beautiful dress.",
+        "ja": "彼女は美しいドレスを着ていた。"
+      },
+      {
+        "en": "What a beautiful sunset!",
+        "ja": "なんて美しい夕焼けだろう！"
+      }
+    ]
+  },
+  {
+    "word": "wonderful",
+    "lang": "en",
+    "level": "A2",
+    "pos": "adjective",
+    "meaning": "素晴らしい",
+    "pron": "ワンダフル",
+    "examples": [
+      {
+        "en": "We had a wonderful time.",
+        "ja": "素晴らしい時間を過ごした。"
+      },
+      {
+        "en": "The weather was wonderful.",
+        "ja": "天気は素晴らしかった。"
+      },
+      {
+        "en": "She is a wonderful person.",
+        "ja": "彼女は素晴らしい人だ。"
+      }
+    ]
+  },
+  {
+    "word": "terrible",
+    "lang": "en",
+    "level": "A2",
+    "pos": "adjective",
+    "meaning": "ひどい",
+    "pron": "テリブル",
+    "examples": [
+      {
+        "en": "The movie was terrible.",
+        "ja": "映画はひどかった。"
+      },
+      {
+        "en": "She had a terrible headache.",
+        "ja": "彼女はひどい頭痛だった。"
+      },
+      {
+        "en": "That is a terrible idea.",
+        "ja": "それはひどい考えだ。"
+      }
+    ]
+  },
+  {
+    "word": "especially",
+    "lang": "en",
+    "level": "A2",
+    "pos": "adverb",
+    "meaning": "特に",
+    "pron": "エスペシャリー",
+    "examples": [
+      {
+        "en": "I love Japanese food, especially sushi.",
+        "ja": "日本食が好きだ、特に寿司。"
+      },
+      {
+        "en": "She is especially good at math.",
+        "ja": "彼女は特に数学が得意だ。"
+      },
+      {
+        "en": "This is especially important.",
+        "ja": "これは特に重要だ。"
+      }
+    ]
+  },
+  {
+    "word": "probably",
+    "lang": "en",
+    "level": "A2",
+    "pos": "adverb",
+    "meaning": "たぶん",
+    "pron": "プロバブリー",
+    "examples": [
+      {
+        "en": "It will probably rain tomorrow.",
+        "ja": "明日はたぶん雨が降るだろう。"
+      },
+      {
+        "en": "She is probably at home.",
+        "ja": "彼女はたぶん家にいる。"
+      },
+      {
+        "en": "He probably forgot about it.",
+        "ja": "彼はたぶん忘れたのだろう。"
+      }
+    ]
+  },
+  {
+    "word": "already",
+    "lang": "en",
+    "level": "A2",
+    "pos": "adverb",
+    "meaning": "すでに",
+    "pron": "オルレディ",
+    "examples": [
+      {
+        "en": "I have already finished.",
+        "ja": "すでに終わりました。"
+      },
+      {
+        "en": "She has already left.",
+        "ja": "彼女はすでに出発した。"
+      },
+      {
+        "en": "Have you already eaten?",
+        "ja": "もう食べましたか？"
+      }
+    ]
+  },
+  {
+    "word": "perhaps",
+    "lang": "en",
+    "level": "A2",
+    "pos": "adverb",
+    "meaning": "たぶん、おそらく",
+    "pron": "パーハップス",
+    "examples": [
+      {
+        "en": "Perhaps we should go home.",
+        "ja": "たぶん帰るべきだ。"
+      },
+      {
+        "en": "Perhaps she knows the answer.",
+        "ja": "たぶん彼女は答えを知っている。"
+      },
+      {
+        "en": "Perhaps it will be fine.",
+        "ja": "たぶん大丈夫だろう。"
+      }
+    ]
+  },
+  {
+    "word": "although",
+    "lang": "en",
+    "level": "A2",
+    "pos": "conjunction",
+    "meaning": "～だけれども",
+    "pron": "オールソウ",
+    "examples": [
+      {
+        "en": "Although it was raining, we went out.",
+        "ja": "雨が降っていたが、外出した。"
+      },
+      {
+        "en": "Although she is young, she is very talented.",
+        "ja": "若いけれど、とても才能がある。"
+      },
+      {
+        "en": "Although I was tired, I finished the work.",
+        "ja": "疲れていたが、仕事を終えた。"
+      }
+    ]
+  },
+  {
+    "word": "because",
+    "lang": "en",
+    "level": "A2",
+    "pos": "conjunction",
+    "meaning": "なぜなら",
+    "pron": "ビコーズ",
+    "examples": [
+      {
+        "en": "I stayed home because it was raining.",
+        "ja": "雨が降っていたので家にいた。"
+      },
+      {
+        "en": "She was late because of the traffic.",
+        "ja": "渋滞で遅れた。"
+      },
+      {
+        "en": "Because he was sick, he could not go.",
+        "ja": "病気だったので行けなかった。"
+      }
+    ]
+  },
+  {
+    "word": "according",
+    "lang": "en",
+    "level": "A2",
+    "pos": "preposition",
+    "meaning": "～によると",
+    "pron": "アコーディング",
+    "examples": [
+      {
+        "en": "According to the news, it will rain tomorrow.",
+        "ja": "ニュースによると明日は雨だ。"
+      },
+      {
+        "en": "According to the map, the station is nearby.",
+        "ja": "地図によると駅は近くにある。"
+      },
+      {
+        "en": "According to the schedule, the meeting is at two.",
+        "ja": "スケジュールによると会議は2時だ。"
+      }
+    ]
+  },
+  {
+    "word": "during",
+    "lang": "en",
+    "level": "A2",
+    "pos": "preposition",
+    "meaning": "～の間に",
+    "pron": "デューリング",
+    "examples": [
+      {
+        "en": "She fell asleep during the movie.",
+        "ja": "映画の間に眠ってしまった。"
+      },
+      {
+        "en": "We discussed the plan during the meeting.",
+        "ja": "会議中に計画を議論した。"
+      },
+      {
+        "en": "It rained during the night.",
+        "ja": "夜の間に雨が降った。"
+      }
+    ]
+  },
+  {
+    "word": "without",
+    "lang": "en",
+    "level": "A2",
+    "pos": "preposition",
+    "meaning": "～なしで",
+    "pron": "ウィズアウト",
+    "examples": [
+      {
+        "en": "I cannot live without music.",
+        "ja": "音楽なしでは生きられない。"
+      },
+      {
+        "en": "She left without saying goodbye.",
+        "ja": "彼女は別れを告げずに去った。"
+      },
+      {
+        "en": "He worked without a break.",
+        "ja": "彼は休憩なしで働いた。"
+      }
+    ]
+  },
+  {
+    "word": "against",
+    "lang": "en",
+    "level": "A2",
+    "pos": "preposition",
+    "meaning": "～に反対して",
+    "pron": "アゲインスト",
+    "examples": [
+      {
+        "en": "She is against the plan.",
+        "ja": "彼女はその計画に反対している。"
+      },
+      {
+        "en": "He leaned against the wall.",
+        "ja": "彼は壁にもたれた。"
+      },
+      {
+        "en": "We played against the other team.",
+        "ja": "私たちは他のチームと対戦した。"
+      }
+    ]
+  },
+  {
+    "word": "efficient",
+    "lang": "en",
+    "level": "B1",
+    "pos": "adjective",
+    "meaning": "効率的な",
+    "pron": "イフィシャント",
+    "examples": [
+      {
+        "en": "She works very efficiently.",
+        "ja": "彼女はとても効率的に働く。"
+      },
+      {
+        "en": "We need a more efficient system.",
+        "ja": "もっと効率的なシステムが必要だ。"
+      },
+      {
+        "en": "Efficient use of time is important.",
+        "ja": "時間の効率的な使い方は重要だ。"
+      }
+    ]
+  },
+  {
+    "word": "achieve",
+    "lang": "en",
+    "level": "B1",
+    "pos": "verb",
+    "meaning": "達成する",
+    "pron": "アチーブ",
+    "examples": [
+      {
+        "en": "She achieved her goal.",
+        "ja": "彼女は目標を達成した。"
+      },
+      {
+        "en": "What do you want to achieve this year?",
+        "ja": "今年何を達成したいですか？"
+      },
+      {
+        "en": "It takes hard work to achieve success.",
+        "ja": "成功を達成するには努力が必要だ。"
+      }
+    ]
+  },
+  {
+    "word": "advantage",
+    "lang": "en",
+    "level": "B1",
+    "pos": "noun",
+    "meaning": "利点",
+    "pron": "アドヴァンテージ",
+    "examples": [
+      {
+        "en": "Learning English has many advantages.",
+        "ja": "英語を学ぶことには多くの利点がある。"
+      },
+      {
+        "en": "She took advantage of the opportunity.",
+        "ja": "彼女はその機会を利用した。"
+      },
+      {
+        "en": "What is the advantage of this method?",
+        "ja": "この方法の利点は何ですか？"
+      }
+    ]
+  },
+  {
+    "word": "approach",
+    "lang": "en",
+    "level": "B1",
+    "pos": "noun",
+    "meaning": "アプローチ、接近",
+    "pron": "アプローチ",
+    "examples": [
+      {
+        "en": "We need a different approach.",
+        "ja": "違うアプローチが必要だ。"
+      },
+      {
+        "en": "Her approach to teaching is unique.",
+        "ja": "彼女の教育アプローチはユニークだ。"
+      },
+      {
+        "en": "He approached the problem carefully.",
+        "ja": "彼は問題に慎重に取り組んだ。"
+      }
+    ]
+  },
+  {
+    "word": "awareness",
+    "lang": "en",
+    "level": "B1",
+    "pos": "noun",
+    "meaning": "認識、意識",
+    "pron": "アウェアネス",
+    "examples": [
+      {
+        "en": "Environmental awareness is increasing.",
+        "ja": "環境への意識が高まっている。"
+      },
+      {
+        "en": "She has a strong awareness of cultural differences.",
+        "ja": "彼女は文化の違いに対する意識が強い。"
+      },
+      {
+        "en": "We need to raise awareness about this issue.",
+        "ja": "この問題についての認識を高める必要がある。"
+      }
+    ]
+  },
+  {
+    "word": "challenge",
+    "lang": "en",
+    "level": "B1",
+    "pos": "noun",
+    "meaning": "挑戦、課題",
+    "pron": "チャレンジ",
+    "examples": [
+      {
+        "en": "Learning a new language is a challenge.",
+        "ja": "新しい言語を学ぶのは挑戦だ。"
+      },
+      {
+        "en": "She accepted the challenge.",
+        "ja": "彼女はその挑戦を受け入れた。"
+      },
+      {
+        "en": "The biggest challenge is time management.",
+        "ja": "最大の課題は時間管理だ。"
+      }
+    ]
+  },
+  {
+    "word": "competent",
+    "lang": "en",
+    "level": "B1",
+    "pos": "adjective",
+    "meaning": "有能な",
+    "pron": "コンピテント",
+    "examples": [
+      {
+        "en": "She is a very competent manager.",
+        "ja": "彼女はとても有能なマネージャーだ。"
+      },
+      {
+        "en": "He is competent in three languages.",
+        "ja": "彼は3つの言語に堪能だ。"
+      },
+      {
+        "en": "We need competent people for this project.",
+        "ja": "このプロジェクトには有能な人が必要だ。"
+      }
+    ]
+  },
+  {
+    "word": "consequence",
+    "lang": "en",
+    "level": "B1",
+    "pos": "noun",
+    "meaning": "結果、影響",
+    "pron": "コンシクエンス",
+    "examples": [
+      {
+        "en": "Think about the consequences before you act.",
+        "ja": "行動する前に結果を考えなさい。"
+      },
+      {
+        "en": "The consequence of pollution is serious.",
+        "ja": "汚染の結果は深刻だ。"
+      },
+      {
+        "en": "She suffered the consequences of her decision.",
+        "ja": "彼女は自分の決定の結果を被った。"
+      }
+    ]
+  },
+  {
+    "word": "consider",
+    "lang": "en",
+    "level": "B1",
+    "pos": "verb",
+    "meaning": "考慮する",
+    "pron": "コンシダー",
+    "examples": [
+      {
+        "en": "Please consider my proposal.",
+        "ja": "私の提案を検討してください。"
+      },
+      {
+        "en": "She is considering changing her job.",
+        "ja": "彼女は転職を考えている。"
+      },
+      {
+        "en": "We should consider all options.",
+        "ja": "すべての選択肢を検討すべきだ。"
+      }
+    ]
+  },
+  {
+    "word": "contribute",
+    "lang": "en",
+    "level": "B1",
+    "pos": "verb",
+    "meaning": "貢献する",
+    "pron": "コントリビュート",
+    "examples": [
+      {
+        "en": "She contributed to the project's success.",
+        "ja": "彼女はプロジェクトの成功に貢献した。"
+      },
+      {
+        "en": "Everyone should contribute to society.",
+        "ja": "誰もが社会に貢献すべきだ。"
+      },
+      {
+        "en": "He contributed money to the charity.",
+        "ja": "彼は慈善団体に寄付した。"
+      }
+    ]
+  },
+  {
+    "word": "creative",
+    "lang": "en",
+    "level": "B1",
+    "pos": "adjective",
+    "meaning": "創造的な",
+    "pron": "クリエイティブ",
+    "examples": [
+      {
+        "en": "She is a very creative person.",
+        "ja": "彼女はとても創造的な人だ。"
+      },
+      {
+        "en": "We need creative solutions to this problem.",
+        "ja": "この問題には創造的な解決策が必要だ。"
+      },
+      {
+        "en": "The children showed creative talent.",
+        "ja": "子供たちは創造的な才能を見せた。"
+      }
+    ]
+  },
+  {
+    "word": "deadline",
+    "lang": "en",
+    "level": "B1",
+    "pos": "noun",
+    "meaning": "締め切り",
+    "pron": "デッドライン",
+    "examples": [
+      {
+        "en": "The deadline is next Friday.",
+        "ja": "締め切りは来週の金曜日だ。"
+      },
+      {
+        "en": "She missed the deadline.",
+        "ja": "彼女は締め切りに遅れた。"
+      },
+      {
+        "en": "We need to meet the deadline.",
+        "ja": "締め切りを守る必要がある。"
+      }
+    ]
+  },
+  {
+    "word": "demonstrate",
+    "lang": "en",
+    "level": "B1",
+    "pos": "verb",
+    "meaning": "実証する、示す",
+    "pron": "デモンストレート",
+    "examples": [
+      {
+        "en": "She demonstrated her skills.",
+        "ja": "彼女はスキルを実証した。"
+      },
+      {
+        "en": "The report demonstrates the problem.",
+        "ja": "報告書は問題を示している。"
+      },
+      {
+        "en": "Can you demonstrate how to use this?",
+        "ja": "使い方を示してくれますか？"
+      }
+    ]
+  },
+  {
+    "word": "evaluate",
+    "lang": "en",
+    "level": "B1",
+    "pos": "verb",
+    "meaning": "評価する",
+    "pron": "エバリュエート",
+    "examples": [
+      {
+        "en": "We need to evaluate the results.",
+        "ja": "結果を評価する必要がある。"
+      },
+      {
+        "en": "She was evaluated on her performance.",
+        "ja": "彼女はパフォーマンスで評価された。"
+      },
+      {
+        "en": "It is important to evaluate risks.",
+        "ja": "リスクを評価することが重要だ。"
+      }
+    ]
+  },
+  {
+    "word": "evidence",
+    "lang": "en",
+    "level": "B1",
+    "pos": "noun",
+    "meaning": "証拠",
+    "pron": "エビデンス",
+    "examples": [
+      {
+        "en": "There is no evidence to support this claim.",
+        "ja": "この主張を裏付ける証拠はない。"
+      },
+      {
+        "en": "The evidence shows that she was right.",
+        "ja": "証拠は彼女が正しかったことを示している。"
+      },
+      {
+        "en": "We need more evidence before making a decision.",
+        "ja": "決定前にさらなる証拠が必要だ。"
+      }
+    ]
+  },
+  {
+    "word": "flexible",
+    "lang": "en",
+    "level": "B1",
+    "pos": "adjective",
+    "meaning": "柔軟な",
+    "pron": "フレキシブル",
+    "examples": [
+      {
+        "en": "She has a flexible schedule.",
+        "ja": "彼女は柔軟なスケジュールを持っている。"
+      },
+      {
+        "en": "We need a flexible approach.",
+        "ja": "柔軟なアプローチが必要だ。"
+      },
+      {
+        "en": "He is very flexible about work hours.",
+        "ja": "彼は勤務時間について柔軟だ。"
+      }
+    ]
+  },
+  {
+    "word": "fundamental",
+    "lang": "en",
+    "level": "B1",
+    "pos": "adjective",
+    "meaning": "基本的な",
+    "pron": "ファンダメンタル",
+    "examples": [
+      {
+        "en": "This is a fundamental problem.",
+        "ja": "これは基本的な問題だ。"
+      },
+      {
+        "en": "Education is a fundamental right.",
+        "ja": "教育は基本的な権利だ。"
+      },
+      {
+        "en": "There are fundamental differences between the two.",
+        "ja": "2つの間には基本的な違いがある。"
+      }
+    ]
+  },
+  {
+    "word": "guarantee",
+    "lang": "en",
+    "level": "B1",
+    "pos": "noun",
+    "meaning": "保証",
+    "pron": "ギャランティ",
+    "examples": [
+      {
+        "en": "The product comes with a guarantee.",
+        "ja": "製品には保証が付いている。"
+      },
+      {
+        "en": "I cannot guarantee success.",
+        "ja": "成功を保証できない。"
+      },
+      {
+        "en": "We guarantee the quality of our service.",
+        "ja": "私たちはサービスの品質を保証します。"
+      }
+    ]
+  },
+  {
+    "word": "identify",
+    "lang": "en",
+    "level": "B1",
+    "pos": "verb",
+    "meaning": "特定する、識別する",
+    "pron": "アイデンティファイ",
+    "examples": [
+      {
+        "en": "Can you identify the problem?",
+        "ja": "問題を特定できますか？"
+      },
+      {
+        "en": "She identified the cause of the error.",
+        "ja": "彼女はエラーの原因を特定した。"
+      },
+      {
+        "en": "It is important to identify your strengths.",
+        "ja": "自分の強みを特定することが重要だ。"
+      }
+    ]
+  },
+  {
+    "word": "implement",
+    "lang": "en",
+    "level": "B1",
+    "pos": "verb",
+    "meaning": "実施する",
+    "pron": "インプリメント",
+    "examples": [
+      {
+        "en": "We plan to implement the new system next month.",
+        "ja": "来月新しいシステムを実施する予定だ。"
+      },
+      {
+        "en": "The government implemented new policies.",
+        "ja": "政府は新しい政策を実施した。"
+      },
+      {
+        "en": "It is difficult to implement changes quickly.",
+        "ja": "急速な変化の実施は難しい。"
+      }
+    ]
+  },
+  {
+    "word": "invest",
+    "lang": "en",
+    "level": "B1",
+    "pos": "verb",
+    "meaning": "投資する",
+    "pron": "インヴェスト",
+    "examples": [
+      {
+        "en": "She invested in the stock market.",
+        "ja": "彼女は株式市場に投資した。"
+      },
+      {
+        "en": "We need to invest in education.",
+        "ja": "教育に投資する必要がある。"
+      },
+      {
+        "en": "He invested a lot of time in this project.",
+        "ja": "彼はこのプロジェクトに多くの時間を投資した。"
+      }
+    ]
+  },
+  {
+    "word": "involve",
+    "lang": "en",
+    "level": "B1",
+    "pos": "verb",
+    "meaning": "含む、関わる",
+    "pron": "インヴォルヴ",
+    "examples": [
+      {
+        "en": "The project involves many people.",
+        "ja": "プロジェクトには多くの人が関わっている。"
+      },
+      {
+        "en": "She did not want to get involved.",
+        "ja": "彼女は関わりたくなかった。"
+      },
+      {
+        "en": "What does the job involve?",
+        "ja": "その仕事は何を含みますか？"
+      }
+    ]
+  },
+  {
+    "word": "lack",
+    "lang": "en",
+    "level": "B1",
+    "pos": "noun",
+    "meaning": "不足、欠如",
+    "pron": "ラック",
+    "examples": [
+      {
+        "en": "The project failed due to a lack of funding.",
+        "ja": "資金不足でプロジェクトが失敗した。"
+      },
+      {
+        "en": "She showed a lack of interest.",
+        "ja": "彼女は興味の欠如を示した。"
+      },
+      {
+        "en": "There is a lack of communication.",
+        "ja": "コミュニケーションの不足がある。"
+      }
+    ]
+  },
+  {
+    "word": "maintain",
+    "lang": "en",
+    "level": "B1",
+    "pos": "verb",
+    "meaning": "維持する",
+    "pron": "メインテイン",
+    "examples": [
+      {
+        "en": "She maintains a healthy lifestyle.",
+        "ja": "彼女は健康的なライフスタイルを維持している。"
+      },
+      {
+        "en": "It is important to maintain good relationships.",
+        "ja": "良い関係を維持することが重要だ。"
+      },
+      {
+        "en": "We need to maintain the equipment regularly.",
+        "ja": "定期的に設備を維持する必要がある。"
+      }
+    ]
+  },
+  {
+    "word": "negotiate",
+    "lang": "en",
+    "level": "B1",
+    "pos": "verb",
+    "meaning": "交渉する",
+    "pron": "ネゴシエート",
+    "examples": [
+      {
+        "en": "She negotiated a better salary.",
+        "ja": "彼女はより良い給与を交渉した。"
+      },
+      {
+        "en": "We need to negotiate the terms.",
+        "ja": "条件を交渉する必要がある。"
+      },
+      {
+        "en": "He successfully negotiated the deal.",
+        "ja": "彼は取引を成功裏に交渉した。"
+      }
+    ]
+  },
+  {
+    "word": "obtain",
+    "lang": "en",
+    "level": "B1",
+    "pos": "verb",
+    "meaning": "入手する",
+    "pron": "オブテイン",
+    "examples": [
+      {
+        "en": "She obtained a scholarship.",
+        "ja": "彼女は奨学金を入手した。"
+      },
+      {
+        "en": "We need to obtain permission first.",
+        "ja": "まず許可を得る必要がある。"
+      },
+      {
+        "en": "He obtained valuable experience.",
+        "ja": "彼は貴重な経験を得た。"
+      }
+    ]
+  },
+  {
+    "word": "perspective",
+    "lang": "en",
+    "level": "B1",
+    "pos": "noun",
+    "meaning": "視点、観点",
+    "pron": "パースペクティブ",
+    "examples": [
+      {
+        "en": "Try to see things from a different perspective.",
+        "ja": "違う視点から物事を見てみよう。"
+      },
+      {
+        "en": "Her perspective on life changed.",
+        "ja": "彼女の人生観が変わった。"
+      },
+      {
+        "en": "We need a global perspective.",
+        "ja": "グローバルな視点が必要だ。"
+      }
+    ]
+  },
+  {
+    "word": "predict",
+    "lang": "en",
+    "level": "B1",
+    "pos": "verb",
+    "meaning": "予測する",
+    "pron": "プリディクト",
+    "examples": [
+      {
+        "en": "It is difficult to predict the future.",
+        "ja": "未来を予測するのは難しい。"
+      },
+      {
+        "en": "Experts predict economic growth.",
+        "ja": "専門家は経済成長を予測している。"
+      },
+      {
+        "en": "She predicted the outcome correctly.",
+        "ja": "彼女は結果を正しく予測した。"
+      }
+    ]
+  },
+  {
+    "word": "previous",
+    "lang": "en",
+    "level": "B1",
+    "pos": "adjective",
+    "meaning": "以前の",
+    "pron": "プリヴィアス",
+    "examples": [
+      {
+        "en": "She had no previous experience.",
+        "ja": "彼女には以前の経験がなかった。"
+      },
+      {
+        "en": "The previous meeting was very productive.",
+        "ja": "前回の会議はとても生産的だった。"
+      },
+      {
+        "en": "I read the previous chapter.",
+        "ja": "前の章を読んだ。"
+      }
+    ]
+  },
+  {
+    "word": "priority",
+    "lang": "en",
+    "level": "B1",
+    "pos": "noun",
+    "meaning": "優先事項",
+    "pron": "プライオリティ",
+    "examples": [
+      {
+        "en": "Health is my top priority.",
+        "ja": "健康は私の最優先事項だ。"
+      },
+      {
+        "en": "We need to set clear priorities.",
+        "ja": "明確な優先順位を設定する必要がある。"
+      },
+      {
+        "en": "Education should be a priority.",
+        "ja": "教育は優先事項であるべきだ。"
+      }
+    ]
+  },
+  {
+    "word": "proposal",
+    "lang": "en",
+    "level": "B1",
+    "pos": "noun",
+    "meaning": "提案",
+    "pron": "プロポーザル",
+    "examples": [
+      {
+        "en": "She submitted a proposal for the project.",
+        "ja": "彼女はプロジェクトの提案を提出した。"
+      },
+      {
+        "en": "We discussed the proposal in detail.",
+        "ja": "提案について詳しく議論した。"
+      },
+      {
+        "en": "The proposal was rejected.",
+        "ja": "提案は却下された。"
+      }
+    ]
+  },
+  {
+    "word": "pursue",
+    "lang": "en",
+    "level": "B1",
+    "pos": "verb",
+    "meaning": "追求する",
+    "pron": "パースー",
+    "examples": [
+      {
+        "en": "She decided to pursue a career in medicine.",
+        "ja": "彼女は医学の道を追求することにした。"
+      },
+      {
+        "en": "He wants to pursue his dream.",
+        "ja": "彼は夢を追求したい。"
+      },
+      {
+        "en": "We should pursue all possible options.",
+        "ja": "すべての可能な選択肢を追求すべきだ。"
+      }
+    ]
+  },
+  {
+    "word": "recommend",
+    "lang": "en",
+    "level": "B1",
+    "pos": "verb",
+    "meaning": "推薦する",
+    "pron": "レコメンド",
+    "examples": [
+      {
+        "en": "I recommend this restaurant.",
+        "ja": "このレストランをお勧めします。"
+      },
+      {
+        "en": "She recommended a good book to me.",
+        "ja": "彼女は私に良い本を推薦した。"
+      },
+      {
+        "en": "The doctor recommended more exercise.",
+        "ja": "医者はもっと運動するよう勧めた。"
+      }
+    ]
+  },
+  {
+    "word": "require",
+    "lang": "en",
+    "level": "B1",
+    "pos": "verb",
+    "meaning": "必要とする",
+    "pron": "リクワイア",
+    "examples": [
+      {
+        "en": "This job requires patience.",
+        "ja": "この仕事は忍耐が必要だ。"
+      },
+      {
+        "en": "She is required to work overtime.",
+        "ja": "彼女は残業が必要とされる。"
+      },
+      {
+        "en": "What qualifications are required?",
+        "ja": "どんな資格が必要ですか？"
+      }
+    ]
+  },
+  {
+    "word": "research",
+    "lang": "en",
+    "level": "B1",
+    "pos": "noun",
+    "meaning": "研究",
+    "pron": "リサーチ",
+    "examples": [
+      {
+        "en": "She is doing research on climate change.",
+        "ja": "彼女は気候変動について研究している。"
+      },
+      {
+        "en": "More research is needed.",
+        "ja": "さらなる研究が必要だ。"
+      },
+      {
+        "en": "The research shows interesting results.",
+        "ja": "研究は興味深い結果を示している。"
+      }
+    ]
+  },
+  {
+    "word": "responsibility",
+    "lang": "en",
+    "level": "B1",
+    "pos": "noun",
+    "meaning": "責任",
+    "pron": "レスポンシビリティ",
+    "examples": [
+      {
+        "en": "It is my responsibility to finish this.",
+        "ja": "これを終えるのは私の責任だ。"
+      },
+      {
+        "en": "She takes her responsibilities seriously.",
+        "ja": "彼女は自分の責任を真剣に受け止めている。"
+      },
+      {
+        "en": "Parents have a responsibility for their children.",
+        "ja": "親には子供に対する責任がある。"
+      }
+    ]
+  },
+  {
+    "word": "significant",
+    "lang": "en",
+    "level": "B1",
+    "pos": "adjective",
+    "meaning": "重要な、著しい",
+    "pron": "シグニフィカント",
+    "examples": [
+      {
+        "en": "There was a significant improvement.",
+        "ja": "著しい改善があった。"
+      },
+      {
+        "en": "This is a significant discovery.",
+        "ja": "これは重要な発見だ。"
+      },
+      {
+        "en": "The decision had a significant impact.",
+        "ja": "その決定は重要な影響を与えた。"
+      }
+    ]
+  },
+  {
+    "word": "solution",
+    "lang": "en",
+    "level": "B1",
+    "pos": "noun",
+    "meaning": "解決策",
+    "pron": "ソリューション",
+    "examples": [
+      {
+        "en": "We need to find a solution.",
+        "ja": "解決策を見つける必要がある。"
+      },
+      {
+        "en": "She proposed a creative solution.",
+        "ja": "彼女は創造的な解決策を提案した。"
+      },
+      {
+        "en": "There is no simple solution to this problem.",
+        "ja": "この問題には簡単な解決策はない。"
+      }
+    ]
+  },
+  {
+    "word": "strategy",
+    "lang": "en",
+    "level": "B1",
+    "pos": "noun",
+    "meaning": "戦略",
+    "pron": "ストラテジー",
+    "examples": [
+      {
+        "en": "We need a new marketing strategy.",
+        "ja": "新しいマーケティング戦略が必要だ。"
+      },
+      {
+        "en": "She developed a good strategy for the project.",
+        "ja": "彼女はプロジェクトの良い戦略を立てた。"
+      },
+      {
+        "en": "The strategy was effective.",
+        "ja": "その戦略は効果的だった。"
+      }
+    ]
+  },
+  {
+    "word": "sufficient",
+    "lang": "en",
+    "level": "B1",
+    "pos": "adjective",
+    "meaning": "十分な",
+    "pron": "サフィシェント",
+    "examples": [
+      {
+        "en": "We have sufficient time.",
+        "ja": "十分な時間がある。"
+      },
+      {
+        "en": "Is the evidence sufficient?",
+        "ja": "証拠は十分ですか？"
+      },
+      {
+        "en": "She has sufficient experience for the job.",
+        "ja": "彼女はその仕事に十分な経験を持っている。"
+      }
+    ]
+  },
+  {
+    "word": "technique",
+    "lang": "en",
+    "level": "B1",
+    "pos": "noun",
+    "meaning": "技術、手法",
+    "pron": "テクニック",
+    "examples": [
+      {
+        "en": "She uses a special technique for painting.",
+        "ja": "彼女は絵画に特殊な手法を使う。"
+      },
+      {
+        "en": "Learning proper technique is important.",
+        "ja": "正しい技術を学ぶことが重要だ。"
+      },
+      {
+        "en": "He improved his writing technique.",
+        "ja": "彼は執筆技術を向上させた。"
+      }
+    ]
+  },
+  {
+    "word": "temporary",
+    "lang": "en",
+    "level": "B1",
+    "pos": "adjective",
+    "meaning": "一時的な",
+    "pron": "テンポラリー",
+    "examples": [
+      {
+        "en": "This is only a temporary solution.",
+        "ja": "これは一時的な解決策にすぎない。"
+      },
+      {
+        "en": "She found a temporary job.",
+        "ja": "彼女は一時的な仕事を見つけた。"
+      },
+      {
+        "en": "The closure is temporary.",
+        "ja": "閉鎖は一時的なものだ。"
+      }
+    ]
+  },
+  {
+    "word": "tendency",
+    "lang": "en",
+    "level": "B1",
+    "pos": "noun",
+    "meaning": "傾向",
+    "pron": "テンデンシー",
+    "examples": [
+      {
+        "en": "She has a tendency to worry.",
+        "ja": "彼女は心配する傾向がある。"
+      },
+      {
+        "en": "There is a tendency toward online shopping.",
+        "ja": "オンラインショッピングの傾向がある。"
+      },
+      {
+        "en": "Prices show an upward tendency.",
+        "ja": "価格は上昇傾向を示している。"
+      }
+    ]
+  },
+  {
+    "word": "value",
+    "lang": "en",
+    "level": "B1",
+    "pos": "noun",
+    "meaning": "価値",
+    "pron": "ヴァリュー",
+    "examples": [
+      {
+        "en": "Education has great value.",
+        "ja": "教育には大きな価値がある。"
+      },
+      {
+        "en": "She values her friendship with you.",
+        "ja": "彼女はあなたとの友情を大切にしている。"
+      },
+      {
+        "en": "The value of the property has increased.",
+        "ja": "不動産の価値が上がった。"
+      }
+    ]
+  },
+  {
+    "word": "virtual",
+    "lang": "en",
+    "level": "B1",
+    "pos": "adjective",
+    "meaning": "仮想の、実質的な",
+    "pron": "ヴァーチュアル",
+    "examples": [
+      {
+        "en": "We had a virtual meeting.",
+        "ja": "仮想会議を開いた。"
+      },
+      {
+        "en": "Virtual reality is becoming popular.",
+        "ja": "仮想現実が人気になっている。"
+      },
+      {
+        "en": "She took a virtual tour of the museum.",
+        "ja": "彼女は美術館のバーチャルツアーを体験した。"
+      }
+    ]
+  },
+  {
+    "word": "accomplish",
+    "lang": "en",
+    "level": "B1",
+    "pos": "verb",
+    "meaning": "成し遂げる",
+    "pron": "アコンプリッシュ",
+    "examples": [
+      {
+        "en": "She accomplished all her goals.",
+        "ja": "彼女はすべての目標を成し遂げた。"
+      },
+      {
+        "en": "What do you hope to accomplish?",
+        "ja": "何を成し遂げたいですか？"
+      },
+      {
+        "en": "He accomplished the task ahead of schedule.",
+        "ja": "彼は予定より早くタスクを成し遂げた。"
+      }
+    ]
+  },
+  {
+    "word": "adapt",
+    "lang": "en",
+    "level": "B1",
+    "pos": "verb",
+    "meaning": "適応する",
+    "pron": "アダプト",
+    "examples": [
+      {
+        "en": "She quickly adapted to the new environment.",
+        "ja": "彼女は新しい環境にすぐ適応した。"
+      },
+      {
+        "en": "It takes time to adapt to a new culture.",
+        "ja": "新しい文化に適応するには時間がかかる。"
+      },
+      {
+        "en": "Animals adapt to their surroundings.",
+        "ja": "動物は環境に適応する。"
+      }
+    ]
+  },
+  {
+    "word": "appropriate",
+    "lang": "en",
+    "level": "B1",
+    "pos": "adjective",
+    "meaning": "適切な",
+    "pron": "アプロプリエイト",
+    "examples": [
+      {
+        "en": "Is this dress appropriate for the event?",
+        "ja": "このドレスはイベントに適切ですか？"
+      },
+      {
+        "en": "Please use appropriate language.",
+        "ja": "適切な言葉を使ってください。"
+      },
+      {
+        "en": "That was not an appropriate response.",
+        "ja": "それは適切な対応ではなかった。"
+      }
+    ]
+  },
+  {
+    "word": "convince",
+    "lang": "en",
+    "level": "B1",
+    "pos": "verb",
+    "meaning": "説得する",
+    "pron": "コンヴィンス",
+    "examples": [
+      {
+        "en": "She convinced me to try it.",
+        "ja": "彼女は試すよう私を説得した。"
+      },
+      {
+        "en": "I am not convinced by his argument.",
+        "ja": "彼の主張には納得できない。"
+      },
+      {
+        "en": "He convinced the team to change the plan.",
+        "ja": "彼はチームに計画の変更を説得した。"
+      }
+    ]
+  },
+  {
+    "word": "deliver",
+    "lang": "en",
+    "level": "B1",
+    "pos": "verb",
+    "meaning": "配達する、届ける",
+    "pron": "デリヴァー",
+    "examples": [
+      {
+        "en": "The package was delivered yesterday.",
+        "ja": "荷物は昨日配達された。"
+      },
+      {
+        "en": "She delivered an excellent presentation.",
+        "ja": "彼女は素晴らしいプレゼンをした。"
+      },
+      {
+        "en": "Can you deliver this by Friday?",
+        "ja": "金曜日までに届けてくれますか？"
+      }
+    ]
+  },
+  {
+    "word": "encounter",
+    "lang": "en",
+    "level": "B1",
+    "pos": "verb",
+    "meaning": "出会う、直面する",
+    "pron": "エンカウンター",
+    "examples": [
+      {
+        "en": "She encountered many challenges.",
+        "ja": "彼女は多くの課題に直面した。"
+      },
+      {
+        "en": "I encountered an old friend at the station.",
+        "ja": "駅で昔の友達に出会った。"
+      },
+      {
+        "en": "We encountered some problems along the way.",
+        "ja": "途中でいくつかの問題に直面した。"
+      }
+    ]
+  },
+  {
+    "word": "establish",
+    "lang": "en",
+    "level": "B1",
+    "pos": "verb",
+    "meaning": "確立する",
+    "pron": "エスタブリッシュ",
+    "examples": [
+      {
+        "en": "She established her own company.",
+        "ja": "彼女は自分の会社を設立した。"
+      },
+      {
+        "en": "The company was established in 1990.",
+        "ja": "会社は1990年に設立された。"
+      },
+      {
+        "en": "We need to establish clear rules.",
+        "ja": "明確なルールを確立する必要がある。"
+      }
+    ]
+  },
+  {
+    "word": "generate",
+    "lang": "en",
+    "level": "B1",
+    "pos": "verb",
+    "meaning": "生み出す、生成する",
+    "pron": "ジェネレート",
+    "examples": [
+      {
+        "en": "The project generated a lot of interest.",
+        "ja": "プロジェクトは多くの関心を集めた。"
+      },
+      {
+        "en": "Solar panels generate electricity.",
+        "ja": "太陽光パネルは電気を生成する。"
+      },
+      {
+        "en": "She generated new ideas for the campaign.",
+        "ja": "彼女はキャンペーンの新しいアイデアを出した。"
+      }
+    ]
+  },
+  {
+    "word": "influence",
+    "lang": "en",
+    "level": "B1",
+    "pos": "noun",
+    "meaning": "影響",
+    "pron": "インフルエンス",
+    "examples": [
+      {
+        "en": "Parents have a big influence on their children.",
+        "ja": "親は子供に大きな影響を与える。"
+      },
+      {
+        "en": "Social media has a strong influence on young people.",
+        "ja": "ソーシャルメディアは若者に強い影響を与える。"
+      },
+      {
+        "en": "She was influenced by her teacher.",
+        "ja": "彼女は先生の影響を受けた。"
+      }
+    ]
+  },
+  {
+    "word": "issue",
+    "lang": "en",
+    "level": "B1",
+    "pos": "noun",
+    "meaning": "問題、課題",
+    "pron": "イシュー",
+    "examples": [
+      {
+        "en": "This is a serious issue.",
+        "ja": "これは深刻な問題だ。"
+      },
+      {
+        "en": "We need to address the issue.",
+        "ja": "この問題に対処する必要がある。"
+      },
+      {
+        "en": "She raised an important issue in the meeting.",
+        "ja": "彼女は会議で重要な問題を提起した。"
+      }
+    ]
+  },
+  {
+    "word": "motivate",
+    "lang": "en",
+    "level": "B1",
+    "pos": "verb",
+    "meaning": "動機づける",
+    "pron": "モチヴェート",
+    "examples": [
+      {
+        "en": "What motivates you to work hard?",
+        "ja": "何が一生懸命働く動機ですか？"
+      },
+      {
+        "en": "She motivated the team to do their best.",
+        "ja": "彼女はチームを最善を尽くすよう動機づけた。"
+      },
+      {
+        "en": "The reward motivated him to study harder.",
+        "ja": "報酬は彼をより勉強するよう動機づけた。"
+      }
+    ]
+  },
+  {
+    "word": "outcome",
+    "lang": "en",
+    "level": "B1",
+    "pos": "noun",
+    "meaning": "結果",
+    "pron": "アウトカム",
+    "examples": [
+      {
+        "en": "What was the outcome of the meeting?",
+        "ja": "会議の結果はどうでしたか？"
+      },
+      {
+        "en": "We are waiting for the outcome.",
+        "ja": "結果を待っている。"
+      },
+      {
+        "en": "The outcome exceeded our expectations.",
+        "ja": "結果は期待を上回った。"
+      }
+    ]
+  },
+  {
+    "word": "relevant",
+    "lang": "en",
+    "level": "B1",
+    "pos": "adjective",
+    "meaning": "関連のある",
+    "pron": "レレヴァント",
+    "examples": [
+      {
+        "en": "Please include only relevant information.",
+        "ja": "関連する情報だけを含めてください。"
+      },
+      {
+        "en": "Her experience is very relevant to this job.",
+        "ja": "彼女の経験はこの仕事にとても関連している。"
+      },
+      {
+        "en": "Is this information still relevant?",
+        "ja": "この情報はまだ関連がありますか？"
+      }
+    ]
+  },
+  {
+    "word": "anticipate",
+    "lang": "en",
+    "level": "B2",
+    "pos": "verb",
+    "meaning": "予期する、期待する",
+    "pron": "アンティシペート",
+    "examples": [
+      {
+        "en": "We anticipate some challenges ahead.",
+        "ja": "前方にいくつかの課題を予期している。"
+      },
+      {
+        "en": "She anticipated the market trend correctly.",
+        "ja": "彼女は市場のトレンドを正しく予期した。"
+      },
+      {
+        "en": "I did not anticipate this outcome.",
+        "ja": "この結果を予期していなかった。"
+      }
+    ]
+  },
+  {
+    "word": "comprehensive",
+    "lang": "en",
+    "level": "B2",
+    "pos": "adjective",
+    "meaning": "包括的な",
+    "pron": "コンプリヘンシブ",
+    "examples": [
+      {
+        "en": "We need a comprehensive plan.",
+        "ja": "包括的な計画が必要だ。"
+      },
+      {
+        "en": "She wrote a comprehensive report.",
+        "ja": "彼女は包括的なレポートを書いた。"
+      },
+      {
+        "en": "The guide provides comprehensive information.",
+        "ja": "ガイドは包括的な情報を提供している。"
+      }
+    ]
+  },
+  {
+    "word": "constraint",
+    "lang": "en",
+    "level": "B2",
+    "pos": "noun",
+    "meaning": "制約、制限",
+    "pron": "コンストレイント",
+    "examples": [
+      {
+        "en": "Budget constraints limited our options.",
+        "ja": "予算の制約で選択肢が限られた。"
+      },
+      {
+        "en": "Time is a major constraint in this project.",
+        "ja": "時間はこのプロジェクトの主要な制約だ。"
+      },
+      {
+        "en": "We need to work within these constraints.",
+        "ja": "これらの制約の中で作業する必要がある。"
+      }
+    ]
+  },
+  {
+    "word": "deprivation",
+    "lang": "en",
+    "level": "B2",
+    "pos": "noun",
+    "meaning": "剥奪、欠乏",
+    "pron": "デプリヴェーション",
+    "examples": [
+      {
+        "en": "Sleep deprivation affects performance.",
+        "ja": "睡眠不足はパフォーマンスに影響する。"
+      },
+      {
+        "en": "The study focused on sensory deprivation.",
+        "ja": "研究は感覚遮断に焦点を当てた。"
+      },
+      {
+        "en": "Social deprivation can lead to mental health issues.",
+        "ja": "社会的剥奪は精神健康問題につながる可能性がある。"
+      }
+    ]
+  },
+  {
+    "word": "deteriorate",
+    "lang": "en",
+    "level": "B2",
+    "pos": "verb",
+    "meaning": "悪化する",
+    "pron": "ディテリオレート",
+    "examples": [
+      {
+        "en": "His health has deteriorated rapidly.",
+        "ja": "彼の健康は急速に悪化した。"
+      },
+      {
+        "en": "The economic situation continues to deteriorate.",
+        "ja": "経済状況は悪化し続けている。"
+      },
+      {
+        "en": "Relations between the two countries have deteriorated.",
+        "ja": "両国の関係は悪化した。"
+      }
+    ]
+  },
+  {
+    "word": "elaborate",
+    "lang": "en",
+    "level": "B2",
+    "pos": "adjective",
+    "meaning": "入念な、詳細な",
+    "pron": "エラボレート",
+    "examples": [
+      {
+        "en": "She made elaborate preparations for the event.",
+        "ja": "彼女はイベントのために入念な準備をした。"
+      },
+      {
+        "en": "Could you elaborate on that point?",
+        "ja": "その点について詳しく説明してくれますか？"
+      },
+      {
+        "en": "The house had elaborate decorations.",
+        "ja": "家には入念な装飾があった。"
+      }
+    ]
+  },
+  {
+    "word": "exceed",
+    "lang": "en",
+    "level": "B2",
+    "pos": "verb",
+    "meaning": "超える",
+    "pron": "エクシード",
+    "examples": [
+      {
+        "en": "Revenue exceeded expectations.",
+        "ja": "収益は期待を上回った。"
+      },
+      {
+        "en": "The temperature exceeded 40 degrees.",
+        "ja": "気温は40度を超えた。"
+      },
+      {
+        "en": "Do not exceed the speed limit.",
+        "ja": "スピード制限を超えないでください。"
+      }
+    ]
+  },
+  {
+    "word": "facilitate",
+    "lang": "en",
+    "level": "B2",
+    "pos": "verb",
+    "meaning": "促進する、容易にする",
+    "pron": "ファシリテート",
+    "examples": [
+      {
+        "en": "Technology facilitates communication.",
+        "ja": "テクノロジーはコミュニケーションを促進する。"
+      },
+      {
+        "en": "She facilitated the workshop.",
+        "ja": "彼女はワークショップをファシリテートした。"
+      },
+      {
+        "en": "The new system will facilitate faster processing.",
+        "ja": "新しいシステムはより速い処理を可能にする。"
+      }
+    ]
+  },
+  {
+    "word": "hypothesis",
+    "lang": "en",
+    "level": "B2",
+    "pos": "noun",
+    "meaning": "仮説",
+    "pron": "ハイポセシス",
+    "examples": [
+      {
+        "en": "The scientist tested her hypothesis.",
+        "ja": "科学者は仮説をテストした。"
+      },
+      {
+        "en": "We need to form a hypothesis before experimenting.",
+        "ja": "実験の前に仮説を立てる必要がある。"
+      },
+      {
+        "en": "The results supported the hypothesis.",
+        "ja": "結果は仮説を支持した。"
+      }
+    ]
+  },
+  {
+    "word": "imperative",
+    "lang": "en",
+    "level": "B2",
+    "pos": "adjective",
+    "meaning": "不可欠な、緊急の",
+    "pron": "インペラティヴ",
+    "examples": [
+      {
+        "en": "It is imperative that we act now.",
+        "ja": "今行動することが不可欠だ。"
+      },
+      {
+        "en": "Immediate action is imperative.",
+        "ja": "即時の行動が不可欠だ。"
+      },
+      {
+        "en": "Clear communication is imperative for success.",
+        "ja": "明確なコミュニケーションは成功に不可欠だ。"
+      }
+    ]
+  },
+  {
+    "word": "inevitable",
+    "lang": "en",
+    "level": "B2",
+    "pos": "adjective",
+    "meaning": "避けられない",
+    "pron": "イネヴィタブル",
+    "examples": [
+      {
+        "en": "Change is inevitable.",
+        "ja": "変化は避けられない。"
+      },
+      {
+        "en": "The conflict was inevitable.",
+        "ja": "衝突は避けられなかった。"
+      },
+      {
+        "en": "It was inevitable that prices would rise.",
+        "ja": "価格上昇は避けられなかった。"
+      }
+    ]
+  },
+  {
+    "word": "infrastructure",
+    "lang": "en",
+    "level": "B2",
+    "pos": "noun",
+    "meaning": "インフラ",
+    "pron": "インフラストラクチャー",
+    "examples": [
+      {
+        "en": "The country needs better infrastructure.",
+        "ja": "その国はより良いインフラが必要だ。"
+      },
+      {
+        "en": "Infrastructure investment is crucial.",
+        "ja": "インフラ投資は重要だ。"
+      },
+      {
+        "en": "Digital infrastructure is rapidly improving.",
+        "ja": "デジタルインフラは急速に改善している。"
+      }
+    ]
+  },
+  {
+    "word": "legitimate",
+    "lang": "en",
+    "level": "B2",
+    "pos": "adjective",
+    "meaning": "正当な、合法的な",
+    "pron": "レジティメイト",
+    "examples": [
+      {
+        "en": "She has a legitimate concern.",
+        "ja": "彼女には正当な懸念がある。"
+      },
+      {
+        "en": "Is this a legitimate business?",
+        "ja": "これは正当なビジネスですか？"
+      },
+      {
+        "en": "He raised a legitimate question.",
+        "ja": "彼は正当な質問をした。"
+      }
+    ]
+  },
+  {
+    "word": "merit",
+    "lang": "en",
+    "level": "B2",
+    "pos": "noun",
+    "meaning": "長所、功績",
+    "pron": "メリット",
+    "examples": [
+      {
+        "en": "Each proposal has its merits.",
+        "ja": "各提案には長所がある。"
+      },
+      {
+        "en": "The idea has some merit.",
+        "ja": "そのアイデアにはいくつかの長所がある。"
+      },
+      {
+        "en": "We should evaluate the proposal on its merits.",
+        "ja": "提案をその長所で評価すべきだ。"
+      }
+    ]
+  },
+  {
+    "word": "notable",
+    "lang": "en",
+    "level": "B2",
+    "pos": "adjective",
+    "meaning": "注目すべき",
+    "pron": "ノウタブル",
+    "examples": [
+      {
+        "en": "There has been a notable improvement.",
+        "ja": "注目すべき改善があった。"
+      },
+      {
+        "en": "She is a notable scientist.",
+        "ja": "彼女は注目すべき科学者だ。"
+      },
+      {
+        "en": "The project had several notable achievements.",
+        "ja": "プロジェクトにはいくつかの注目すべき成果があった。"
+      }
+    ]
+  },
+  {
+    "word": "phenomenon",
+    "lang": "en",
+    "level": "B2",
+    "pos": "noun",
+    "meaning": "現象",
+    "pron": "フェノメノン",
+    "examples": [
+      {
+        "en": "Global warming is a well-known phenomenon.",
+        "ja": "地球温暖化はよく知られた現象だ。"
+      },
+      {
+        "en": "The phenomenon can be explained by science.",
+        "ja": "この現象は科学で説明できる。"
+      },
+      {
+        "en": "Social media is a relatively new phenomenon.",
+        "ja": "ソーシャルメディアは比較的新しい現象だ。"
+      }
+    ]
+  },
+  {
+    "word": "prevalent",
+    "lang": "en",
+    "level": "B2",
+    "pos": "adjective",
+    "meaning": "普及している",
+    "pron": "プレヴァレント",
+    "examples": [
+      {
+        "en": "This disease is prevalent in tropical regions.",
+        "ja": "この病気は熱帯地域で普及している。"
+      },
+      {
+        "en": "Smartphones are prevalent among young people.",
+        "ja": "スマホは若者の間で普及している。"
+      },
+      {
+        "en": "Online shopping has become increasingly prevalent.",
+        "ja": "オンラインショッピングはますます普及している。"
+      }
+    ]
+  },
+  {
+    "word": "prospective",
+    "lang": "en",
+    "level": "B2",
+    "pos": "adjective",
+    "meaning": "将来の、予期される",
+    "pron": "プロスペクティヴ",
+    "examples": [
+      {
+        "en": "She met with prospective clients.",
+        "ja": "彼女は将来の顧客と会った。"
+      },
+      {
+        "en": "Prospective students visited the campus.",
+        "ja": "志願者がキャンパスを訪問した。"
+      },
+      {
+        "en": "What are the benefits for prospective employees?",
+        "ja": "将来の従業員へのメリットは何ですか？"
+      }
+    ]
+  },
+  {
+    "word": "reluctant",
+    "lang": "en",
+    "level": "B2",
+    "pos": "adjective",
+    "meaning": "消極的な",
+    "pron": "リラクタント",
+    "examples": [
+      {
+        "en": "She was reluctant to change her mind.",
+        "ja": "彼女は考えを変えるのに消極的だった。"
+      },
+      {
+        "en": "He is reluctant to ask for help.",
+        "ja": "彼は助けを求めるのをためらう。"
+      },
+      {
+        "en": "They were reluctant to accept the offer.",
+        "ja": "彼らはオファーを受け入れるのをためらった。"
+      }
+    ]
+  },
+  {
+    "word": "scrutinize",
+    "lang": "en",
+    "level": "B2",
+    "pos": "verb",
+    "meaning": "精査する",
+    "pron": "スクルティナイズ",
+    "examples": [
+      {
+        "en": "The committee will scrutinize the proposal.",
+        "ja": "委員会は提案を精査する。"
+      },
+      {
+        "en": "She scrutinized every detail of the contract.",
+        "ja": "彼女は契約のすべての詳細を精査した。"
+      },
+      {
+        "en": "The evidence was carefully scrutinized.",
+        "ja": "証拠は慎重に精査された。"
+      }
+    ]
+  },
+  {
+    "word": "simultaneously",
+    "lang": "en",
+    "level": "B2",
+    "pos": "adverb",
+    "meaning": "同時に",
+    "pron": "サイマルテニアスリー",
+    "examples": [
+      {
+        "en": "The events occurred simultaneously.",
+        "ja": "出来事は同時に起こった。"
+      },
+      {
+        "en": "She translated simultaneously during the meeting.",
+        "ja": "彼女は会議中に同時通訳した。"
+      },
+      {
+        "en": "Both projects were developed simultaneously.",
+        "ja": "両方のプロジェクトは同時に開発された。"
+      }
+    ]
+  },
+  {
+    "word": "speculate",
+    "lang": "en",
+    "level": "B2",
+    "pos": "verb",
+    "meaning": "推測する、投機する",
+    "pron": "スペキュレート",
+    "examples": [
+      {
+        "en": "We can only speculate about the cause.",
+        "ja": "原因について推測することしかできない。"
+      },
+      {
+        "en": "She speculated that the market would recover.",
+        "ja": "彼女は市場が回復すると推測した。"
+      },
+      {
+        "en": "It is pointless to speculate without evidence.",
+        "ja": "証拠なしに推測するのは無意味だ。"
+      }
+    ]
+  },
+  {
+    "word": "subsequent",
+    "lang": "en",
+    "level": "B2",
+    "pos": "adjective",
+    "meaning": "その後の",
+    "pron": "サブシクエント",
+    "examples": [
+      {
+        "en": "Subsequent events proved her right.",
+        "ja": "その後の出来事は彼女が正しかったことを証明した。"
+      },
+      {
+        "en": "The initial meeting and subsequent discussions were productive.",
+        "ja": "最初の会議とその後の議論は生産的だった。"
+      },
+      {
+        "en": "Subsequent research confirmed the findings.",
+        "ja": "その後の研究は発見を確認した。"
+      }
+    ]
+  },
+  {
+    "word": "tremendous",
+    "lang": "en",
+    "level": "B2",
+    "pos": "adjective",
+    "meaning": "莫大な、素晴らしい",
+    "pron": "トリメンダス",
+    "examples": [
+      {
+        "en": "She made a tremendous effort.",
+        "ja": "彼女は莫大な努力をした。"
+      },
+      {
+        "en": "The project was a tremendous success.",
+        "ja": "プロジェクトは大成功だった。"
+      },
+      {
+        "en": "There has been a tremendous change.",
+        "ja": "莫大な変化があった。"
+      }
+    ]
+  },
+  {
+    "word": "undermine",
+    "lang": "en",
+    "level": "B2",
+    "pos": "verb",
+    "meaning": "弱める、損なう",
+    "pron": "アンダーマイン",
+    "examples": [
+      {
+        "en": "His behavior undermined our trust.",
+        "ja": "彼の行動は信頼を損なった。"
+      },
+      {
+        "en": "The scandal undermined the company's reputation.",
+        "ja": "スキャンダルは会社の評判を損なった。"
+      },
+      {
+        "en": "Do not let criticism undermine your confidence.",
+        "ja": "批判で自信を損なわせないでください。"
+      }
+    ]
+  },
+  {
+    "word": "vulnerable",
+    "lang": "en",
+    "level": "B2",
+    "pos": "adjective",
+    "meaning": "脆弱な",
+    "pron": "ヴルナラブル",
+    "examples": [
+      {
+        "en": "Children are vulnerable to illness.",
+        "ja": "子供たちは病気に脆弱だ。"
+      },
+      {
+        "en": "The system is vulnerable to cyber attacks.",
+        "ja": "システムはサイバー攻撃に脆弱だ。"
+      },
+      {
+        "en": "She felt vulnerable after the incident.",
+        "ja": "彼女は事件後、脆弱に感じた。"
+      }
+    ]
+  },
+  {
+    "word": "alleviate",
+    "lang": "en",
+    "level": "B2",
+    "pos": "verb",
+    "meaning": "軽減する",
+    "pron": "アリヴィエート",
+    "examples": [
+      {
+        "en": "Medicine can alleviate the pain.",
+        "ja": "薬は痛みを軽減できる。"
+      },
+      {
+        "en": "New policies were introduced to alleviate poverty.",
+        "ja": "貧困を軽減するために新政策が導入された。"
+      },
+      {
+        "en": "Exercise helps alleviate stress.",
+        "ja": "運動はストレスの軽減に役立つ。"
+      }
+    ]
+  },
+  {
+    "word": "ambiguous",
+    "lang": "en",
+    "level": "B2",
+    "pos": "adjective",
+    "meaning": "曖昧な",
+    "pron": "アンビギュアス",
+    "examples": [
+      {
+        "en": "The instructions were ambiguous.",
+        "ja": "説明は曖昧だった。"
+      },
+      {
+        "en": "His response was deliberately ambiguous.",
+        "ja": "彼の回答は意図的に曖昧だった。"
+      },
+      {
+        "en": "The law on this matter is ambiguous.",
+        "ja": "この問題の法律は曖昧だ。"
+      }
+    ]
+  },
+  {
+    "word": "coherent",
+    "lang": "en",
+    "level": "B2",
+    "pos": "adjective",
+    "meaning": "一貫した、整合性のある",
+    "pron": "コヒーレント",
+    "examples": [
+      {
+        "en": "She presented a coherent argument.",
+        "ja": "彼女は一貫した論理を提示した。"
+      },
+      {
+        "en": "His story was not coherent.",
+        "ja": "彼の話は一貫していなかった。"
+      },
+      {
+        "en": "We need a coherent strategy.",
+        "ja": "一貫した戦略が必要だ。"
+      }
+    ]
+  },
+  {
+    "word": "compensate",
+    "lang": "en",
+    "level": "B2",
+    "pos": "verb",
+    "meaning": "補償する、埋め合わせる",
+    "pron": "コンペンセート",
+    "examples": [
+      {
+        "en": "The company compensated the victims.",
+        "ja": "会社は被害者に補償した。"
+      },
+      {
+        "en": "Hard work compensates for lack of talent.",
+        "ja": "努力は才能の不足を埋め合わせる。"
+      },
+      {
+        "en": "She was compensated for her overtime.",
+        "ja": "彼女は残業の補償を受けた。"
+      }
+    ]
+  },
+  {
+    "word": "contemplate",
+    "lang": "en",
+    "level": "B2",
+    "pos": "verb",
+    "meaning": "熟考する",
+    "pron": "コンテンプレート",
+    "examples": [
+      {
+        "en": "She contemplated her future career.",
+        "ja": "彼女は将来のキャリアを熟考した。"
+      },
+      {
+        "en": "He contemplated leaving his job.",
+        "ja": "彼は仕事を辞めることを考えた。"
+      },
+      {
+        "en": "I need time to contemplate this decision.",
+        "ja": "この決定について熟考する時間が必要だ。"
+      }
+    ]
+  },
+  {
+    "word": "deceive",
+    "lang": "en",
+    "level": "B2",
+    "pos": "verb",
+    "meaning": "騙す",
+    "pron": "ディシーブ",
+    "examples": [
+      {
+        "en": "Do not try to deceive me.",
+        "ja": "私を騙そうとしないでください。"
+      },
+      {
+        "en": "She realized she had been deceived.",
+        "ja": "彼女は騙されていたことに気づいた。"
+      },
+      {
+        "en": "Appearances can deceive.",
+        "ja": "見かけに騙されることがある。"
+      }
+    ]
+  },
+  {
+    "word": "discrepancy",
+    "lang": "en",
+    "level": "B2",
+    "pos": "noun",
+    "meaning": "不一致",
+    "pron": "ディスクリパンシー",
+    "examples": [
+      {
+        "en": "There is a discrepancy in the numbers.",
+        "ja": "数字に不一致がある。"
+      },
+      {
+        "en": "She noticed a discrepancy between the two reports.",
+        "ja": "彼女は2つのレポートの不一致に気づいた。"
+      },
+      {
+        "en": "We need to investigate the discrepancy.",
+        "ja": "不一致を調査する必要がある。"
+      }
+    ]
+  },
+  {
+    "word": "encompass",
+    "lang": "en",
+    "level": "B2",
+    "pos": "verb",
+    "meaning": "包含する",
+    "pron": "エンコンパス",
+    "examples": [
+      {
+        "en": "The course encompasses many topics.",
+        "ja": "コースには多くのトピックが含まれる。"
+      },
+      {
+        "en": "Her responsibilities encompass project management.",
+        "ja": "彼女の責任にはプロジェクト管理が含まれる。"
+      },
+      {
+        "en": "The plan encompasses both short and long term goals.",
+        "ja": "計画には短期と長期の目標が含まれる。"
+      }
+    ]
+  },
+  {
+    "word": "endorse",
+    "lang": "en",
+    "level": "B2",
+    "pos": "verb",
+    "meaning": "承認する、推薦する",
+    "pron": "エンドース",
+    "examples": [
+      {
+        "en": "The committee endorsed the proposal.",
+        "ja": "委員会は提案を承認した。"
+      },
+      {
+        "en": "She endorsed the new policy.",
+        "ja": "彼女は新しい政策を支持した。"
+      },
+      {
+        "en": "The celebrity endorsed the product.",
+        "ja": "有名人が製品を推薦した。"
+      }
+    ]
+  },
+  {
+    "word": "feasible",
+    "lang": "en",
+    "level": "B2",
+    "pos": "adjective",
+    "meaning": "実行可能な",
+    "pron": "フィージブル",
+    "examples": [
+      {
+        "en": "Is this plan feasible?",
+        "ja": "この計画は実行可能ですか？"
+      },
+      {
+        "en": "We need to find a feasible solution.",
+        "ja": "実行可能な解決策を見つける必要がある。"
+      },
+      {
+        "en": "The project proved to be feasible.",
+        "ja": "プロジェクトは実行可能であることが分かった。"
+      }
+    ]
+  },
+  {
+    "word": "gratuitous",
+    "lang": "en",
+    "level": "B2",
+    "pos": "adjective",
+    "meaning": "無賠償の、不当な",
+    "pron": "グラチュイタス",
+    "examples": [
+      {
+        "en": "The criticism was gratuitous.",
+        "ja": "その批判は不当だった。"
+      },
+      {
+        "en": "The movie contained gratuitous violence.",
+        "ja": "映画には不当な暴力が含まれていた。"
+      },
+      {
+        "en": "She made a gratuitous comment.",
+        "ja": "彼女は不当なコメントをした。"
+      }
+    ]
+  },
+  {
+    "word": "hierarchy",
+    "lang": "en",
+    "level": "B2",
+    "pos": "noun",
+    "meaning": "階層",
+    "pron": "ハイアラーキー",
+    "examples": [
+      {
+        "en": "The company has a strict hierarchy.",
+        "ja": "会社には厳格な階層がある。"
+      },
+      {
+        "en": "She quickly moved up the hierarchy.",
+        "ja": "彼女はすぐに階層を上った。"
+      },
+      {
+        "en": "Understanding the hierarchy is important.",
+        "ja": "階層を理解することが重要だ。"
+      }
+    ]
+  },
+  {
+    "word": "impede",
+    "lang": "en",
+    "level": "B2",
+    "pos": "verb",
+    "meaning": "妨げる",
+    "pron": "インピード",
+    "examples": [
+      {
+        "en": "Bad weather impeded our progress.",
+        "ja": "悪天候が進行を妨げた。"
+      },
+      {
+        "en": "Bureaucracy can impede innovation.",
+        "ja": "官僚主義はイノベーションを妨げる可能性がある。"
+      },
+      {
+        "en": "Nothing will impede our determination.",
+        "ja": "何も私たちの決意を妨げない。"
+      }
+    ]
+  },
+  {
+    "word": "intrinsic",
+    "lang": "en",
+    "level": "B2",
+    "pos": "adjective",
+    "meaning": "本質的な",
+    "pron": "イントリンジック",
+    "examples": [
+      {
+        "en": "She believes in the intrinsic value of education.",
+        "ja": "彼女は教育の本質的な価値を信じている。"
+      },
+      {
+        "en": "The work has intrinsic rewards.",
+        "ja": "仕事には本質的な報酬がある。"
+      },
+      {
+        "en": "These are intrinsic properties of the material.",
+        "ja": "これらは素材の本質的な特性だ。"
+      }
+    ]
+  },
+  {
+    "word": "mundane",
+    "lang": "en",
+    "level": "B2",
+    "pos": "adjective",
+    "meaning": "平凡な",
+    "pron": "マンデイン",
+    "examples": [
+      {
+        "en": "She was tired of mundane daily tasks.",
+        "ja": "彼女は平凡な日常の作業に疲れていた。"
+      },
+      {
+        "en": "Even mundane activities can be meaningful.",
+        "ja": "平凡な活動も意味を持つことがある。"
+      },
+      {
+        "en": "He tried to add creativity to mundane chores.",
+        "ja": "彼は平凡な家事に創造性を加えようとした。"
+      }
+    ]
+  },
+  {
+    "word": "notwithstanding",
+    "lang": "en",
+    "level": "B2",
+    "pos": "preposition",
+    "meaning": "～にもかかわらず",
+    "pron": "ノットウィズスタンディング",
+    "examples": [
+      {
+        "en": "Notwithstanding the risks, we proceeded.",
+        "ja": "リスクにもかかわらず、進めた。"
+      },
+      {
+        "en": "Notwithstanding the difficulties, she succeeded.",
+        "ja": "困難にもかかわらず、彼女は成功した。"
+      },
+      {
+        "en": "The project continued, notwithstanding the budget cuts.",
+        "ja": "予算削減にもかかわらず、プロジェクトは続いた。"
+      }
+    ]
+  },
+  {
+    "word": "perpetual",
+    "lang": "en",
+    "level": "B2",
+    "pos": "adjective",
+    "meaning": "永遠の、絶え間ない",
+    "pron": "パーペチュアル",
+    "examples": [
+      {
+        "en": "They lived in perpetual fear.",
+        "ja": "彼らは絶え間ない恐怖の中で暮らしていた。"
+      },
+      {
+        "en": "The city is in a state of perpetual change.",
+        "ja": "都市は絶え間ない変化の状態にある。"
+      },
+      {
+        "en": "She had a perpetual smile.",
+        "ja": "彼女はいつも微笑んでいた。"
+      }
+    ]
+  },
+  {
+    "word": "precarious",
+    "lang": "en",
+    "level": "B2",
+    "pos": "adjective",
+    "meaning": "不安定な",
+    "pron": "プリケアリアス",
+    "examples": [
+      {
+        "en": "His financial situation was precarious.",
+        "ja": "彼の財政状況は不安定だった。"
+      },
+      {
+        "en": "The ladder was in a precarious position.",
+        "ja": "梯子は不安定な位置にあった。"
+      },
+      {
+        "en": "The company's future looks precarious.",
+        "ja": "会社の将来は不安定に見える。"
+      }
+    ]
+  },
+  {
+    "word": "pragmatic",
+    "lang": "en",
+    "level": "B2",
+    "pos": "adjective",
+    "meaning": "実用的な、現実的な",
+    "pron": "プラグマティック",
+    "examples": [
+      {
+        "en": "We need a pragmatic approach.",
+        "ja": "実用的なアプローチが必要だ。"
+      },
+      {
+        "en": "She is a pragmatic leader.",
+        "ja": "彼女は現実的なリーダーだ。"
+      },
+      {
+        "en": "The decision was based on pragmatic considerations.",
+        "ja": "決定は現実的な考慮に基づいていた。"
+      }
+    ]
+  },
+  {
+    "word": "rectify",
+    "lang": "en",
+    "level": "B2",
+    "pos": "verb",
+    "meaning": "修正する",
+    "pron": "レクティファイ",
+    "examples": [
+      {
+        "en": "We need to rectify the error.",
+        "ja": "エラーを修正する必要がある。"
+      },
+      {
+        "en": "She promised to rectify the situation.",
+        "ja": "彼女は状況を修正すると約束した。"
+      },
+      {
+        "en": "The problem was quickly rectified.",
+        "ja": "問題はすぐに修正された。"
+      }
+    ]
+  },
+  {
+    "word": "resilient",
+    "lang": "en",
+    "level": "B2",
+    "pos": "adjective",
+    "meaning": "回復力のある",
+    "pron": "レジリアント",
+    "examples": [
+      {
+        "en": "Children are remarkably resilient.",
+        "ja": "子供たちは驚くほど回復力がある。"
+      },
+      {
+        "en": "The economy has proven to be resilient.",
+        "ja": "経済は回復力があることが証明された。"
+      },
+      {
+        "en": "She is a resilient person.",
+        "ja": "彼女は回復力のある人だ。"
+      }
+    ]
+  },
+  {
+    "word": "scrutiny",
+    "lang": "en",
+    "level": "B2",
+    "pos": "noun",
+    "meaning": "精査、監視",
+    "pron": "スクルティニー",
+    "examples": [
+      {
+        "en": "The proposal came under close scrutiny.",
+        "ja": "提案は厳密な精査を受けた。"
+      },
+      {
+        "en": "Her work is subject to public scrutiny.",
+        "ja": "彼女の仕事は公の監視の対象だ。"
+      },
+      {
+        "en": "The data withstood careful scrutiny.",
+        "ja": "データは慎重な精査に耐えた。"
+      }
+    ]
+  },
+  {
+    "word": "substantiate",
+    "lang": "en",
+    "level": "B2",
+    "pos": "verb",
+    "meaning": "実証する、裏付ける",
+    "pron": "サブスタンシエート",
+    "examples": [
+      {
+        "en": "Can you substantiate your claims?",
+        "ja": "主張を実証できますか？"
+      },
+      {
+        "en": "The evidence substantiates the theory.",
+        "ja": "証拠は理論を裏付けている。"
+      },
+      {
+        "en": "She provided data to substantiate her argument.",
+        "ja": "彼女は主張を裏付けるデータを提供した。"
+      }
+    ]
+  },
+  {
+    "word": "unprecedented",
+    "lang": "en",
+    "level": "B2",
+    "pos": "adjective",
+    "meaning": "前例のない",
+    "pron": "アンプレシデンテッド",
+    "examples": [
+      {
+        "en": "The pandemic caused unprecedented disruption.",
+        "ja": "パンデミックは前例のない混乱を引き起こした。"
+      },
+      {
+        "en": "Sales reached unprecedented levels.",
+        "ja": "売上は前例のない水準に達した。"
+      },
+      {
+        "en": "We are facing an unprecedented crisis.",
+        "ja": "前例のない危機に直面している。"
+      }
+    ]
+  },
+  {
+    "word": "versatile",
+    "lang": "en",
+    "level": "B2",
+    "pos": "adjective",
+    "meaning": "多才な、用途の広い",
+    "pron": "ヴァーサタイル",
+    "examples": [
+      {
+        "en": "She is a versatile performer.",
+        "ja": "彼女は多才なパフォーマーだ。"
+      },
+      {
+        "en": "This is a versatile tool.",
+        "ja": "これは多用途ツールだ。"
+      },
+      {
+        "en": "He proved to be a versatile player.",
+        "ja": "彼は多才な選手であることが分かった。"
+      }
+    ]
+  },
+  {
+    "word": "withstand",
+    "lang": "en",
+    "level": "B2",
+    "pos": "verb",
+    "meaning": "耐える",
+    "pron": "ウィズスタンド",
+    "examples": [
+      {
+        "en": "The building can withstand earthquakes.",
+        "ja": "その建物は地震に耐えることができる。"
+      },
+      {
+        "en": "She could not withstand the pressure.",
+        "ja": "彼女は圧力に耐えられなかった。"
+      },
+      {
+        "en": "The material withstands extreme temperatures.",
+        "ja": "その素材は極端な温度に耐える。"
+      }
+    ]
+  },
+  {
+    "word": "endeavor",
+    "lang": "en",
+    "level": "B2",
+    "pos": "noun",
+    "meaning": "努力、事業",
+    "pron": "エンデヴァー",
+    "examples": [
+      {
+        "en": "We should support scientific endeavors.",
+        "ja": "科学的努力を支援すべきだ。"
+      },
+      {
+        "en": "The endeavor requires dedication.",
+        "ja": "その事業には献身が必要だ。"
+      },
+      {
+        "en": "She made every endeavor to succeed.",
+        "ja": "彼女は成功のためにあらゆる努力をした。"
+      }
+    ]
+  },
+  {
+    "word": "fluctuate",
+    "lang": "en",
+    "level": "B2",
+    "pos": "verb",
+    "meaning": "変動する",
+    "pron": "フラクチュエート",
+    "examples": [
+      {
+        "en": "Prices fluctuate depending on demand.",
+        "ja": "価格は需要に応じて変動する。"
+      },
+      {
+        "en": "Her weight has been fluctuating.",
+        "ja": "彼女の体重が変動している。"
+      },
+      {
+        "en": "The stock market fluctuated throughout the day.",
+        "ja": "株価は一日中変動した。"
+      }
+    ]
+  },
+  {
+    "word": "indigenous",
+    "lang": "en",
+    "level": "B2",
+    "pos": "adjective",
+    "meaning": "先住民の、固有の",
+    "pron": "インディジナス",
+    "examples": [
+      {
+        "en": "The indigenous people have a rich culture.",
+        "ja": "先住民には豊かな文化がある。"
+      },
+      {
+        "en": "This plant is indigenous to the region.",
+        "ja": "この植物はこの地域に固有だ。"
+      },
+      {
+        "en": "We must respect indigenous rights.",
+        "ja": "先住民の権利を尊重しなければならない。"
+      }
+    ]
+  },
+  {
+    "word": "preclude",
+    "lang": "en",
+    "level": "B2",
+    "pos": "verb",
+    "meaning": "排除する、妨げる",
+    "pron": "プリクルード",
+    "examples": [
+      {
+        "en": "Bad weather precluded the outdoor event.",
+        "ja": "悪天候が屋外イベントを妨げた。"
+      },
+      {
+        "en": "This does not preclude further investigation.",
+        "ja": "これはさらなる調査を排除しない。"
+      },
+      {
+        "en": "Financial constraints precluded expansion.",
+        "ja": "財政的制約が拡大を妨げた。"
+      }
+    ]
+  },
+  {
+    "word": "repercussion",
+    "lang": "en",
+    "level": "B2",
+    "pos": "noun",
+    "meaning": "波及、反響",
+    "pron": "リパーカッション",
+    "examples": [
+      {
+        "en": "The decision had serious repercussions.",
+        "ja": "その決定は深刻な波及効果があった。"
+      },
+      {
+        "en": "We must consider the long-term repercussions.",
+        "ja": "長期的な波及効果を考慮しなければならない。"
+      },
+      {
+        "en": "The scandal had political repercussions.",
+        "ja": "スキャンダルは政治的な波及効果があった。"
+      }
+    ]
+  },
+  {
+    "word": "cat",
+    "lang": "en",
+    "level": "A1",
+    "pos": "noun",
+    "meaning": "猫",
+    "pron": "キャット",
+    "examples": [
+      {
+        "en": "I have a cute cat.",
+        "ja": "可愛い猫を飼っている。"
+      },
+      {
+        "en": "The cat is sleeping on the sofa.",
+        "ja": "猫がソファで寝ている。"
+      },
+      {
+        "en": "She likes cats more than dogs.",
+        "ja": "彼女は犬より猫が好きだ。"
+      }
+    ]
+  },
+  {
+    "word": "dog",
+    "lang": "en",
+    "level": "A1",
+    "pos": "noun",
+    "meaning": "犬",
+    "pron": "ドッグ",
+    "examples": [
+      {
+        "en": "My dog is very friendly.",
+        "ja": "私の犬はとてもフレンドリーだ。"
+      },
+      {
+        "en": "He walks his dog every morning.",
+        "ja": "彼は毎朝犬を散歩させる。"
+      },
+      {
+        "en": "The dog barked at the stranger.",
+        "ja": "犬は知らない人に吠えた。"
+      }
+    ]
+  },
+  {
+    "word": "mother",
+    "lang": "en",
+    "level": "A1",
+    "pos": "noun",
+    "meaning": "お母さん",
+    "pron": "マザー",
+    "examples": [
+      {
+        "en": "My mother cooks delicious meals.",
+        "ja": "私のお母さんはおいしいご飯を作る。"
+      },
+      {
+        "en": "She became a mother last year.",
+        "ja": "彼女は昨年お母さんになった。"
+      },
+      {
+        "en": "I called my mother on the phone.",
+        "ja": "母に電話をかけた。"
+      }
+    ]
+  },
+  {
+    "word": "father",
+    "lang": "en",
+    "level": "A1",
+    "pos": "noun",
+    "meaning": "お父さん",
+    "pron": "ファザー",
+    "examples": [
+      {
+        "en": "My father works in an office.",
+        "ja": "私のお父さんはオフィスで働いている。"
+      },
+      {
+        "en": "She is very close to her father.",
+        "ja": "彼女は父ととても仲が良い。"
+      },
+      {
+        "en": "His father is a doctor.",
+        "ja": "彼の父は医者だ。"
+      }
+    ]
+  },
+  {
+    "word": "child",
+    "lang": "en",
+    "level": "A1",
+    "pos": "noun",
+    "meaning": "子供",
+    "pron": "チャイルド",
+    "examples": [
+      {
+        "en": "The child is playing in the garden.",
+        "ja": "子供が庭で遊んでいる。"
+      },
+      {
+        "en": "Every child deserves education.",
+        "ja": "すべての子供に教育を deserves。"
+      },
+      {
+        "en": "She loves working with children.",
+        "ja": "彼女は子供と働くのが好きだ。"
+      }
+    ]
+  },
+  {
+    "word": "kitchen",
+    "lang": "en",
+    "level": "A2",
+    "pos": "noun",
+    "meaning": "台所",
+    "pron": "キッチン",
+    "examples": [
+      {
+        "en": "She is cooking in the kitchen.",
+        "ja": "彼女はキッチンで料理している。"
+      },
+      {
+        "en": "The kitchen is very clean.",
+        "ja": "キッチンはとても清潔だ。"
+      },
+      {
+        "en": "We need to renovate the kitchen.",
+        "ja": "キッチンを改装する必要がある。"
+      }
+    ]
+  },
+  {
+    "word": "bedroom",
+    "lang": "en",
+    "level": "A2",
+    "pos": "noun",
+    "meaning": "寝室",
+    "pron": "ベッドルーム",
+    "examples": [
+      {
+        "en": "My bedroom is on the second floor.",
+        "ja": "私の寝室は2階にある。"
+      },
+      {
+        "en": "She painted her bedroom blue.",
+        "ja": "彼女は寝室を青く塗った。"
+      },
+      {
+        "en": "The bedroom is very small.",
+        "ja": "寝室はとても小さい。"
+      }
+    ]
+  },
+  {
+    "word": "bathroom",
+    "lang": "en",
+    "level": "A2",
+    "pos": "noun",
+    "meaning": "浴室",
+    "pron": "バスルーム",
+    "examples": [
+      {
+        "en": "The bathroom is upstairs.",
+        "ja": "浴室は2階にある。"
+      },
+      {
+        "en": "She cleaned the bathroom.",
+        "ja": "彼女は浴室を掃除した。"
+      },
+      {
+        "en": "Is there a bathroom near here?",
+        "ja": "この近くにトイレはありますか？"
+      }
+    ]
+  },
+  {
+    "word": "garden",
+    "lang": "en",
+    "level": "A2",
+    "pos": "noun",
+    "meaning": "庭",
+    "pron": "ガーデン",
+    "examples": [
+      {
+        "en": "She grows flowers in the garden.",
+        "ja": "彼女は庭で花を育てている。"
+      },
+      {
+        "en": "We had dinner in the garden.",
+        "ja": "庭で夕食をとった。"
+      },
+      {
+        "en": "The garden looks beautiful in spring.",
+        "ja": "春の庭は美しい。"
+      }
+    ]
+  },
+  {
+    "word": "supermarket",
+    "lang": "en",
+    "level": "A2",
+    "pos": "noun",
+    "meaning": "スーパーマーケット",
+    "pron": "スーパーマーケット",
+    "examples": [
+      {
+        "en": "I buy groceries at the supermarket.",
+        "ja": "スーパーで食料品を買う。"
+      },
+      {
+        "en": "The supermarket is open until ten.",
+        "ja": "スーパーは10時まで開いている。"
+      },
+      {
+        "en": "She works part-time at a supermarket.",
+        "ja": "彼女はスーパーでバイトをしている。"
+      }
+    ]
+  },
+  {
+    "word": "hobby",
+    "lang": "en",
+    "level": "A2",
+    "pos": "noun",
+    "meaning": "趣味",
+    "pron": "ホビー",
+    "examples": [
+      {
+        "en": "My hobby is reading books.",
+        "ja": "私の趣味は本を読むことだ。"
+      },
+      {
+        "en": "What are your hobbies?",
+        "ja": "趣味は何ですか？"
+      },
+      {
+        "en": "She has many hobbies.",
+        "ja": "彼女はたくさんの趣味を持っている。"
+      }
+    ]
+  },
+  {
+    "word": "neighborhood",
+    "lang": "en",
+    "level": "A2",
+    "pos": "noun",
+    "meaning": "近所",
+    "pron": "ネイバーフッド",
+    "examples": [
+      {
+        "en": "I like this neighborhood.",
+        "ja": "この近所が好きだ。"
+      },
+      {
+        "en": "She grew up in a quiet neighborhood.",
+        "ja": "彼女は静かな近所で育った。"
+      },
+      {
+        "en": "There are many shops in our neighborhood.",
+        "ja": "私たちの近所にはたくさんの店がある。"
+      }
+    ]
+  },
+  {
+    "word": "passenger",
+    "lang": "en",
+    "level": "A2",
+    "pos": "noun",
+    "meaning": "乗客",
+    "pron": "パッセンジャー",
+    "examples": [
+      {
+        "en": "The passenger asked for directions.",
+        "ja": "乗客が道を聞いた。"
+      },
+      {
+        "en": "There were many passengers on the bus.",
+        "ja": "バスにはたくさんの乗客がいた。"
+      },
+      {
+        "en": "The passenger lost his ticket.",
+        "ja": "乗客がチケットをなくした。"
+      }
+    ]
+  },
+  {
+    "word": "luggage",
+    "lang": "en",
+    "level": "A2",
+    "pos": "noun",
+    "meaning": "荷物",
+    "pron": "ラゲッジ",
+    "examples": [
+      {
+        "en": "Please wait for your luggage.",
+        "ja": "荷物をお待ちください。"
+      },
+      {
+        "en": "She packed her luggage for the trip.",
+        "ja": "彼女は旅行の荷物をまとめた。"
+      },
+      {
+        "en": "The luggage is too heavy.",
+        "ja": "荷物が重すぎる。"
+      }
+    ]
+  },
+  {
+    "word": "vacation",
+    "lang": "en",
+    "level": "A2",
+    "pos": "noun",
+    "meaning": "休暇",
+    "pron": "ベーション",
+    "examples": [
+      {
+        "en": "We went on vacation to Hawaii.",
+        "ja": "ハワイに休暇で行った。"
+      },
+      {
+        "en": "She is on vacation this week.",
+        "ja": "彼女は今週休暇だ。"
+      },
+      {
+        "en": "I need a vacation.",
+        "ja": "休暇が必要だ。"
+      }
+    ]
+  },
+  {
+    "word": "temperature",
+    "lang": "en",
+    "level": "A2",
+    "pos": "noun",
+    "meaning": "温度",
+    "pron": "テンペラチュア",
+    "examples": [
+      {
+        "en": "The temperature is thirty degrees today.",
+        "ja": "今日は30度だ。"
+      },
+      {
+        "en": "She checked the temperature of the patient.",
+        "ja": "彼女は患者の体温を測った。"
+      },
+      {
+        "en": "The temperature dropped overnight.",
+        "ja": "一晩で気温が下がった。"
+      }
+    ]
+  },
+  {
+    "word": "exercise",
+    "lang": "en",
+    "level": "A2",
+    "pos": "noun",
+    "meaning": "運動",
+    "pron": "エクササイズ",
+    "examples": [
+      {
+        "en": "Exercise is good for your health.",
+        "ja": "運動は健康に良い。"
+      },
+      {
+        "en": "She does exercise every morning.",
+        "ja": "彼女は毎朝運動する。"
+      },
+      {
+        "en": "What kind of exercise do you do?",
+        "ja": "どんな運動をしますか？"
+      }
+    ]
+  },
+  {
+    "word": "illness",
+    "lang": "en",
+    "level": "A2",
+    "pos": "noun",
+    "meaning": "病気",
+    "pron": "イネス",
+    "examples": [
+      {
+        "en": "She recovered from her illness quickly.",
+        "ja": "彼女は病気から早く回復した。"
+      },
+      {
+        "en": "Stress can cause illness.",
+        "ja": "ストレスは病気の原因になる。"
+      },
+      {
+        "en": "He stayed home because of illness.",
+        "ja": "彼は病気で家にいた。"
+      }
+    ]
+  },
+  {
+    "word": "collaborate",
+    "lang": "en",
+    "level": "B1",
+    "pos": "verb",
+    "meaning": "協力する",
+    "pron": "コラボレート",
+    "examples": [
+      {
+        "en": "We need to collaborate on this project.",
+        "ja": "このプロジェクトで協力する必要がある。"
+      },
+      {
+        "en": "She collaborated with her colleague on the research.",
+        "ja": "彼女は同僚と研究で協力した。"
+      },
+      {
+        "en": "The two companies decided to collaborate.",
+        "ja": "2つの会社は協力することに決めた。"
+      }
+    ]
+  },
+  {
+    "word": "interpret",
+    "lang": "en",
+    "level": "B1",
+    "pos": "verb",
+    "meaning": "解釈する、通訳する",
+    "pron": "インタープリット",
+    "examples": [
+      {
+        "en": "How do you interpret this data?",
+        "ja": "このデータをどう解釈しますか？"
+      },
+      {
+        "en": "She interpreted the poem beautifully.",
+        "ja": "彼女は詩を美しく解釈した。"
+      },
+      {
+        "en": "He interpreted for the foreign guest.",
+        "ja": "彼は外国のお客様の通訳をした。"
+      }
+    ]
+  },
+  {
+    "word": "distribute",
+    "lang": "en",
+    "level": "B1",
+    "pos": "verb",
+    "meaning": "配布する、分配する",
+    "pron": "ディストリビュート",
+    "examples": [
+      {
+        "en": "She distributed the documents to everyone.",
+        "ja": "彼女は書類を全員に配った。"
+      },
+      {
+        "en": "The company distributes products worldwide.",
+        "ja": "会社は世界中に製品を配布している。"
+      },
+      {
+        "en": "Food was distributed to the victims.",
+        "ja": "食料が被災者に配られた。"
+      }
+    ]
+  },
+  {
+    "word": "voluntary",
+    "lang": "en",
+    "level": "B1",
+    "pos": "adjective",
+    "meaning": "自発的な",
+    "pron": "ボランタリー",
+    "examples": [
+      {
+        "en": "Participation is voluntary.",
+        "ja": "参加は自由意志だ。"
+      },
+      {
+        "en": "She does voluntary work at the hospital.",
+        "ja": "彼女は病院でボランティアをしている。"
+      },
+      {
+        "en": "The contribution was voluntary.",
+        "ja": "寄付は自発的なものだった。"
+      }
+    ]
+  },
+  {
+    "word": "substantial",
+    "lang": "en",
+    "level": "B1",
+    "pos": "adjective",
+    "meaning": "相当な、実質的な",
+    "pron": "サブスタンシャル",
+    "examples": [
+      {
+        "en": "There has been a substantial improvement.",
+        "ja": "相当な改善があった。"
+      },
+      {
+        "en": "She received a substantial raise.",
+        "ja": "彼女は相当な昇給を受けた。"
+      },
+      {
+        "en": "The project requires substantial investment.",
+        "ja": "プロジェクトには相当な投資が必要だ。"
+      }
+    ]
+  },
+  {
+    "word": "emerge",
+    "lang": "en",
+    "level": "B1",
+    "pos": "verb",
+    "meaning": "現れる、浮上する",
+    "pron": "エマージ",
+    "examples": [
+      {
+        "en": "A new leader emerged from the crisis.",
+        "ja": "危機から新しいリーダーが現れた。"
+      },
+      {
+        "en": "The truth finally emerged.",
+        "ja": "真実がついに明らかになった。"
+      },
+      {
+        "en": "New technologies are constantly emerging.",
+        "ja": "新しい技術が絶えず現れている。"
+      }
+    ]
+  },
+  {
+    "word": "assess",
+    "lang": "en",
+    "level": "B1",
+    "pos": "verb",
+    "meaning": "評価する、査定する",
+    "pron": "アセス",
+    "examples": [
+      {
+        "en": "We need to assess the situation carefully.",
+        "ja": "状況を慎重に評価する必要がある。"
+      },
+      {
+        "en": "She assessed the damage caused by the storm.",
+        "ja": "彼女は嵐による被害を評価した。"
+      },
+      {
+        "en": "Students are assessed through exams.",
+        "ja": "学生は試験で評価される。"
+      }
+    ]
+  },
+  {
+    "word": "peculiar",
+    "lang": "en",
+    "level": "B1",
+    "pos": "adjective",
+    "meaning": "独特の、奇妙な",
+    "pron": "ピキュリア",
+    "examples": [
+      {
+        "en": "She has a peculiar way of speaking.",
+        "ja": "彼女には独特の話し方がある。"
+      },
+      {
+        "en": "There was a peculiar smell in the room.",
+        "ja": "部屋には奇妙な匂いがした。"
+      },
+      {
+        "en": "This is a peculiar situation.",
+        "ja": "これは独特な状況だ。"
+      }
+    ]
+  },
+  {
+    "word": "devote",
+    "lang": "en",
+    "level": "B1",
+    "pos": "verb",
+    "meaning": "捧げる",
+    "pron": "ディヴォート",
+    "examples": [
+      {
+        "en": "She devoted her life to science.",
+        "ja": "彼女は人生を科学に捧げた。"
+      },
+      {
+        "en": "He devoted himself to his family.",
+        "ja": "彼は家族に尽くした。"
+      },
+      {
+        "en": "We should devote more time to this project.",
+        "ja": "このプロジェクトにもっと時間を捧げるべきだ。"
+      }
+    ]
+  },
+  {
+    "word": "commission",
+    "lang": "en",
+    "level": "B1",
+    "pos": "noun",
+    "meaning": "委員会、報酬",
+    "pron": "コミッション",
+    "examples": [
+      {
+        "en": "She received a commission for the sale.",
+        "ja": "彼女は販売で報酬を受け取った。"
+      },
+      {
+        "en": "The commission investigated the issue.",
+        "ja": "委員会が問題を調査した。"
+      },
+      {
+        "en": "He earned a five percent commission.",
+        "ja": "彼は5%の報酬を稼いだ。"
+      }
+    ]
+  },
+  {
+    "word": "cease",
+    "lang": "en",
+    "level": "B1",
+    "pos": "verb",
+    "meaning": "やめる、中止する",
+    "pron": "シース",
+    "examples": [
+      {
+        "en": "The rain ceased at noon.",
+        "ja": "雨は昼にやんだ。"
+      },
+      {
+        "en": "She ceased to worry about it.",
+        "ja": "彼女はもう心配しなくなった。"
+      },
+      {
+        "en": "Production ceased due to the strike.",
+        "ja": "ストライキのため生産が中止された。"
+      }
+    ]
+  },
+  {
+    "word": "conflict",
+    "lang": "en",
+    "level": "B1",
+    "pos": "noun",
+    "meaning": "衝突、対立",
+    "pron": "コンフリクト",
+    "examples": [
+      {
+        "en": "There was a conflict between the two teams.",
+        "ja": "2つのチームの間に対立があった。"
+      },
+      {
+        "en": "She tried to avoid conflict.",
+        "ja": "彼女は対立を避けようとした。"
+      },
+      {
+        "en": "The conflict was resolved through dialogue.",
+        "ja": "対立は対話を通じて解決した。"
+      }
+    ]
+  },
+  {
+    "word": "attribute",
+    "lang": "en",
+    "level": "B1",
+    "pos": "verb",
+    "meaning": "～のせいにする、帰する",
+    "pron": "アトリビュート",
+    "examples": [
+      {
+        "en": "She attributed her success to hard work.",
+        "ja": "彼女は成功を努力のおかげだと思っている。"
+      },
+      {
+        "en": "We can attribute the delay to bad weather.",
+        "ja": "遅延は悪天候のせいだ。"
+      },
+      {
+        "en": "He attributes his health to regular exercise.",
+        "ja": "彼は健康を規則的な運動のおかげだと思う。"
+      }
+    ]
+  },
+  {
+    "word": "compelling",
+    "lang": "en",
+    "level": "B1",
+    "pos": "adjective",
+    "meaning": "説得力のある",
+    "pron": "コンペリング",
+    "examples": [
+      {
+        "en": "She made a compelling argument.",
+        "ja": "彼女は説得力のある論理を展開した。"
+      },
+      {
+        "en": "The documentary was very compelling.",
+        "ja": "そのドキュメンタリーはとても説得力があった。"
+      },
+      {
+        "en": "There is compelling evidence against him.",
+        "ja": "彼に対する説得力のある証拠がある。"
+      }
+    ]
+  },
+  {
+    "word": "flourish",
+    "lang": "en",
+    "level": "B1",
+    "pos": "verb",
+    "meaning": "繁栄する",
+    "pron": "フラリッシュ",
+    "examples": [
+      {
+        "en": "The business flourished under her leadership.",
+        "ja": "彼女のリーダーシップの下でビジネスが繁栄した。"
+      },
+      {
+        "en": "The arts flourished during that period.",
+        "ja": "その時代に芸術が繁栄した。"
+      },
+      {
+        "en": "She flourished as a writer.",
+        "ja": "彼女は作家として活躍した。"
+      }
+    ]
+  },
+  {
+    "word": "articulate",
+    "lang": "en",
+    "level": "B2",
+    "pos": "verb",
+    "meaning": "明確に述べる",
+    "pron": "アーティキュレート",
+    "examples": [
+      {
+        "en": "She articulated her ideas clearly.",
+        "ja": "彼女は自分の考えを明確に述べた。"
+      },
+      {
+        "en": "He could not articulate his feelings.",
+        "ja": "彼は自分の感情を言葉にできなかった。"
+      },
+      {
+        "en": "The report articulates the main issues.",
+        "ja": "報告書は主要な問題を明確に述べている。"
+      }
+    ]
+  },
+  {
+    "word": "catalyst",
+    "lang": "en",
+    "level": "B2",
+    "pos": "noun",
+    "meaning": "触媒、促進要因",
+    "pron": "カタリスト",
+    "examples": [
+      {
+        "en": "The event was a catalyst for change.",
+        "ja": "その出来事は変化の触媒となった。"
+      },
+      {
+        "en": "She served as a catalyst for innovation.",
+        "ja": "彼女はイノベーションの促進要因となった。"
+      },
+      {
+        "en": "The new policy acted as a catalyst for growth.",
+        "ja": "新政策は成長の触媒として機能した。"
+      }
+    ]
+  },
+  {
+    "word": "consensus",
+    "lang": "en",
+    "level": "B2",
+    "pos": "noun",
+    "meaning": "合意、総意",
+    "pron": "コンセンサス",
+    "examples": [
+      {
+        "en": "We reached a consensus on the issue.",
+        "ja": "その問題について合意に達した。"
+      },
+      {
+        "en": "There is a growing consensus about climate change.",
+        "ja": "気候変動について総意が高まっている。"
+      },
+      {
+        "en": "Building consensus takes time.",
+        "ja": "合意を築くには時間がかかる。"
+      }
+    ]
+  },
+  {
+    "word": "deter",
+    "lang": "en",
+    "level": "B2",
+    "pos": "verb",
+    "meaning": "妨げる、思いとどまらせる",
+    "pron": "ディター",
+    "examples": [
+      {
+        "en": "The high price did not deter customers.",
+        "ja": "高い価格は顧客を妨げなかった。"
+      },
+      {
+        "en": "Strict laws deter crime.",
+        "ja": "厳しい法律は犯罪を抑止する。"
+      },
+      {
+        "en": "Nothing could deter her from her goal.",
+        "ja": "何も彼女を目的から思いとどまらせることはできなかった。"
+      }
+    ]
+  },
+  {
+    "word": "disposition",
+    "lang": "en",
+    "level": "B2",
+    "pos": "noun",
+    "meaning": "性質、気性",
+    "pron": "ディスポジション",
+    "examples": [
+      {
+        "en": "She has a cheerful disposition.",
+        "ja": "彼女は明るい性格だ。"
+      },
+      {
+        "en": "His disposition towards the project was positive.",
+        "ja": "彼のプロジェクトに対する姿勢は前向きだった。"
+      },
+      {
+        "en": "The court made a final disposition of the case.",
+        "ja": "裁判所は事件の最終決定を下した。"
+      }
+    ]
+  },
+  {
+    "word": "elicit",
+    "lang": "en",
+    "level": "B2",
+    "pos": "verb",
+    "meaning": "引き出す",
+    "pron": "イリシット",
+    "examples": [
+      {
+        "en": "The question elicited an interesting response.",
+        "ja": "質問は興味深い回答を引き出した。"
+      },
+      {
+        "en": "She elicited a confession from the suspect.",
+        "ja": "彼女は容疑者から自白を引き出した。"
+      },
+      {
+        "en": "The speech elicited applause from the audience.",
+        "ja": "スピーチは聴衆から拍手を引き出した。"
+      }
+    ]
+  },
+  {
+    "word": "exemplify",
+    "lang": "en",
+    "level": "B2",
+    "pos": "verb",
+    "meaning": "典型となる、例示する",
+    "pron": "エグゼンプリファイ",
+    "examples": [
+      {
+        "en": "She exemplifies the qualities of a good leader.",
+        "ja": "彼女は良いリーダーの資質を体現している。"
+      },
+      {
+        "en": "This case exemplifies the problem.",
+        "ja": "このケースは問題の典型例だ。"
+      },
+      {
+        "en": "The building exemplifies modern architecture.",
+        "ja": "その建物は現代建築の典型例だ。"
+      }
+    ]
+  },
+  {
+    "word": "inadvertent",
+    "lang": "en",
+    "level": "B2",
+    "pos": "adjective",
+    "meaning": "不注意な",
+    "pron": "インアドヴァータント",
+    "examples": [
+      {
+        "en": "The error was inadvertent.",
+        "ja": "そのエラーは不注意によるものだった。"
+      },
+      {
+        "en": "She made an inadvertent mistake.",
+        "ja": "彼女は不注意なミスをした。"
+      },
+      {
+        "en": "The disclosure was inadvertent.",
+        "ja": "情報開示は不注意によるものだった。"
+      }
+    ]
+  },
+  {
+    "word": "juxtapose",
+    "lang": "en",
+    "level": "B2",
+    "pos": "verb",
+    "meaning": "並置する",
+    "pron": "ジャクスタポーズ",
+    "examples": [
+      {
+        "en": "The artist juxtaposed light and dark.",
+        "ja": "芸術家は光と闇を対比させた。"
+      },
+      {
+        "en": "The report juxtaposes the two approaches.",
+        "ja": "報告書は2つのアプローチを対比している。"
+      },
+      {
+        "en": "She juxtaposed tradition with innovation.",
+        "ja": "彼女は伝統と革新を並置した。"
+      }
+    ]
+  },
+  {
+    "word": "mitigate",
+    "lang": "en",
+    "level": "B2",
+    "pos": "verb",
+    "meaning": "緩和する",
+    "pron": "ミティゲート",
+    "examples": [
+      {
+        "en": "Steps were taken to mitigate the damage.",
+        "ja": "被害を緩和する措置が取られた。"
+      },
+      {
+        "en": "We need to mitigate the risks.",
+        "ja": "リスクを緩和する必要がある。"
+      },
+      {
+        "en": "Planting trees helps mitigate climate change.",
+        "ja": "植林は気候変動の緩和に役立つ。"
+      }
+    ]
+  },
+  {
+    "word": "nurture",
+    "lang": "en",
+    "level": "B2",
+    "pos": "verb",
+    "meaning": "育てる、養う",
+    "pron": "ナーチャー",
+    "examples": [
+      {
+        "en": "She nurtured her talent over many years.",
+        "ja": "彼女は長年才能を育てた。"
+      },
+      {
+        "en": "Parents should nurture their children's creativity.",
+        "ja": "親は子供の創造力を育むべきだ。"
+      },
+      {
+        "en": "The company nurtures a culture of innovation.",
+        "ja": "会社はイノベーションの文化を育んでいる。"
+      }
+    ]
+  },
+  {
+    "word": "paradigm",
+    "lang": "en",
+    "level": "B2",
+    "pos": "noun",
+    "meaning": "パラダイム、範例",
+    "pron": "パラダイム",
+    "examples": [
+      {
+        "en": "This represents a paradigm shift.",
+        "ja": "これはパラダイムシフトを表している。"
+      },
+      {
+        "en": "The new approach challenges the existing paradigm.",
+        "ja": "新しいアプローチは既存のパラダイムに挑戦する。"
+      },
+      {
+        "en": "We need a new paradigm for education.",
+        "ja": "教育に新しいパラダイムが必要だ。"
+      }
+    ]
+  },
+  {
+    "word": "rationalize",
+    "lang": "en",
+    "level": "B2",
+    "pos": "verb",
+    "meaning": "合理化する",
+    "pron": "ラショナライズ",
+    "examples": [
+      {
+        "en": "She tried to rationalize her decision.",
+        "ja": "彼女は自分の決定を合理化しようとした。"
+      },
+      {
+        "en": "We need to rationalize our business processes.",
+        "ja": "ビジネスプロセスを合理化する必要がある。"
+      },
+      {
+        "en": "He rationalized his behavior after the fact.",
+        "ja": "彼は事後に行動を合理化した。"
+      }
+    ]
+  },
+  {
+    "word": "stipulate",
+    "lang": "en",
+    "level": "B2",
+    "pos": "verb",
+    "meaning": "規定する",
+    "pron": "スティピュレート",
+    "examples": [
+      {
+        "en": "The contract stipulates a payment schedule.",
+        "ja": "契約は支払いスケジュールを規定している。"
+      },
+      {
+        "en": "The law stipulates that all citizens must vote.",
+        "ja": "法律はすべての市民が投票することを規定している。"
+      },
+      {
+        "en": "The agreement stipulates the terms clearly.",
+        "ja": "合意は条件を明確に規定している。"
+      }
+    ]
+  },
+  {
+    "word": "tangible",
+    "lang": "en",
+    "level": "B2",
+    "pos": "adjective",
+    "meaning": "触れられる、具体的な",
+    "pron": "タンジブル",
+    "examples": [
+      {
+        "en": "We need tangible results.",
+        "ja": "具体的な結果が必要だ。"
+      },
+      {
+        "en": "There is no tangible evidence.",
+        "ja": "具体的な証拠はない。"
+      },
+      {
+        "en": "She made a tangible contribution to the project.",
+        "ja": "彼女はプロジェクトに具体的な貢献をした。"
+      }
+    ]
+  },
+  {
+    "word": "unanimous",
+    "lang": "en",
+    "level": "B2",
+    "pos": "adjective",
+    "meaning": "全会一致の",
+    "pron": "ユナニマス",
+    "examples": [
+      {
+        "en": "The decision was unanimous.",
+        "ja": "決定は全会一致だった。"
+      },
+      {
+        "en": "The vote was unanimous.",
+        "ja": "投票は全会一致だった。"
+      },
+      {
+        "en": "They reached a unanimous agreement.",
+        "ja": "彼らは全会一致の合意に達した。"
+      }
+    ]
+  },
+  {
+    "word": "vindicate",
+    "lang": "en",
+    "level": "B2",
+    "pos": "verb",
+    "meaning": "正当化する",
+    "pron": "ヴィンディケート",
+    "examples": [
+      {
+        "en": "The evidence vindicated her claims.",
+        "ja": "証拠は彼女の主張を正当化した。"
+      },
+      {
+        "en": "She was finally vindicated after years.",
+        "ja": "彼女は数年後にようやく正当化された。"
+      },
+      {
+        "en": "The court ruling vindicated his position.",
+        "ja": "裁判所の判決は彼の立場を正当化した。"
+      }
+    ]
+  },
+  {
+    "word": "warrant",
+    "lang": "en",
+    "level": "B2",
+    "pos": "verb",
+    "meaning": "正当化する、保証する",
+    "pron": "ウォラント",
+    "examples": [
+      {
+        "en": "The situation warrants immediate action.",
+        "ja": "状況は即時の行動を正当化する。"
+      },
+      {
+        "en": "Does this issue warrant further investigation?",
+        "ja": "この問題はさらなる調査を正当化するか？"
+      },
+      {
+        "en": "The results warrant careful consideration.",
+        "ja": "結果は慎重な検討を正当化する。"
+      }
+    ]
+  },
+  {
+    "word": "assemble",
+    "lang": "en",
+    "level": "B1",
+    "pos": "verb",
+    "meaning": "組み立てる",
+    "pron": "アセンブル",
+    "examples": [
+      {
+        "en": "She assembled the furniture herself.",
+        "ja": "彼女は家具を自分で組み立てた。"
+      },
+      {
+        "en": "The team assembled in the conference room.",
+        "ja": "チームは会議室に集合した。"
+      },
+      {
+        "en": "It takes time to assemble all the parts.",
+        "ja": "すべての部品を組み立てるには時間がかかる。"
+      }
+    ]
+  },
+  {
+    "word": "commence",
+    "lang": "en",
+    "level": "B1",
+    "pos": "verb",
+    "meaning": "始める",
+    "pron": "コメンス",
+    "examples": [
+      {
+        "en": "The ceremony will commence at noon.",
+        "ja": "式典は正午に開始される。"
+      },
+      {
+        "en": "She commenced her new job on Monday.",
+        "ja": "彼女は月曜日に新しい仕事を始めた。"
+      },
+      {
+        "en": "The course commences in September.",
+        "ja": "コースは9月に始まる。"
+      }
+    ]
+  }
+]

@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#667eea"/>
+      <stop offset="100%" style="stop-color:#764ba2"/>
+    </linearGradient>
+  </defs>
+  <rect width="512" height="512" rx="96" fill="url(#bg)"/>
+  <g transform="translate(256,256)">
+    <!-- Book body -->
+    <path d="M-60,-100 L-60,100 C-60,100 -20,80 0,80 C20,80 60,100 60,100 L60,-100 C60,-100 20,-120 0,-120 C-20,-120 -60,-100 -60,-100Z" fill="none" stroke="white" stroke-width="12" stroke-linejoin="round"/>
+    <!-- Book spine -->
+    <line x1="0" y1="-120" x2="0" y2="80" stroke="white" stroke-width="8"/>
+    <!-- Text lines on left page -->
+    <line x1="-45" y1="-60" x2="-12" y2="-60" stroke="white" stroke-width="6" stroke-linecap="round" opacity="0.7"/>
+    <line x1="-45" y1="-35" x2="-12" y2="-35" stroke="white" stroke-width="6" stroke-linecap="round" opacity="0.7"/>
+    <line x1="-45" y1="-10" x2="-30" y2="-10" stroke="white" stroke-width="6" stroke-linecap="round" opacity="0.7"/>
+    <!-- A letter on right page -->
+    <text x="30" y="-30" font-family="serif" font-size="60" font-weight="bold" fill="white" text-anchor="middle" opacity="0.9">A</text>
+  </g>
+</svg>

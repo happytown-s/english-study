@@ -1,73 +1,56 @@
-# React + TypeScript + Vite
+# English Study
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+> TOEIC対策と英語語彙学習のWebアプリケーション
 
-Currently, two official plugins are available:
+## Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+- TOEIC対策クイズ -- Part 5/6/7対応の実践問題
+- 語彙学習 -- 300語のフラッシュカード形式
+- 学習進捗管理 -- localStorageによる解答履歴の記録
+- ダークテーマUI -- 紫系グラデーションのダークスキーム
 
-## React Compiler
+## Contents
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+### Quiz（TOEIC対策）
+- 210問
+- カテゴリ一覧（問題数）:
+  - 文法・語彙: 40
+  - 短文穴埋め Part5: 35
+  - ビジネス会話: 35
+  - 読解 Part7: 35
+  - ビジネス文書: 35
+  - 長文穴埋め Part6: 30
+- クイズモード: カテゴリ選択、ランダム出題、解説表示
 
-## Expanding the ESLint configuration
+### Vocabulary（語彙学習）
+- 300問
+- フラッシュカード形式での学習
 
-If you are developing a production application, we recommend updating the configuration to enable type-aware lint rules:
+### Progress（進捗管理）
+- 解答履歴と正答率の確認
 
-```js
-export default defineConfig([
-  globalIgnores(['dist']),
-  {
-    files: ['**/*.{ts,tsx}'],
-    extends: [
-      // Other configs...
+## Tech Stack
 
-      // Remove tseslint.configs.recommended and replace with this
-      tseslint.configs.recommendedTypeChecked,
-      // Alternatively, use this for stricter rules
-      tseslint.configs.strictTypeChecked,
-      // Optionally, add this for stylistic rules
-      tseslint.configs.stylisticTypeChecked,
+- React 19 + TypeScript
+- Vite（ビルドツール）
+- Tailwind CSS（スタイリング）
+- localStorage（進捗データ永続化）
 
-      // Other configs...
-    ],
-    languageOptions: {
-      parserOptions: {
-        project: ['./tsconfig.node.json', './tsconfig.app.json'],
-        tsconfigRootDir: import.meta.dirname,
-      },
-      // other options...
-    },
-  },
-])
+## Usage
+
+```bash
+npm install
+npm run dev
 ```
 
-You can also install [eslint-plugin-react-x](https://github.com/Rel1cx/eslint-react/tree/main/packages/plugins/eslint-plugin-react-x) and [eslint-plugin-react-dom](https://github.com/Rel1cx/eslint-react/tree/main/packages/plugins/eslint-plugin-react-dom) for React-specific lint rules:
+ブラウザで `http://localhost:5173` にアクセス。
 
-```js
-// eslint.config.js
-import reactX from 'eslint-plugin-react-x'
-import reactDom from 'eslint-plugin-react-dom'
+## Deployment
 
-export default defineConfig([
-  globalIgnores(['dist']),
-  {
-    files: ['**/*.{ts,tsx}'],
-    extends: [
-      // Other configs...
-      // Enable lint rules for React
-      reactX.configs['recommended-typescript'],
-      // Enable lint rules for React DOM
-      reactDom.configs.recommended,
-    ],
-    languageOptions: {
-      parserOptions: {
-        project: ['./tsconfig.node.json', './tsconfig.app.json'],
-        tsconfigRootDir: import.meta.dirname,
-      },
-      // other options...
-    },
-  },
-])
+```bash
+npm run build
 ```
+
+`dist/` ディレクトリを任意の静的ホスティングサービスにデプロイ。
+
+## License: MIT
